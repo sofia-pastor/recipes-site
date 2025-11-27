@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Panquecas com tâmaras e frutos secos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/7a8f53ab5457140575e5d30eb6987ddf/Derivates/96c1beb34debe6acb36871b065cb869811c11110.jpg",
+
+    "tags": ["pequeno-almoço", "lanche"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "cooking": 10,
+      "total": 15
+    },
+
+    "servings": [12],
+
+    "rate": 4.6,
+
+    "ingredients": [
+      {
+        "name": "amêndoa crua",
+        "quantity": 50,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "avelã",
+            "quantity": 50,
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "noz pecan",
+        "quantity": 50,
+        "unit": "g",
+        "note": "partida em metades",
+        "substitutes": [
+          {
+            "name": "noz",
+            "quantity": 50,
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "manteiga",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "banana doce madura",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "ovo",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "bebida de amêndoa",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar baunilhado",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "farinha de trigo",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "flocos de aveia",
+        "quantity": 75,
+        "unit": "g"
+      },
+      {
+        "name": "fermento em pó p/ bolos",
+        "quantity": 2,
+        "unit": "c. chá"
+      },
+      {
+        "name": "canela em pó",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "tâmaras s/ caroço",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortada em cubos (0,5cm)",
+        "substitutes": [
+          {
+            "name": "fruta seca variada, cortada em cubos (0,5cm)",
+            "quantity": 100,
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "queijo-creme",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "unit": "q.b.",
+        "note": "para untar"
+      }
+    ],
+    "instructions": [
+      "Coloque no copo a amêndoa e a noz e pique 10 seg/vel 7. Retire e reserve.",
+      "Coloque no copo a manteiga e derreta 2 min/70°C/vel 1.",
+      "Adicione a banana, o ovo, a bebida e o açúcar baunilhado e misture 10 seg/vel 5.",
+      "Adicione a farinha, os flocos de aveia, o fermento e a canela e misture 30 seg/vel 5.",
+      "Adicione os frutos secos reservados, as tâmaras e o queijo-creme e misture 30 seg/vel 4.",
+      "Unte com manteiga uma frigideira e aqueça em lume médio. Coloque uma concha de massa na frigideira e frite 1-2 minutos ou até aparecerem bolhas à superfície da panqueca. Vire a panqueca, frite por mais 1 minuto, retire e repita até terminar a massa. Sirva de seguida."
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r818929"
+  },
+
+  {
+    "name": "Puré de legumes com alecrim",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/a2bb1bf5-6345-4091-aaf5-21c144c434e1/Derivates/75a34fcd-1da1-4296-8785-d00bd6d190d9.jpg",
+
+    "tags": ["acompanhamento"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "cooking": 30,
+      "total": 45
+    },
+
+    "servings": [6],
+
+    "rate": 4.8,
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortada em pedaços (2-3cm aprox.)"
+      },
+      {
+        "name": "batata",
+        "quantity": 500,
+        "unit": "g",
+        "note": "cortada em pedaços (2-3cm aprox.)"
+      },
+      {
+        "name": "batata-doce",
+        "quantity": 500,
+        "unit": "g",
+        "note": "cortada em pedaços (2-3cm aprox.)"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": "1-2",
+        "unit": "pitadas"
+      },
+      {
+        "name": "alecrim seco",
+        "quantity": "2-3",
+        "unit": "pitadas",
+        "note": "mais q.b. p/ guarnecer"
+      },
+      {
+        "name": "azeite",
+        "quantity": 30,
+        "unit": "g",
+        "note": "mais q.b. p/ temperar"
+      }
+    ],
+    "instructions": [
+      "Coloque no copo a água e o cesto com a cenoura. Coloque a Varoma com a batata e a batata-doce e coza 30 min/Varoma/vel 1. Retire a Varoma e o cesto com a ajuda da espátula e reserve. Descarte a água.",
+      "Insira a borboleta. Coloque no copo os legumes cozidos, o sal, a pimenta, o alecrim e o azeite e bata 30 seg/vel 3.5. Retire, guarneça com alecrim, tempere com azeite e sirva de seguida.",
+      "Se necessário, para uma textura mais homogénea, bata mais 15-20 segundos."
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r750840"
+  },
+
+  {
+    "name": "Puré de fruta com iogurte e cereais",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/3A19DE43-AD01-4E31-B902-12C249FEBE70/Derivates/2A168FD2-061E-423A-8EB4-62A86906F0F3.jpg",
+
+    "tags": ["pequeno-almoço", "lanche"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "cooking": 30,
+      "total": 45
+    },
+
+    "servings": [6],
+
+    "rate": 4.9,
+
+    "ingredients": [
+      {
+        "name": "farinha",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "flocos de aveia",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "canela em pó",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "miolo de noz",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "pêra rocha",
+        "quantity": 1000,
+        "unit": "g",
+        "note": "madura, cortada em pedaços"
+      },
+      {
+        "name": "laranja",
+        "quantity": 1,
+        "unit": "un",
+        "note": "raspa e sumo"
+      },
+      {
+        "name": "iogurte grego",
+        "quantity": 720,
+        "unit": "g"
+      }
+    ],
+    "instructions": [
+      "Pré-aqueça o forno a 180ºC. Forre com papel vegetal um tabuleiro de forno e reserve.",
+      "Coloque no copo a farinha, o açúcar, a manteiga, a aveia, a canela e o miolo de noz e pique 30 seg/vel 4. Distribua sobre o tabuleiro e leve ao forno a 180ºC cerca de 8 minutos ou até dourar.",
+      "Coloque no copo a pera, 25 g de sumo e a raspa da laranja e coza 15 min/100°C/vel 2.",
+      "De seguida triture 5 seg/vel 7. Retire e deixe arrefecer. Coloque em pequenos frascos uma camada de puré de fruta, depois outra de iogurte e finalize com o crumble."
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r49630"
+  },
+  {
+    "name": "Requentado",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2710e7a13e01b25575b10d90fee0df99/Derivates/9d26e6b5911bd89a0caa4b45b8d10090f98eb4a2.jpg",
+
+    "tags": ["almoço", "jantar", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "cooking": 30,
+      "total": 35
+    },
+
+    "servings": [4, 8],
+
+    "rate": 5.0,
+
+    "ingredients": [
+      {
+        "name": "sobras de sopa",
+        "quantity": 1000,
+        "unit": "g",
+        "note": "de feijão e couve portuguesa"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": 4,
+        "unit": "un",
+        "note": "laminados"
+      },
+      {
+        "name": "broa de milho",
+        "quantity": 500,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo as sobras da sopa e aqueça 10 min/100°C//vel 🥄.",
+      "Adicione o alho, o azeite e a broa de milho e cozinhe 20 min/100°C/↪️/vel 1. Sirva de seguida, acompanhado de bacalhau assado.",
+      "Coloque no copo a pera, 25 g de sumo e a raspa da laranja e coza 15 min/100°C/vel 2.",
+      "De seguida triture 5 seg/vel 7. Retire e deixe arrefecer. Coloque em pequenos frascos uma camada de puré de fruta, depois outra de iogurte e finalize com o crumble."
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r4306"
+  },
+
+  {
+    "name": "Sopa alentejana com camarão e ovo escalcado",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/1148E477-393B-4B0C-AA4D-1AB7F830064A/Derivates/a0a9fe61-33e9-4a84-9763-f5ce0758021e.jpg",
+
+    "tags": ["sopas", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "cooking": 25,
+      "total": 30
+    },
+
+    "servings": [6],
+
+    "rate": 4.0,
+
+    "ingredients": [
+      {
+        "name": "azeite",
+        "quantity": 100,
+        "unit": "g",
+        "note": "mais q.b. p/ pincelar"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": 4,
+        "unit": "un"
+      },
+      {
+        "name": "coentros",
+        "quantity": 30,
+        "unit": "g",
+        "note": "mais q.b. p/ guarnecer"
+      },
+      {
+        "name": "água",
+        "quantity": 1500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "vinagre de vinho branco",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "ovos",
+        "quantity": 6,
+        "unit": "un"
+      },
+      {
+        "name": "miolo de camarão",
+        "quantity": "600",
+        "unit": "g",
+        "note": "(60/80)"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo o azeite, o alho e os coentros e pique 2 seg/vel 7.",
+
+      "Coloque no copo o azeite, o alho e os coentros e pique 2 seg/vel 7.",
+      "Deite 3 ovos, um a um e escalfe 2 min 30 seg/120°C/vel 1. Retire o cesto com a ajuda da espátula e mantenha o caldo no copo. Deixe escorrer os ovos sobre uma folha de papel absorvente.",
+      "Coloque no copo o cesto pincelado com azeite e aqueça 3 min/120°C/vel 1.",
+      "Deite 3 ovos, um a um e escalfe 2 min 30 seg/120°C/vel 1. Retire o cesto com a ajuda da espátula e mantenha o caldo no copo. Deixe escorrer os ovos sobre uma folha de papel absorvente.",
+      "Adicione no copo o camarão e cozinhe 1 min/120°C/↪️/vel 🥄. Disponha os ovos no fundo de um prato de servir e cubra suavemente com o caldo. Guarneça com folhas de coentros e sirva de seguida."
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r406458"
+  }
+]
