@@ -328,7 +328,7 @@
   },
 
   {
-    "name": "Sopa alentejana com camarão e ovo escalcado",
+    "name": "Sopa alentejana com camarão e ovo escalfado",
 
     "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/1148E477-393B-4B0C-AA4D-1AB7F830064A/Derivates/a0a9fe61-33e9-4a84-9763-f5ce0758021e.jpg",
 
@@ -403,5 +403,3550 @@
     ],
 
     "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r406458"
+  },
+
+  {
+    "name": "Muffins de panquecas com banana e chocolate",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/dd27cfd337915a5adb8c6f266f6f3804/Derivates/4cb89bbc95f6fe63ba63d831d476001985e0b935.jpg",
+
+    "tags": ["pequeno-almoço", "lanche"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "cooking": 20,
+      "total": 30
+    },
+
+    "servings": [2, 4],
+
+    "rate": 5.0,
+
+    "ingredients": [
+      {
+        "name": "pepitas de chocolate",
+        "quantity": 15,
+        "unit": "g"
+      },
+      {
+        "name": "banana",
+        "quantity": 20,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "ovo",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 20,
+        "unit": "g",
+        "note": "mais q.b. p/ untar"
+      },
+      {
+        "name": "leite",
+        "quantity": 65,
+        "unit": "g"
+      },
+      {
+        "name": "extrato de baunilha",
+        "quantity": "1/4",
+        "unit": "c. chá"
+      },
+      {
+        "name": "farinha",
+        "quantity": 65,
+        "unit": "g",
+        "note": "mais q.b. p/ polvilhar"
+      },
+      {
+        "name": "fermento em pó p/ bolos",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "água",
+        "quantity": 420,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar em pó",
+        "note": "mais q.b. p/ polvilhar"
+      }
+    ],
+
+    "instructions": [
+      "Unte com manteiga e polvilhe com farinha 2 frascos de vidro resistentes ao calor (Ø 7 cm, 4-5 cm de altura aprox.). Distribua pelos copos o chocolate e a banana e reserve.",
+      "Coloque no copo o ovo, o açúcar, a manteiga, o leite, a baunilha, a farinha e o fermento e misture 20 seg/vel 4. Envolva com a ajuda da espátula. Retire, distribua a massa pelos copos reservados e reserve.",
+      "Coloque no copo a água. Coloque a Varoma com os copos reservados e coza 25 min/Varoma/vel 1. Retire a Varoma.",
+      "Polvilhe com açúcar em pó e sirva de seguida.",
+      "Pode substituir a banana por frutos vermelhos ou outra fruta."
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r766233"
+  },
+
+  {
+    "name": "Velouté d'aubergine",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/4eeede5add1f0923249406b0203fd6cb/Derivates/867f1b6edad404acc1640460135423f782fb80b0.jpg",
+
+    "tags": ["sopas", "entradas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "cooking": 35,
+      "total": 45
+    },
+
+    "servings": [4, 6],
+
+    "rate": 4.3,
+
+    "ingredients": [
+      {
+        "name": "gousses d'ail",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "échalotes",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "aubergines",
+        "quantity": 500,
+        "unit": "g",
+        "note": "en cubes"
+      },
+      {
+        "name": "huile d'olive",
+        "quantity": 50,
+        "unit": "g",
+        "note": "et un peu pour la finition"
+      },
+      {
+        "name": "bouillon de légumes",
+        "quantity": 1,
+        "unit": "cube",
+        "note": "émietté"
+      },
+      {
+        "name": "eau",
+        "quantity": 800,
+        "unit": "g"
+      },
+      {
+        "name": "millet en grains",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "sel",
+        "quantity": "1/2",
+        "unit": "c. café"
+      },
+      {
+        "name": "poivre moulu",
+        "quantity": 3,
+        "unit": "pincées"
+      },
+      {
+        "name": "jus de citron vert, fraîchement pressé",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "crème liquide 30-40% m.g.",
+        "quantity": 200,
+        "unit": "g",
+        "note": "et un peu pour la finition"
+      },
+      {
+        "name": "coriandre fraîche",
+        "note": "ciselée, pour la finition"
+      }
+    ],
+
+    "instructions": [
+      "Mettre l'ail, les échalotes et les cubes d'aubergine dans le bol, puis hacher 5 sec/vitesse 7. Racler les parois du bol à l'aide de la spatule.",
+      "Ajouter l'huile d'olive et faire revenir 5 min/120°C/vitesse 1.",
+      "Ajouter l'huile d'olive et faire revenir 5 min/120°C/vitesse 1.",
+      "Ajouter la crème liquide et activer le mode mixage /1 min. Verser la soupe dans 4 bols ou assiettes creuses. Arroser d'un filet d'huile d'olive, de jus de citron vert et d'un trait de crème liquide, puis garnir de coriandre. Servir aussitôt."
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r822987"
+  },
+
+  {
+    "name": "Papas de millet",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/015CB977-329F-4DE1-815D-60FE801C2AE6/Derivates/49ad0484-ffa0-4fc7-bc9a-1974a6d3861e.jpg",
+
+    "tags": ["pequeno-almoço", "lanche"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "cooking": 25,
+      "total": 30
+    },
+
+    "servings": [1],
+
+    "rate": 3.8,
+
+    "ingredients": [
+      {
+        "name": "milho painço",
+        "quantity": 60,
+        "unit": "g",
+        "note": "lavado e escorrido"
+      },
+      {
+        "name": "água",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pau de canela",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "casca de limão",
+        "quantity": 1,
+        "unit": "tira",
+        "note": "só a parte amarela"
+      },
+      {
+        "name": "coco ralado",
+        "quantity": 5,
+        "unit": "g"
+      },
+      {
+        "name": "bebida vegetal de coco",
+        "quantity": 180,
+        "unit": "g",
+        "note": "ou outra bebida vegetal"
+      },
+      {
+        "name": "leite de coco",
+        "quantity": 45,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 15,
+        "unit": "g",
+        "note": "de frutos secos"
+      },
+      {
+        "name": "geleia de arroz",
+        "quantity": 10,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "mel",
+            "quantity": 10,
+            "unit": "g"
+          }
+        ],
+        "note": "opcional"
+      }
+    ],
+
+    "instructions": [
+      "Insira a borboleta. Coloque no copo o milho, a água, o pau de canela, uma tira da casca de limão e o coco ralado e cozinhe 10 min/100°C//vel . Envolva bem com a ajuda da espátula.",
+      "Adicione a bebida vegetal de coco e o leite de coco e cozinhe 15 min/90°C//vel 1.",
+      "Adicione a manteiga de frutos secos e a geleia de arroz e envolva 20 seg/vel 1. Retire e sirva quente."
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r152495"
+  },
+  {
+    "name": "Amêijoas com pescada, camarão e molho de coentros",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/AD6C2330-65B5-477E-A455-B79134D470E3/Derivates/dc2ea1e1-0022-40c4-9eae-0d6ae705ad98.jpg",
+
+    "tags": ["peixe", "almoço", "jantar", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "cooking": 165,
+      "total": 180
+    },
+
+    "servings": [4],
+
+    "rate": 4.8,
+
+    "ingredients": [
+      {
+        "name": "amêijoa",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 3,
+        "unit": "c. chá"
+      },
+      {
+        "name": "azeite",
+        "quantity": 35,
+        "unit": "g"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "cebola",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "vinho branco",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 300,
+        "unit": "g",
+        "note": "mais q.b. p/ demolhar"
+      },
+      {
+        "name": "caldo de marisco",
+        "quantity": "1/2",
+        "unit": "cubo"
+      },
+      {
+        "name": "posta de pescada",
+        "quantity": 800,
+        "unit": "g"
+      },
+      {
+        "name": "folha de louro",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "camarão com casca",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "farinha tipo 65",
+        "quantity": 25,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "quantity": 20,
+        "unit": "g",
+        "note": "cortados em pedaços"
+      }
+    ],
+
+    "instructions": [
+      "Coloque um recipiente sobre a tampa da Bimby®, pese a amêijoa, cubra com água, adicione 2 c. de chá de sal e deixe demolhar cerca de 2 horas para libertar a areia. Escorra com a ajuda da Varoma e reserve.",
+      "Coloque no copo o azeite, o alho e a cebola, pique 5 seg/vel 5 e refogue 5 min/120°C/vel 1.",
+      "Adicione o vinho, a água e o caldo de marisco. Coloque o cesto com a pescada e o louro, tempere com 1 c. de chá de sal e a pimenta e coza 20 min/Varoma/vel 1.",
+      "Adicione a Varoma com a amêijoa e o camarão e coza 8 min/Varoma/vel 1. Retire a Varoma e o cesto com a ajuda da espátula. Mantenha o molho no copo. Retire a casca e as cabeças do camarão e a pele e as espinhas à pescada. Envolva com a amêijoa e mantenha quente.",
+      "Adicione no copo a farinha e os coentros e cozinhe 6 min/100°C/vel 4. Retire, deite sobre a mistura de peixe e marisco e sirva de seguida com arroz."
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r475397"
+  },
+
+  {
+    "name": "Molho de noz com legumes crus",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/feee5ee3-a0c0-4ce0-af15-ed6886295209/Derivates/c6d6d00b-20d5-4cab-b4ee-343cd076bfad.jpg",
+
+    "tags": ["molhos"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 5
+    },
+
+    "servings": [4],
+
+    "rate": 4.7,
+
+    "ingredients": [
+      {
+        "name": "dente de alho",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "miolo de noz",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "mistura de ervas aromáticas secas",
+        "quantity": 1,
+        "unit": "c. sopa",
+        "note": "(manjericão, orégãos, tomilho, rosmaninho, etc.)"
+      },
+      {
+        "name": "azeite",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "bebida de aveia",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "mistura de legumes crus",
+        "quantity": 150,
+        "unit": "g",
+        "note": "(cenoura, aipo, pimento, pepino, etc.), cortados em palitos"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo o alho e a noz e pique 10 seg/vel 8.",
+      "Adicione a mistura de ervas, o azeite, a bebida de aveia e o sal e misture 20 seg/vel 4. Sirva de seguida com os legumes."
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r621324"
+  },
+
+  {
+    "name": "Fusilli com legume e nozes",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/D2DA7D66-A60E-4F36-84C1-16CB69A76B69/Derivates/0DBFA8DE-FFD8-4847-AD50-FE5CB6B8E295.jpg",
+
+    "tags": ["massas", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "cooking": 30,
+      "total": 40
+    },
+
+    "servings": [6],
+
+    "rate": 4.3,
+
+    "ingredients": [
+      {
+        "name": "dentes de alho",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "azeite",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "alho francês",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortado às rodelas"
+      },
+      {
+        "name": "cenoura",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortada às rodelas finas"
+      },
+      {
+        "name": "curgete",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortada às rodelas"
+      },
+      {
+        "name": "cogumelos frescos",
+        "quantity": 100,
+        "unit": "g",
+        "note": "laminados"
+      },
+      {
+        "name": "molho se soja",
+        "quantity": 20,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "molho inglês",
+            "quantity": 20,
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "água",
+        "quantity": 1500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 2,
+        "unit": "c. chá"
+      },
+      {
+        "name": "massa tipo fusilli",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de noz",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho",
+        "note": "picado q.b. p/servir"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo o alho e 30 g de azeite e pique 3 seg/vel 8.",
+      "Adicione o alho-francês e refogue 5 min/120°C/vel 1.",
+      "Insira a borboleta. Adicione no copo a cenoura, a curgete, os cogumelos e o molho de soja e cozinhe 10 min/100°C//vel . Retire e reserve.",
+      "Retire a borboleta. Coloque no copo a água, o sal e 10 g de azeite e aqueça 10 min/120°C/vel 1.",
+      "Adicione a massa e coza o tempo indicado na embalagem 100°C//vel . Retire e escorra com a ajuda da Varoma. Envolva a massa com os legumes reservados e o miolo de noz e sirva de seguida polvilhada com cebolinho picado."
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r52064"
+  },
+
+  {
+    "name": "Mil-folhas de maçã com creme de canónigos e noz",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/9de39144-15f7-4140-941e-b0c477b14201/Derivates/60f30b9a-34a7-4491-ad1b-53319dd80b63.jpg",
+
+    "tags": ["entradas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "cooking": 5,
+      "total": 15
+    },
+
+    "servings": [6],
+
+    "rate": 4.5,
+
+    "ingredients": [
+      {
+        "name": "maçãs",
+        "quantity": 2,
+        "unit": "un",
+        "note": "200g cada aprox."
+      },
+      {
+        "name": "vinagre balsâmico",
+        "quantity": 1,
+        "unit": "c. sopa",
+        "substitutes": [
+          {
+            "name": "vinagre",
+            "quantity": 1,
+            "unit": "c. sopa"
+          }
+        ]
+      },
+      {
+        "name": "noz",
+        "quantity": 80,
+        "unit": "g",
+        "note": "Pode substituir a noz por sementes, para isso salte o passo 2 e adicione as sementes no passo 5."
+      },
+      {
+        "name": "dente de alho",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "queijo-creme",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "natas azedas (20% gordura)",
+        "quantity": 50,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "iogurte grego",
+            "quantity": 50,
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "sal",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "canónigos",
+        "quantity": 150,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "espinafres baby frescos",
+            "quantity": 150,
+            "unit": "g"
+          }
+        ]
+      }
+    ],
+
+    "instructions": [
+      "Com uma faca afiada, corte as maçãs em rodelas (9 fatias com 3-4 mm por maçã). Reserve as extremidades e o núcleo. Pincele os dois lados das 18 rodelas com vinagre balsâmico e reserve.",
+      "Coloque no copo a noz e pique 3 seg/vel 6. Retire e reserve.",
+      "Coloque no copo o alho, as extremidades e o núcleo da maçã reservado e pique 5 seg/vel 7. Baixe com a ajuda da espátula o que ficou na parede do copo.",
+      "Adicione o queijo-creme, as natas, o sal e a pimenta e misture 10 seg/vel 3. Baixe com a ajuda da espátula o que ficou na parede do copo.",
+      "Adicione 70 g da noz reservada e os canónigos e misture 1 min//vel 3.5.",
+      "Coloque 1 rodela de maçã reservada num prato, espalhe com a ajuda de uma colher de chá uma porção do creme reservado e cubra com uma segunda rodela de maçã. Repita de modo a obter 3 camadas de maçã e 6 unidades. Guarneça com folhas de canónigos e polvilhe com a restante noz (ver dica). Sirva de seguida ou reserve no frigorífico até servir."
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r750813"
+  },
+
+  {
+    "name": "Doce de abóbora e noz",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/fa6cd377abd3bd377f4a7565b1e87e45/Derivates/b62ab5eb71b5e7852aca7992672bc9e32134f1af.jpg",
+
+    "tags": ["doces"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": "9h"
+    },
+
+    "servings": ["550g", "1020g"],
+
+    "rate": 5,
+
+    "ingredients": [
+      {
+        "name": "noz",
+        "quantity": 25,
+        "unit": "g",
+        "note": "partida grosseiramente"
+      },
+      {
+        "name": "água",
+        "quantity": 160,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora-menina",
+        "quantity": 350,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "acúcar",
+        "quantity": 350,
+        "unit": "g"
+      },
+      {
+        "name": "pau de canela",
+        "quantity": 1,
+        "unit": "un"
+      }
+    ],
+
+    "instructions": [
+      "De véspera, coloque um recipiente sobre a tampa da Bimby®, pese a noz e reserve.",
+      "Coloque no copo a água e aqueça 2 min 20 seg/100°C/vel 1. Retire, deite sobre a noz e reserve cerca de 8-12 horas.",
+      "Coloque no copo a abóbora e o açúcar e triture 15 seg/vel 7.",
+      "Adicione a canela. Coloque a Varoma sobre a tampa e cozinhe 26 min/120°C/vel 1.",
+      "Adicione a noz escorrida e envolva com a ajuda da espátula. Coloque a Varoma sobre a tampa e cozinhe 4 min/120°C//vel 1. Verifique a consistência do doce (ver dica). Retire para frascos previamente esterilizados com tampa hermética e feche de imediato. Vire os frascos ao contrário até arrefecerem. Guarde num local fresco e seco até ao momento de servir."
+    ],
+
+    "tips": [
+      {
+        "title": "Validade",
+        "text": [
+          "Na despensa, antes de abrir, 6 meses.",
+          "No frigorífico, depois de abrir, 15 dias."
+        ]
+      },
+      {
+        "title": "Verifique o ponto",
+        "text": [
+          "No final do tempo, verifique a consistência do doce, coloque cerca de 1 c. de chá de doce num prato bem frio, deixe arrefecer e depois empurre com o dedo. Se a superfície do doce enrugar está pronto. Se o doce não tiver a consistência desejada programe mais 5-10 min/Varoma/vel 1, coloque a Varoma sem a tampa para melhor evaporação do líquido."
+        ]
+      },
+      {
+        "title": "Saiba como esterilizar frascos",
+        "text": [
+          "Escalde os frascos em água quente cerca de 10 minutos ou aqueça-os no forno pré-aquecido a 100°C, cerca de 10 minutos. Deve enchê-los ainda mornos."
+        ]
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r780741"
+  },
+
+  {
+    "name": "Tarte rápida com gorgonzola, pera e nozes",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/686a0156de62df1aa0f5c4412a0e0210/Derivates/244d9b62809b1a7ef86d01ad14d9e3c87c6e3880.jpg",
+
+    "tags": ["entradas", "sobremesas"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 15,
+      "total": 35
+    },
+
+    "servings": [4],
+
+    "rate": 5,
+
+    "ingredients": [
+      {
+        "name": "farinha",
+        "quantity": 220,
+        "unit": "g",
+        "note": "mais q.b. p/ polvilhar"
+      },
+      {
+        "name": "azeite",
+        "quantity": 15,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 125,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "acúcar",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "noz",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "alface",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pera",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortada em metadas verticalmente"
+      },
+      {
+        "name": "crème-fraîche",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "queijo Gorgonzola",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "rúcula",
+        "quantity": 15,
+        "unit": "g"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r795829"
+  },
+
+  {
+    "name": "Embrulhos de salmão e espinafres com arroz de cenoura",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/4BBA6035-FFB6-4A03-9652-9BB05A33CA3B/Derivates/c75dabc7-3119-47ad-a94e-296ab4d88500.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "total": 80
+    },
+
+    "servings": [6],
+
+    "rate": 4.6,
+
+    "ingredients": [
+      {
+        "name": "manteiga",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pepino",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortado em pedaços"
+      },
+      {
+        "name": "limão",
+        "unit": "1/2",
+        "note": "raspa e sumo"
+      },
+      {
+        "name": "salsa",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "iogurte grego",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 35,
+        "unit": "g"
+      },
+      {
+        "name": "dente de alho",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "espinafres descongelados",
+        "quantity": 600,
+        "unit": "g",
+        "note": "bem espremidos"
+      },
+      {
+        "name": "sal",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "pimenta",
+        "unit": "q.b."
+      },
+      {
+        "name": "queijo feta",
+        "quantity": 100,
+        "unit": "g",
+        "note": "esfarelado"
+      },
+      {
+        "name": "massa filo",
+        "quantity": 12,
+        "unit": "folhas"
+      },
+      {
+        "name": "filetes de salmão",
+        "quantity": 6,
+        "unit": "un",
+        "note": "(650g aprox.)"
+      },
+      {
+        "name": "azeite",
+        "quantity": 35,
+        "unit": "g"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "cenoura",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "salsa",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 1200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "arroz agulha",
+        "quantity": 350,
+        "unit": "g"
+      },
+      {
+        "name": "folha de louro",
+        "quantity": 1,
+        "unit": "un"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r366660"
+  },
+
+  {
+    "name": "Lombinhos de porco com coentros e limão e cuscuz com bacon",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/0D45F792-BDA6-4DBC-A618-AD67E2B4F3B1/Derivates/BC67C9E0-AAE0-40CA-AF16-56462A18BFCA.jpg",
+
+    "tags": ["carne", "acompanhamento", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 45
+    },
+
+    "servings": [3, 6, 9],
+
+    "rate": 4.0,
+
+    "ingredients": [
+      {
+        "name": "coentros",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "mostarda",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "1 1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "sumo de limão",
+        "quantity": 35,
+        "unit": "g"
+      },
+      {
+        "name": "lombinhos de porco",
+        "quantity": 2,
+        "unit": "un",
+        "note": "(400g cada aprox.)"
+      },
+      {
+        "name": "água",
+        "quantity": 800,
+        "unit": "g"
+      },
+      {
+        "name": "cuscuz",
+        "quantity": 350,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 25,
+        "unit": "g"
+      },
+      {
+        "name": "bacon",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortado em tiras finas"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r65872"
+  },
+
+  {
+    "name": "Cuscuz mediterrânico",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/76C3CE36-BBA9-4213-82AF-EE437712CBA4/Derivates/0a93d198633b17b4992801268aa086afe155650b.jpg",
+
+    "tags": ["acompanhamento", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 10
+    },
+
+    "servings": [2, 4, 6],
+
+    "rate": 4.5,
+
+    "ingredients": [
+      {
+        "name": "miolo de noz",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "tomate seco, em óleo",
+        "quantity": 50,
+        "unit": "g",
+        "note": "escorrido"
+      },
+      {
+        "name": "cuscuz",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alecrim",
+        "quantity": 1,
+        "unit": "c. chá",
+        "note": "só as folhas"
+      },
+      {
+        "name": "caldo de legumes",
+        "quantity": "1/2",
+        "unit": "c. chá",
+        "substitutes": [
+          {
+            "name": "caldo de legumes",
+            "quantity": "1/2",
+            "unit": "cubo"
+          }
+        ]
+      },
+      {
+        "name": "requeijão",
+        "quantity": 170,
+        "unit": "g",
+        "note": "esfarelado"
+      },
+      {
+        "name": "azeitonas pretas s/ caroço",
+        "quantity": 30,
+        "unit": "g",
+        "note": "cortadas às rodelas"
+      },
+      {
+        "name": "rúcula",
+        "quantity": "q.b."
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41449"
+  },
+
+  {
+    "name": "Crumble de maçã e noz vegan com passas e rum",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/76C3CE36-BBA9-4213-82AF-EE437712CBA4/Derivates/0a93d198633b17b4992801268aa086afe155650b.jpg",
+
+    "tags": ["doces", "sobremesas"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 25,
+      "total": "9h"
+    },
+
+    "servings": [6],
+
+    "rate": null,
+
+    "ingredients": [
+      {
+        "name": "passa de uva",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "rum",
+        "quantity": 25,
+        "unit": "g"
+      },
+      {
+        "name": "avelã",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "margatina vegetal",
+        "quantity": 100,
+        "unit": "g",
+        "note": "fria, em pedaços, mais q.b. p/ untar"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "maçã biológica",
+        "quantity": 600,
+        "unit": "g",
+        "note": "cortada em quartos"
+      },
+      {
+        "name": "sumo de limão",
+        "quantity": 10,
+        "unit": "g",
+        "note": "(1/2 unid aprox.)"
+      },
+      {
+        "name": "canela em pó",
+        "quantity": 1,
+        "unit": "c. chá"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r908510"
+  },
+
+  {
+    "name": "Doce de pêssego e leite condensado",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/9ba1ec4b708e9d8c63363bdc97a8f9dc/Derivates/297fbd47beb3aee0f95a9ced482e921f3866cb41.jpg",
+
+    "tags": ["doces", "sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 30
+    },
+
+    "servings": [6],
+
+    "rate": 4.4,
+
+    "ingredients": [
+      {
+        "name": "manteiga s/ sal",
+        "quantity": 60,
+        "unit": "g",
+        "note": "cortada em pedaços (2 cm)"
+      },
+      {
+        "name": "bolachas",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "leite condensado",
+        "quantity": 6,
+        "unit": "c. sopa"
+      },
+      {
+        "name": "pêssego em lata",
+        "quantity": 240,
+        "unit": "g",
+        "note": "cortado em cubos (1 cm)"
+      },
+      {
+        "name": "natas c/ 35% de gordura",
+        "quantity": 400,
+        "unit": "g"
+      },
+      {
+        "name": "queijo-creme",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar em pó",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "raspas de chocolate",
+        "quantity": "q.b.",
+        "note": "p/ guarnecer"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r801912"
+  },
+  {
+    "name": "Sobremesa de abóbora com crocante de noz",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/A8EA94ED-622C-43B2-8AA0-D1BABE75B2D7/Derivates/F5BF8671-C54D-482C-9AF4-795CFB57F60A.jpg",
+
+    "tags": ["doces", "sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "total": 90
+    },
+
+    "servings": [6],
+
+    "rate": 4.3,
+
+    "ingredients": [
+      {
+        "name": "noz",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga s/ sal",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "natas",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar amarelo",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora",
+        "quantity": 750,
+        "unit": "g",
+        "note": "(manteiga ou Hokkaido, etc.), cortada em pedaços"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cravinhos",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "sumo de laranja",
+        "quantity": 40,
+        "unit": "g",
+        "note": "(1 unid aprox.)",
+        "substitutes": [
+          {
+            "name": "sumo de limão",
+            "quantity": 30,
+            "unit": "g",
+            "note": "(1 unid aprox.)"
+          }
+        ]
+      },
+      {
+        "name": "bolachas de manteiga",
+        "quantity": 5,
+        "unit": "un"
+      },
+      {
+        "name": "kaymak",
+        "quantity": 150,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "crème-fraîche",
+            "quantity": 150,
+            "unit": "g"
+          }
+        ]
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r774460"
+  },
+
+  {
+    "name": "Sobremesa de ananás com merengue",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/64f739bfbcdae917d2849080d7be72a6/Derivates/c58468da174c18f47ddb45d18de62a96ad02e2cd.jpg",
+
+    "tags": ["doces", "sobremesas"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 15,
+      "total": 25
+    },
+
+    "servings": [4],
+
+    "rate": 5.0,
+
+    "ingredients": [
+      {
+        "name": "bolacha digestiva",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 85,
+        "unit": "g"
+      },
+      {
+        "name": "ananás em calda",
+        "quantity": 80,
+        "unit": "g",
+        "note": "(cortado em pedaços)"
+      },
+      {
+        "name": "ovos",
+        "quantity": 4,
+        "unit": "un"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 215,
+        "unit": "g"
+      },
+      {
+        "name": "amido de milho",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "sumo de limão",
+        "quantity": 1,
+        "unit": "c. chá"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r925571"
+  },
+
+  {
+    "name": "Clafoutis de frutos silvestres",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/BF16F4BE-43A9-4CA9-95BF-793044F906D6/Derivates/FC9304D6-3F9E-4323-859B-E7AEBF0C9375.jpg",
+
+    "tags": ["doces", "sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 25,
+      "total": 30
+    },
+
+    "servings": [8],
+
+    "rate": 4.1,
+
+    "ingredients": [
+      {
+        "name": "manteiga",
+        "quantity": "q.b.",
+        "note": "p/ untar"
+      },
+      {
+        "name": "frutos silvestres frescos",
+        "quantity": 600,
+        "unit": "g"
+      },
+      {
+        "name": "ovos",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "açúcar light",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "extrato de baunilha",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "leite magro",
+        "quantity": 240,
+        "unit": "g"
+      },
+      {
+        "name": "farinha tipo 55",
+        "quantity": 100,
+        "unit": "g",
+        "note": "mais q.b. p/ polvilhar"
+      },
+      {
+        "name": "fermento em pó p/ bolos",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "açúcar em pó",
+        "quantity": "q.b.",
+        "note": "p/ polvilhar"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r253823"
+  },
+
+  {
+    "name": "Panquecas com queijo de barrar",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/323888BE-759B-48FE-A79A-CA833F0AA24C/Derivates/D5674BA2-C714-4A4B-B0B1-8F8C8F584DAA.jpg",
+
+    "tags": ["pequeno-almoço", "lanche"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 20,
+      "total": 20
+    },
+
+    "servings": [14],
+
+    "rate": 4.7,
+
+    "ingredients": [
+      {
+        "name": "claras de ovo",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "sal",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 50,
+        "unit": "g",
+        "note": "mais q.b. p/ untar"
+      },
+      {
+        "name": "leite",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 25,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "fermento p/ bolos",
+        "quantity": 2,
+        "unit": "c. chá"
+      },
+      {
+        "name": "limão",
+        "quantity": 1,
+        "unit": "un",
+        "note": "só a raspa"
+      },
+      {
+        "name": "queijo-creme",
+        "quantity": "q.b.",
+        "note": "p/ servir"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r20314"
+  },
+
+  {
+    "name": "Crepes de maçã e canela",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/0B4FEFC0-4A5E-4649-B432-BF86E6416046/Derivates/dbd4b06b-3792-4d9a-bd41-dca6d729c80d.jpg",
+
+    "tags": ["pequeno-almoço", "lanche"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 20,
+      "total": 30
+    },
+
+    "servings": [12],
+
+    "rate": 4.2,
+
+    "ingredients": [
+      {
+        "name": "maçã reineta",
+        "quantity": 500,
+        "unit": "g",
+        "note": "cortada em cubos pequenos"
+      },
+      {
+        "name": "açúcar amarelo",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "bebida de amêndoa",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "amido de milho",
+        "quantity": 5,
+        "unit": "g"
+      },
+      {
+        "name": "canela em pó",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "sementes de linhaça",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "banana",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "flocos de aveia",
+        "quantity": 90,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de arroz",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "amido de milho",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar mascavado",
+        "quantity": 25,
+        "unit": "g"
+      },
+      {
+        "name": "fermento p/ bolos",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "bebida de amêndoa",
+        "quantity": 450,
+        "unit": "g"
+      },
+      {
+        "name": "sumo de limão",
+        "quantity": 5,
+        "unit": "gotas"
+      },
+      {
+        "name": "manteiga",
+        "quantity": "q.b.",
+        "note": "p/ untar"
+      },
+      {
+        "name": "açúcar em pó",
+        "quantity": "q.b.",
+        "note": "p/ polvilhar"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r536401"
+  },
+
+  {
+    "name": "Panquecas de limão com recheio de queijo e framboesa",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/DA039477-C0C3-48AF-8430-DD44E964AA51/Derivates/E9BF3700-8405-48F2-8DC5-69E2B1F977A7.jpg",
+
+    "tags": ["pequeno-almoço", "lanche"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 20
+    },
+
+    "servings": [10],
+
+    "rate": 4.6,
+
+    "ingredients": [
+      {
+        "name": "leite",
+        "quantity": 240,
+        "unit": "g"
+      },
+      {
+        "name": "sumo de limão",
+        "quantity": 60,
+        "unit": "g",
+        "note": "(2 unid aprox.)"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 50,
+        "unit": "g",
+        "note": "mais q.b. p/ untar"
+      },
+      {
+        "name": "ovo",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "farinha de trigo",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "farinha integral",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar amarelo",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "fermento p/ bolos",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "bicarbonato de sódio",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "sementes de papoila",
+        "quantity": 15,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "queijo mascarpone",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "framboesas",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sumo de limão",
+        "quantity": 10,
+        "unit": "g",
+        "note": "(1/2 unid aprox.)"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r111502"
+  },
+
+  {
+    "name": "Bolo de milho com queijo",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/3580e0fcabb856a0793dce24c8be71cb/Derivates/0250d2f6a519be0acde92a910ec4127b81481766.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 90
+    },
+
+    "servings": [12],
+
+    "rate": 3.7,
+
+    "ingredients": [
+      {
+        "name": "manteiga",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "queijo meia-cura",
+        "quantity": 300,
+        "unit": "g",
+        "note": "em pedaços"
+      },
+      {
+        "name": "milho verde de lata",
+        "quantity": 170,
+        "unit": "g",
+        "note": "escorrido (1 lata)"
+      },
+      {
+        "name": "ovos",
+        "quantity": 3,
+        "unit": "un"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "leite",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "fubá de milho",
+        "quantity": 80,
+        "unit": "g",
+        "note": "mimoso"
+      },
+      {
+        "name": "farinha de trigo",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "fermento químico em pó",
+        "quantity": 10,
+        "unit": "g"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r903996"
+  },
+
+  {
+    "name": "Pâtes au pesto, tomates cerise et basilic",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/c5e277a4f361c70587276d517769a8eb/Derivates/23bbd2253c6b077923ba8c92a0a1b9ac166f50d6.jpg",
+
+    "tags": ["massas", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 15,
+      "total": 35
+    },
+
+    "servings": [4],
+
+    "rate": 4.3,
+
+    "ingredients": [
+      {
+        "name": "parmesan râpé",
+        "quantity": 60,
+        "unit": "g",
+        "note": "et un peu pour la finition"
+      },
+      {
+        "name": "pignons de pin",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "gousse d'ail",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "feuilles de basilic frais",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "huile d'olive",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "sel",
+        "quantity": "1/2",
+        "unit": "c. café"
+      },
+      {
+        "name": "tomates cerise",
+        "quantity": 500,
+        "unit": "g",
+        "note": "en grappes"
+      },
+      {
+        "name": "huile d'olive",
+        "quantity": 2,
+        "unit": "c. soupe"
+      },
+      {
+        "name": "cumin en poudre",
+        "quantity": 1,
+        "unit": "c. café"
+      },
+      {
+        "name": "eau",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "pâtes sèches, type trofie",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r819602"
+  },
+
+  {
+    "name": "Soupe vietnamienne aux crevettes",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/17253fb278ee056998ecb71b0a7a3527/Derivates/2287552fb56c21040a42c504ca6cdf32af942654.jpg",
+
+    "tags": ["massas", "refeições", "asiático"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 30
+    },
+
+    "servings": [4],
+
+    "rate": 4.4,
+
+    "ingredients": [
+      {
+        "name": "gingembre frais",
+        "quantity": 5,
+        "unit": "g"
+      },
+      {
+        "name": "échalote",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": "en quartiers"
+      },
+      {
+        "name": "blanc de poireau",
+        "quantity": 1,
+        "unit": "un",
+        "note": "en tronçons"
+      },
+      {
+        "name": "eau",
+        "quantity": 800,
+        "unit": "g"
+      },
+      {
+        "name": "huile neutre",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "piment doux",
+        "quantity": "1",
+        "unit": "c. café"
+      },
+      {
+        "name": "bouillon de légumes",
+        "quantity": 1,
+        "unit": "cube"
+      },
+      {
+        "name": "jus de citron vert",
+        "quantity": 1,
+        "unit": "c. soupe"
+      },
+      {
+        "name": "du sel"
+      },
+      {
+        "name": "du poivre moulu"
+      },
+      {
+        "name": "crevettes crues de taille moyenne, décortiquées",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": " champignons de Paris frais",
+        "quantity": 200,
+        "unit": "g",
+        "note": "en fines lamelles"
+      },
+      {
+        "name": "petits pois surgelés",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "vermicelles de riz",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "brins de coriandre fraîches"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r819462"
+  },
+
+  {
+    "name": "Linguine alle vongole",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/51d91fd042c6e857529d747d86b46409/Derivates/f78fb385fb1221334d599ba91f5f1d2f612bd2af.jpg",
+
+    "tags": ["massas", "refeições", "asiático"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 30
+    },
+
+    "servings": [4],
+
+    "rate": 4.4,
+
+    "ingredients": [
+      {
+        "name": "gingembre frais",
+        "quantity": 5,
+        "unit": "g"
+      },
+      {
+        "name": "échalote",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": "en quartiers"
+      },
+      {
+        "name": "blanc de poireau",
+        "quantity": 1,
+        "unit": "un",
+        "note": "en tronçons"
+      },
+      {
+        "name": "eau",
+        "quantity": 800,
+        "unit": "g"
+      },
+      {
+        "name": "huile neutre",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "piment doux",
+        "quantity": "1",
+        "unit": "c. café"
+      },
+      {
+        "name": "bouillon de légumes",
+        "quantity": 1,
+        "unit": "cube"
+      },
+      {
+        "name": "jus de citron vert",
+        "quantity": 1,
+        "unit": "c. soupe"
+      },
+      {
+        "name": "du sel"
+      },
+      {
+        "name": "du poivre moulu"
+      },
+      {
+        "name": "crevettes crues de taille moyenne, décortiquées",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": " champignons de Paris frais",
+        "quantity": 200,
+        "unit": "g",
+        "note": "en fines lamelles"
+      },
+      {
+        "name": "petits pois surgelés",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "vermicelles de riz",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "brins de coriandre fraîches"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r819462"
+  },
+
+  {
+    "name": "Magret de canard aux pommes et blé",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/571f6aa2c0a0c4a27c75162c3ae05d5f/Derivates/8fd61185a213fa7a911ef50f3648bf1f54a06ab8.jpg",
+
+    "tags": ["carne", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 15,
+      "total": 65
+    },
+
+    "servings": [4],
+
+    "rate": 3.0,
+
+    "ingredients": [
+      {
+        "name": " sauce de soja",
+        "quantity": 3,
+        "unit": "c. café"
+      },
+      {
+        "name": "miel liquide",
+        "quantity": 2,
+        "unit": "c. soupe"
+      },
+      {
+        "name": "vinaigre de cidre",
+        "quantity": 2,
+        "unit": "c. café"
+      },
+      {
+        "name": "ciboule",
+        "quantity": 1,
+        "unit": "un",
+        "note": "émincée"
+      },
+      {
+        "name": "aiguillettes de canard",
+        "quantity": 420,
+        "unit": "g"
+      },
+      {
+        "name": "eau",
+        "quantity": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sel",
+        "quantity": 2,
+        "unit": "pincées"
+      },
+      {
+        "name": "pommes",
+        "quantity": 2,
+        "unit": "un",
+        "note": "de petite taille, en tranches d'1 cm"
+      },
+      {
+        "name": "du sel"
+      },
+      {
+        "name": "du poivre moulu"
+      },
+      {
+        "name": "blé précuit",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "amandes décortiquées",
+        "quantity": 30,
+        "unit": "g",
+        "note": "concassées"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r819254"
+  },
+
+  {
+    "name": "Aula de cozinha Boas-vindas",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/307d8f5bc22c257ec85a7a2ee50e9aeb/Derivates/c08dfb9d2b7fb90eb7e4706a4810e217ad4eca2f.jpg",
+
+    "tags": ["refeições", "outros"],
+
+    "devices": ["TM7"],
+
+    "time": {
+      "preparation": "12h",
+      "total": "2h"
+    },
+
+    "servings": ["1 receita completa"],
+
+    "rate": 5.0,
+
+    "ingredients": [
+      {
+        "name": "pão de água"
+      },
+      {
+        "name": "mexilhões à marinheiro"
+      },
+      {
+        "name": "manteiga"
+      },
+      {
+        "name": "maionese"
+      },
+      {
+        "name": "tomatada"
+      },
+      {
+        "name": "gelado"
+      },
+      {
+        "name": "batatas fritas saudáveis"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r926244"
+  },
+
+  {
+    "name": "Minestrone d'hiver",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/15068429cfe6c357ffb9a813c5fc44bc/Derivates/7ee39c2eb84653ece9e526d8cce29db002dddd24.jpg",
+
+    "tags": ["sopa", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 25,
+      "total": 70
+    },
+
+    "servings": [4],
+
+    "rate": 4.3,
+
+    "ingredients": [
+      {
+        "name": "oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": "coupé en quatre"
+      },
+      {
+        "name": "huile d'olive",
+        "quantity": 1,
+        "unit": "c. soupe"
+      },
+      {
+        "name": "lardons fumés",
+        "quantity": 75,
+        "unit": "g"
+      },
+      {
+        "name": "panais",
+        "quantity": 120,
+        "unit": "g",
+        "note": "en petits cubes"
+      },
+      {
+        "name": "carottes",
+        "quantity": 150,
+        "unit": "g",
+        "note": "en petits cubes"
+      },
+      {
+        "name": "céleri",
+        "quantity": 1,
+        "unit": "branche",
+        "note": "émincée"
+      },
+      {
+        "name": "chou blanc",
+        "quantity": 150,
+        "unit": "g",
+        "note": "émincé"
+      },
+      {
+        "name": "blanc de poireau",
+        "quantity": 50,
+        "unit": "g",
+        "note": "en rondelles (1poireau)"
+      },
+      {
+        "name": "eau",
+        "quantity": 900,
+        "unit": "g",
+        "note": "et une grande quantité pour les pâtes"
+      },
+      {
+        "name": "laurier",
+        "quantity": 1,
+        "unit": "feuille"
+      },
+      {
+        "name": "romarin frais",
+        "quantity": 1,
+        "unit": "brin"
+      },
+      {
+        "name": "thym frais",
+        "quantity": 3,
+        "unit": "branches"
+      },
+      { "name": "du sel" },
+      { "name": "du poivre moulu" },
+      {
+        "name": "pommes",
+        "quantity": 200,
+        "unit": "g",
+        "note": "en petits cubes"
+      },
+      {
+        "name": "courge butternut",
+        "quantity": 150,
+        "unit": "g",
+        "note": "en petits cubes"
+      },
+      {
+        "name": "petites pâtes sèches",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "haricots blancs",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cuits, égouttés"
+      },
+      {
+        "name": "pecorino",
+        "quantity": 50,
+        "unit": "g",
+        "note": "râpé"
+      },
+      {
+        "name": "persil frais",
+        "quantity": 10,
+        "unit": "brins",
+        "note": "équeutés"
+      },
+      {
+        "name": "cerfeuil frais",
+        "quantity": 10,
+        "unit": "brins",
+        "note": "équeutés"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r766502"
+  },
+
+  {
+    "name": "2 purés de peixe - introdução da couve, da beringela, do grão e dos cogumelos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/BCF4E5CE-6E7D-45B1-A221-76C96E071718/Derivates/630485C0-F066-48D1-92B1-5174893F0DAC.jpg",
+
+    "tags": ["peixe", "acompanhamento", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 40
+    },
+
+    "servings": [6],
+
+    "rate": 5.0,
+
+    "ingredients": [
+      {
+        "name": "batata-doce",
+        "quantity": 300,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "cebola",
+        "quantity": 300,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "curgete",
+        "quantity": 400,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "água",
+        "quantity": 400,
+        "unit": "g"
+      },
+      {
+        "name": "couve-chinesa",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "beringela",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "filetes de pescada",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelos frescos",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "grão de bico cozido",
+        "quantity": 30,
+        "unit": "g",
+        "note": "escorrido"
+      },
+      {
+        "name": "filete de dourada",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "azeite extra virgem",
+        "quantity": 30,
+        "unit": "g",
+        "note": "(0,2% acidez)"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r108330"
+  },
+
+  {
+    "name": "Puré de carne e espinafres",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/AA3F45D7-6A75-46CD-9A49-14E82A918D03/Derivates/BBABA6F0-1293-4494-B442-837306329E5C.jpg",
+
+    "tags": ["carne", "acompanhamento", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 30
+    },
+
+    "servings": [4],
+
+    "rate": 3.5,
+
+    "ingredients": [
+      {
+        "name": "batata",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "carne de vitela s/ nervos",
+        "quantity": 160,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 600,
+        "unit": "g"
+      },
+      {
+        "name": "espinafres",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "flocos de aveia",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "azeite extra virgem",
+        "quantity": 2,
+        "unit": "c. chá"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r113043"
+  },
+  {
+    "name": "Puré de legumes com carne",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/AC1F9101-D964-4CE6-AD58-1D23588A52FC/Derivates/227c71b0-dd4f-484e-8505-acbe212eabe8.jpg",
+
+    "tags": ["carne", "acompanhamento", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 40
+    },
+
+    "servings": [1],
+
+    "rate": 4.1,
+
+    "ingredients": [
+      {
+        "name": "batata",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "feijão verde",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "carne de vitela",
+        "quantity": 30,
+        "unit": "g",
+        "note": "ou borrego",
+        "substitutes": [
+          {
+            "name": "carne de fango s/ osso e s/ pele",
+            "quantity": 30,
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "água",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "azeite",
+        "quantity": "q.b.",
+        "note": "p/ envolver"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r315367"
+  },
+
+  {
+    "name": "O 1º puré de carne",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/E30C0318-F265-4DBD-8DAB-CDABF6DE2085/Derivates/6E49B4CA-BA83-413F-85B9-4E6F841BB42D.jpg",
+
+    "tags": ["carne", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 30
+    },
+
+    "servings": [3],
+
+    "rate": 5.0,
+
+    "ingredients": [
+      {
+        "name": "alho-francês",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortado em pedaços"
+      },
+      {
+        "name": "cenoura",
+        "quantity": 250,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "batata-doce",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "carne de vitela s/ nervos",
+        "quantity": 60,
+        "unit": "g",
+        "note": "cortada em cubos"
+      },
+      {
+        "name": "água",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "azeite extra virgem",
+        "quantity": 3,
+        "unit": "c. chá",
+        "note": "(0,2% acidez) p/ servir"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r108321"
+  },
+
+  {
+    "name": "Choquinhos à Bolhão Pato",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/E2147E5A-B2AE-44BF-97F8-6579A1BD9EBA/Derivates/617DE5E5-8C2B-49B4-95B5-740B861B0C59.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 30
+    },
+
+    "servings": [4],
+
+    "rate": 4.5,
+
+    "ingredients": [
+      {
+        "name": "coentros",
+        "quantity": 15,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "quantity": 10,
+        "unit": "dentes"
+      },
+      {
+        "name": "azeite",
+        "quantity": 70,
+        "unit": "g"
+      },
+      {
+        "name": "chocos limpos",
+        "quantity": 1000,
+        "unit": "g",
+        "note": "descongelados e bem escorridos"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "vinho branco",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "sumo de limão",
+        "quantity": 20,
+        "unit": "g",
+        "note": "(1/2 unid. aprox.)"
+      },
+      {
+        "name": "fatias de pão",
+        "quantity": "q.b.",
+        "note": "p/ servir torrado"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r54031"
+  },
+
+  {
+    "name": "Choquinhos salteados com batata a murro",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/84A62B7C-1185-4981-A0A3-4CEB6A2BE328/Derivates/65b41be6-82dd-4a0a-aede-301d2311b125.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 60
+    },
+
+    "servings": [2],
+
+    "rate": 4.3,
+
+    "ingredients": [
+      {
+        "name": "salsa",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 2,
+        "unit": "c. chá"
+      },
+      {
+        "name": "batatinhas novas",
+        "quantity": 600,
+        "unit": "g"
+      },
+      {
+        "name": "choquinhos limpos",
+        "quantity": 400,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "azeite",
+        "quantity": 80,
+        "unit": "g",
+        "note": "mais q.b. p/ regar"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r144720"
+  },
+
+  {
+    "name": "Amêijoas à Bimby",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/FD0629E3-181B-4C0F-B96B-99B868605149/Derivates/05e688dc0768541a1d0ec3c40d89705ced415e85.jpg",
+
+    "tags": ["peixe", "entradas", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 150
+    },
+
+    "servings": [2, 4],
+
+    "rate": 4.5,
+
+    "ingredients": [
+      {
+        "name": "amêijoa",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "note": "mais q.b. p/ demolhar"
+      },
+      {
+        "name": "sal",
+        "quantity": 2,
+        "unit": "c. sopa"
+      },
+      {
+        "name": "salsa",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "vinho branco",
+        "quantity": 220,
+        "unit": "g"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r51334"
+  },
+
+  {
+    "name": "Peru com molho de cogumelos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/83665b4b-be21-4a8c-9edf-6a478c6f60ba/Derivates/6071eec9-da6f-4cf0-9b84-6aff47ea0dc7.jpg",
+
+    "tags": ["carne", "molhos", "refeições"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 40,
+      "total": 40
+    },
+
+    "servings": [4],
+
+    "rate": 4.1,
+
+    "ingredients": [
+      {
+        "name": "salsa",
+        "quantity": 3,
+        "unit": "pés"
+      },
+      {
+        "name": "alho",
+        "quantity": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "quantity": 30,
+        "unit": "g",
+        "note": "mais 1-2 c. sopa p/ fritar"
+      },
+      {
+        "name": "cogumelos frescos",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortado em pedaços"
+      },
+      {
+        "name": "leite",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "quantity": 20,
+        "unit": "g",
+        "note": "mais q.b. p/ panar"
+      },
+      {
+        "name": "sal marinho",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": 2,
+        "unit": "pitada"
+      },
+      {
+        "name": "noz-moscada",
+        "quantity": 2,
+        "unit": "pitadas"
+      },
+      {
+        "name": "bifes de peru",
+        "quantity": 600,
+        "unit": "g",
+        "note": "cortada em cubos (3-4cm aprox.)"
+      },
+      {
+        "name": "alecrim",
+        "quantity": 2,
+        "unit": "pés"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r704830"
+  },
+
+  {
+    "name": "Queques de baunilha com doce de framboesa",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/4BA2348B-7F7B-42BA-9963-FF58FB5577FF/Derivates/b7dfa5f3-afce-4c5d-a17f-ad9c48429411.jpg",
+
+    "tags": ["lanche", "sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 20,
+      "total": 60
+    },
+
+    "servings": [6],
+
+    "rate": 4.5,
+
+    "ingredients": [
+      {
+        "name": "doce de framboesa",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga s/ sal",
+        "quantity": 90,
+        "unit": "g",
+        "note": "à temperatura ambiente, mais q.b. p/ untar"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 70,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar baunilhado",
+        "quantity": 2,
+        "unit": "c. chá"
+      },
+      {
+        "name": "ovos",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "farinha tipo 55",
+        "quantity": 90,
+        "unit": "g"
+      },
+      {
+        "name": "leite",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "fermento em pó p/ bolos",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "água",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Gelado",
+        "quantity": "q.b. p/servir"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r768509"
+  },
+
+  {
+    "name": "Mini cheesecakes com manga",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/CB4DCFA3-0B15-4D6E-B7D7-64E7ABB0F650/Derivates/2abf4659-6487-40f8-a091-57bd5198d8a8.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "total": 155
+    },
+
+    "servings": [6],
+
+    "rate": 4.7,
+
+    "ingredients": [
+      {
+        "name": "bolacha digestiva",
+        "quantity": 75,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga s/ sal",
+        "quantity": 20,
+        "unit": "g",
+        "note": "mais q.b. p/ untar"
+      },
+      {
+        "name": "queijo-creme",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "queijo para barrar magro",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "ovo",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 85,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar baunilhado",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "manga madura",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "água",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sumo de limão",
+        "quantity": "1-2",
+        "unit": "c. chá"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r768508"
+  },
+
+  {
+    "name": "Mini muffins de salmão a vapor",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/41308A6C-5B6C-4B80-8963-99D73FA84FC0/Derivates/d4236110-bea4-4807-aa2d-1ce772f723cf.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "total": 45
+    },
+
+    "servings": [6],
+
+    "rate": 3.5,
+
+    "ingredients": [
+      {
+        "name": "azeite",
+        "quantity": "q.b. p/ untar"
+      },
+      {
+        "name": "queijo parmesão",
+        "quantity": 40,
+        "unit": "g",
+        "note": "em pedaços"
+      },
+      {
+        "name": "aneto fresco",
+        "quantity": 2,
+        "unit": "pés"
+      },
+      {
+        "name": "salmão fumado",
+        "quantity": 250,
+        "unit": "g",
+        "note": "cortado em fatias"
+      },
+      {
+        "name": "ovos",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "leite",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "fermento em pó p/ bolos",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "pimenta",
+        "quantity": "2-3",
+        "unit": "pitadas"
+      },
+      {
+        "name": "água",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r768502"
+  },
+
+  {
+    "name": "Mini pizas a vapor",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/CD1A2312-1CAD-4144-8996-ECBA095A4F41/Derivates/33c58074-5ad9-479a-aa87-73d67278176e.jpg",
+
+    "tags": ["pizzas", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "total": 60
+    },
+
+    "servings": [6],
+
+    "rate": 4.3,
+
+    "ingredients": [
+      {
+        "name": "queijo Gouda",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "quantity": 130,
+        "unit": "g"
+      },
+      {
+        "name": "leite",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "fermento em pó p/ bolos",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "azeite",
+        "quantity": 5,
+        "unit": "g",
+        "note": "mais q.b. p/ untar"
+      },
+      {
+        "name": "sal",
+        "quantity": "1-2",
+        "unit": "pitadas"
+      },
+      {
+        "name": "fermento de padeiro fresco",
+        "quantity": 5,
+        "unit": "g"
+      },
+      {
+        "name": "molho de tomate",
+        "quantity": 6,
+        "unit": "c. chá",
+        "note": "caseiro (90g aprox.)"
+      },
+      {
+        "name": "ervas de Provence",
+        "quantity": 6,
+        "unit": "pitadas",
+        "substitutes": [
+          {
+            "name": "óregãos",
+            "quantity": 6,
+            "unit": "pitadas"
+          }
+        ]
+      },
+      {
+        "name": "água",
+        "quantity": 700,
+        "unit": "g"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r768501"
+  },
+
+  {
+    "name": "Ovos com bacon e pimentos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/BF1474BD-F5BB-4E31-A78A-1072424989D2/Derivates/ca92c3cd-009b-476a-93b6-2fbf7e383bff.jpg",
+
+    "tags": ["refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "total": 35
+    },
+
+    "servings": [6],
+
+    "rate": 4.7,
+
+    "ingredients": [
+      {
+        "name": "azeite",
+        "quantity": "q.b. p/ untar"
+      },
+      {
+        "name": "bacon fumado",
+        "quantity": 12,
+        "unit": "fatias"
+      },
+      {
+        "name": "pimentos",
+        "quantity": 3,
+        "unit": "un",
+        "note": "em conserva, escorridos cortados em tiras (5 mm aprox.)"
+      },
+      {
+        "name": "azeitonas pretas s/ caroço (opcional)",
+        "quantity": 6,
+        "unit": "un",
+        "note": "cortadas em metades"
+      },
+      {
+        "name": "ovos",
+        "quantity": 6,
+        "unit": "un"
+      },
+      {
+        "name": "sal",
+        "quantity": "6",
+        "unit": "pitadas"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 6,
+        "unit": "pitadas"
+      },
+      {
+        "name": "água",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r765380"
+  },
+
+  {
+    "name": "Sopa alentejana",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/174141C5-43E4-47C7-B890-021E793E2FE0/Derivates/bf9b3554-f962-4e08-90e2-55dfbec907b5.jpg",
+
+    "tags": ["refeições", "sopas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 30
+    },
+
+    "servings": [6],
+
+    "rate": 4.6,
+
+    "ingredients": [
+      {
+        "name": "ovos",
+        "quantity": 6,
+        "unit": "un"
+      },
+      {
+        "name": "alho",
+        "quantity": 3,
+        "unit": "dentes"
+      },
+      {
+        "name": "coentros",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 100,
+        "unit": "g",
+        "note": "mais q.b. p/ pincelar"
+      },
+      {
+        "name": "água",
+        "quantity": 1500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "fatias pão alentejano",
+        "quantity": "q.b.",
+        "note": "p/ servir"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r315291"
+  },
+
+  {
+    "name": "Miniquiches com base de fiambre",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/1d3c31fbd006fa70c23ceaa73c71348d/Derivates/cd37d482308f3deecfbe92d3a1d3608c5e538a37.jpg",
+
+    "tags": ["refeições", "quiches"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 35
+    },
+
+    "servings": [6, 12],
+
+    "rate": 4.5,
+
+    "ingredients": [
+      {
+        "name": "azeite",
+        "quantity": "q.b. p/ untar"
+      },
+      {
+        "name": "fiambre",
+        "quantity": 12,
+        "unit": "fatias",
+        "note": "inteiras (corte médio)",
+        "substitutes": [
+          {
+            "name": "fiambre de aves",
+            "quatity": 12,
+            "unit": "fatias"
+          }
+        ]
+      },
+      {
+        "name": "queijo flamengo",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "quantity": 180,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "ovos",
+        "quantity": 4,
+        "unit": "un"
+      },
+      {
+        "name": "iogurte natural",
+        "quantity": 240,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "leite",
+            "quatity": 240,
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "cebolinho",
+        "note": "picado q.b. p/ guarnecer"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r131734"
+  },
+
+  {
+    "name": "Penne mediterrânico",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/4D945596-2C41-44C0-98DE-6B24D828C1E0/Derivates/2E712BC7-E089-4390-AB45-7CF472FE57CA.jpg",
+
+    "tags": ["refeições", "massas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 15,
+      "total": 50
+    },
+
+    "servings": [4],
+
+    "rate": 3.8,
+
+    "ingredients": [
+      {
+        "name": "limão",
+        "quantity": "1/2",
+        "unit": "un",
+        "note": "casca, só a parte amarela e sumo"
+      },
+      {
+        "name": "coentros",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "pinhões",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "1-2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "curgete",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cortada em cubos"
+      },
+      {
+        "name": "beringela",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortada em cubos"
+      },
+      {
+        "name": "cebola branca",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cortada em pedaços pequenos"
+      },
+      {
+        "name": "cogumelos frescos",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortada em quartos"
+      },
+      {
+        "name": "tomate-cereja",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cortada em quartos"
+      },
+      {
+        "name": "azeitonas pretas s/ caroço",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 2,
+        "unit": "c. chá"
+      },
+      {
+        "name": "cebola",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "tomate seco, em óleo",
+        "quantity": 50,
+        "unit": "g",
+        "note": "escorrido"
+      },
+      {
+        "name": "azeite",
+        "quantity": 35,
+        "unit": "g"
+      },
+      {
+        "name": "tomate em pedaços",
+        "quantity": 350,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 950,
+        "unit": "g"
+      },
+      {
+        "name": "massa tipo penne",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r114717"
   }
 ]
