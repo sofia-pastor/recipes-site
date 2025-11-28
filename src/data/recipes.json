@@ -3948,5 +3948,249 @@
     ],
 
     "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r114717"
+  },
+
+  {
+    "name": "Empada de cozido à portuguesa",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/73dafffb9f804c356897811b3307adec/Derivates/eb4440cb75becfd2b493d8bd14638022c6b0d2fd.jpg",
+
+    "tags": ["refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 30,
+      "total": 130
+    },
+
+    "servings": [10],
+
+    "rate": 4.8,
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 1150,
+        "unit": "g"
+      },
+      {
+        "name": "couve portuguesa",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "carne de vaca",
+        "quantity": 250,
+        "unit": "g",
+        "note": "s/ nervos, cortada em cubos pequenos"
+      },
+      {
+        "name": "entremeada",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cortada em pedaços pequenos"
+      },
+      {
+        "name": "chouriço",
+        "quantity": 140,
+        "unit": "g",
+        "note": "s/ pele, cortado em pedaços"
+      },
+      {
+        "name": "sal",
+        "quantity": 2,
+        "unit": "c. chá"
+      },
+      {
+        "name": "cenoura",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cortada em cubos"
+      },
+      {
+        "name": "nabo",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cortado em cubos"
+      },
+      {
+        "name": "peito de frango",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortada em pedaços pequenos"
+      },
+      {
+        "name": "alheira",
+        "quantity": "1/2",
+        "unit": "un"
+      },
+      {
+        "name": "farinheira",
+        "quantity": "1/2",
+        "unit": "un"
+      },
+      {
+        "name": "chouriço de sangue",
+        "quantity": "1/2",
+        "unit": "un"
+      },
+      {
+        "name": "farinha",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "noz-moscada",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "massa folhada",
+        "quantity": 550,
+        "unit": "g"
+      },
+      {
+        "name": "ovo",
+        "quantity": 1,
+        "unit": "un",
+        "note": "batido p/ pincelar"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r111759"
+  },
+
+  {
+    "name": "Salada de penne com pepino e atum",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/DB17B9A1-F20B-4B23-A59A-4C677954E0BD/Derivates/72dec408-bfb6-4423-9e84-754a9b443013.jpg",
+
+    "tags": ["refeições", "massas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 50
+    },
+
+    "servings": [4],
+
+    "rate": 3.5,
+
+    "ingredients": [
+      {
+        "name": "dente de alho",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "azeite",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 640,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "massa tipo penne",
+        "quantity": 320,
+        "unit": "g"
+      },
+      {
+        "name": "atum em lata",
+        "quantity": 200,
+        "unit": "g",
+        "note": "escorrido"
+      },
+      {
+        "name": "sumo de limão",
+        "quantity": 50,
+        "unit": "g",
+        "note": "(1 unid aprox.)"
+      },
+      {
+        "name": "pepino",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cortado em pedaços"
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": "1-2",
+        "unit": "pitadas"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r656890"
+  },
+
+  {
+    "name": "Bolas energéticas de aveia e banana",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/BD76B05E-F8FF-44C5-B711-723D32BFF8DB/Derivates/a93622f7-d82c-4fb1-9040-e4673c77fe3e.jpg",
+
+    "tags": ["lanches", "snacks"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 20
+    },
+
+    "servings": [36],
+
+    "rate": 4.1,
+
+    "ingredients": [
+      {
+        "name": "tâmaras s/ caroço",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "amendoim",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "banana",
+        "quantity": 350,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "coco ralado",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "flocos de aveia",
+        "quantity": 400,
+        "unit": "g"
+      },
+      {
+        "name": "canela em pó",
+        "quantity": 1,
+        "unit": "c. chá"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r218160"
   }
 ]
