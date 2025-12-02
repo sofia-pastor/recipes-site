@@ -5033,5 +5033,1369 @@
     ],
 
     "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r818173"
+  },
+
+  {
+    "name": "Salada coleslaw",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/1580b421-bb4f-45f2-8af9-857ff65824ae/Derivates/b97066b6-3821-41d0-bf70-36ce7fc45cec.jpg",
+
+    "tags": ["saladas", "refeições", "acompanhamento"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 10,
+      "total": 10
+    },
+
+    "servings": [4, 6, 8],
+
+    "rate": 4.7,
+
+    "ingredients": [
+      {
+        "name": "couve branca",
+        "quantity": 200,
+        "unit": "g",
+        "note": "s/ núcleo, cortada em 1-2 cunhas (quartos ou oitavos) que caibam no bocal da mandolina"
+      },
+      {
+        "name": "cebola roxa (opcional)",
+        "quantity": 120,
+        "unit": "g",
+        "note": "cortada ao meio na vertical (1un aprox.)"
+      },
+      {
+        "name": "cenoura",
+        "quantity": 150,
+        "unit": "g",
+        "note": "descascada, s/ as extremidades"
+      },
+      {
+        "name": "maçã verde",
+        "quantity": 100,
+        "unit": "g",
+        "note": "c/ casca, s/ caroços, cortada em quartos ou oitavos que caibam no bocal da mandolina"
+      },
+      {
+        "name": "sal",
+        "quantity": "1/2",
+        "unit": "c. chá",
+        "note": "ajustar a gosto"
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": 2,
+        "unit": "pitadas",
+        "note": "ajustar a gosto"
+      },
+      {
+        "name": "maionese",
+        "quantity": 4,
+        "unit": "c. sopa",
+        "note": "ajustar a gosto"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r803004"
+  },
+
+  {
+    "name": "Salada de arroz e atum",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/1580b421-bb4f-45f2-8af9-857ff65824ae/Derivates/b97066b6-3821-41d0-bf70-36ce7fc45cec.jpg",
+
+    "tags": ["saladas", "refeições", "acompanhamento"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 15,
+      "total": 60
+    },
+
+    "servings": [2, 4, 6],
+
+    "rate": 4.4,
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 1200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "arroz agulha",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "ovos",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "cenoura",
+        "quantity": 120,
+        "unit": "g",
+        "note": "cortada em cubos pequenos"
+      },
+      {
+        "name": "curgete",
+        "quantity": 280,
+        "unit": "g",
+        "note": "cortada em cubos pequenos"
+      },
+      {
+        "name": "ervilhas congeladas",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "atum em lata",
+        "quantity": 200,
+        "unit": "g",
+        "note": "escorrido"
+      },
+      {
+        "name": "azeitonas s/ caroço",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortadas às rodelas"
+      },
+      {
+        "name": "cornichons",
+        "quantity": 15,
+        "unit": "g",
+        "note": "ou outros picles cortados às rodelas"
+      },
+      {
+        "name": "hortelã",
+        "quantity": 1,
+        "unit": "pé",
+        "note": "só as folhas"
+      },
+      {
+        "name": "azeite",
+        "quantity": 1,
+        "unit": "c. sopa"
+      },
+      {
+        "name": "tomate-cereja",
+        "quantity": 7,
+        "unit": "un",
+        "note": "cortados em metades ou quartos"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r54493"
+  },
+
+  {
+    "name": "Salada de tamboril com batatas, pimentos e molho de azeitona",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2B179AEB-B714-432F-9DE5-BB0216043976/Derivates/002e32f6-a927-4bcd-ad6a-ceeb39db1556.jpg",
+
+    "tags": ["saladas", "refeições"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 40,
+      "total": 115
+    },
+
+    "servings": [4],
+
+    "rate": 5.0,
+
+    "ingredients": [
+      {
+        "name": "azeitonas pretas s/ caroço",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "sumo de limão",
+        "quantity": 35,
+        "unit": "g",
+        "note": "(1/2 unid aprox.)"
+      },
+      {
+        "name": "sal",
+        "quantity": "1/2",
+        "unit": "c. chá",
+        "note": "mais q.b. p/ temperar"
+      },
+      {
+        "name": "filetes de tamboril",
+        "quantity": 4,
+        "unit": "un",
+        "note": "(200g/un, com 2cm de espessura aprox.)"
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": 2,
+        "unit": "pitadas"
+      },
+      {
+        "name": "água",
+        "quantity": "q.b."
+      },
+      {
+        "name": "batata",
+        "quantity": 400,
+        "unit": "g",
+        "note": "cortada em pedaços (2 cm)"
+      },
+      {
+        "name": "pimento",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortados em pedaços (3-4cm)"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r656899"
+  },
+
+  {
+    "name": "Salada quente mediterrânica",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/C83A9C98-5A3B-4F53-8E62-7B79530925E7/Derivates/3f4eeaf6-9709-4f52-ab37-d38f6127268e.jpg",
+
+    "tags": ["saladas", "acompanhamento"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 30
+    },
+
+    "servings": [2],
+
+    "rate": 4.8,
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "beringela",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortada em cubos (1cm)"
+      },
+      {
+        "name": "curgete",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortada em meias-luas (1cm)"
+      },
+      {
+        "name": "pimento amarelo",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cortada em cubos (2cm)"
+      },
+      {
+        "name": "tomate-cereja",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "pimenta moída",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "óregãos",
+        "quantity": 2,
+        "unit": "c. chá"
+      },
+      {
+        "name": "tomilho seco",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "manjericão seco",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "rúcula",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "queijo feta",
+        "quantity": 100,
+        "unit": "g",
+        "note": "esfarelado"
+      },
+      {
+        "name": "creme de vinagre balsâmico",
+        "quantity": 2,
+        "unit": "c. sopa"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r761350"
+  },
+
+  {
+    "name": "Salada de batatinhas novas",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/EB31F903-1668-4D5D-ABAF-7035E7FAB652/Derivates/99207376-3E5F-443E-88C7-EEE541931F1B.jpg",
+
+    "tags": ["saladas", "acompanhamento"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 35
+    },
+
+    "servings": [6],
+
+    "rate": 4.8,
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "batatinha nova",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "dente de alho",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "salsa",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "pepino",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortado em pedaços"
+      },
+      {
+        "name": "azeite",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho",
+        "note": "q.b. picado"
+      },
+      {
+        "name": "iogurte natural",
+        "quantity": 125,
+        "unit": "g"
+      },
+      {
+        "name": "maionese",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de vinho branco",
+        "quantity": 1,
+        "unit": "c. sopa"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r20756"
+  },
+
+  {
+    "name": "Lombo de salmão com crosta de ervas aromáticas e salada de batata",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/69aeaeb1844cfe06f7365b41cbda4732/Derivates/f0aa5fec3149815e26642b67dfeabbe150561511.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 80
+    },
+
+    "servings": [8],
+
+    "rate": 4.8,
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "batata nova",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 2,
+        "unit": "c. chá"
+      },
+      {
+        "name": "lombo de salmão",
+        "quantity": 1,
+        "unit": "g",
+        "note": "(1300g aprox.)"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "queijo parmesão",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": "2",
+        "unit": "un"
+      },
+      {
+        "name": "coentros",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho",
+        "quantity": 10,
+        "unit": "g",
+        "note": "picado"
+      },
+      {
+        "name": "aneto",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "sobras de pão",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "queijo-creme",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "mostarda",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "crème-fraîche",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "limão",
+        "quantity": 1,
+        "unit": "un",
+        "note": "raspa e sumo"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "cebolinho",
+        "quantity": 10,
+        "unit": "g",
+        "note": "picado"
+      },
+      {
+        "name": "aneto",
+        "quantity": 10,
+        "unit": "g",
+        "note": "só as folhas"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r605037"
+  },
+
+  {
+    "name": "Saltear mistura de legumes para sopa ou guisados",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/3995f614-fd46-4fa1-b2ec-7aa59d3af01f/Derivates/2674d2f7-46a1-4fe2-ba5f-8598ad02291a.jpg",
+
+    "tags": ["salteados", "refeições"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 10,
+      "total": 25
+    },
+
+    "servings": [1],
+
+    "rate": 4.3,
+
+    "ingredients": [
+      {
+        "name": "azeite",
+        "quantity": 20,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "óleo vegetal",
+            "quantity": 20,
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "cebola",
+        "quantity": 170,
+        "unit": "g",
+        "note": "cortada em quartos",
+        "substitutes": [
+          {
+            "name": "cebola roxa",
+            "quantity": 170,
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "cenoura",
+        "quantity": 140,
+        "unit": "g",
+        "note": "cortada em fatias (1-2cm)"
+      },
+      {
+        "name": "talo de aipo",
+        "quantity": 80,
+        "unit": "g",
+        "note": "cortado em fatias (0,5-1cm)"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r586316"
+  },
+
+  {
+    "name": "Saltear camarão",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/d8e70045-c28d-479e-9e76-234f720d366e/Derivates/a3c87c1c-6da7-42e3-96c7-68499703e856.jpg",
+
+    "tags": ["salteados", "peixe", "refeições"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 5,
+      "total": 15
+    },
+
+    "servings": ["250g"],
+
+    "rate": 4.7,
+
+    "ingredients": [
+      {
+        "name": "azeite",
+        "quantity": 20,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "óleo vegetal",
+            "quantity": 20,
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "dente de alho",
+        "quantity": 1,
+        "unit": "un",
+        "substitutes": [
+          {
+            "name": "cebola ",
+            "quantity": 20,
+            "unit": "g",
+            "note": "cortada em lâminas"
+          }
+        ]
+      },
+      {
+        "name": "camarão sem casca",
+        "quantity": 250,
+        "unit": "g",
+        "note": "secos com papel de cozinha"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r556875"
+  },
+
+  {
+    "name": "Saltear bacon com frango em tiras",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/58B3F901-3751-4C63-A30F-4B9CA4B2B6EE/Derivates/F0DD35D3-0834-453A-AFD2-187C4B01E14D.jpg",
+
+    "tags": ["salteados", "carne", "refeições"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 5,
+      "total": 15
+    },
+
+    "servings": ["300g"],
+
+    "rate": 3.0,
+
+    "ingredients": [
+      {
+        "name": "azeite",
+        "quantity": 10,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "óleo vegetal",
+            "quantity": 10,
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "bacon em cubos",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "coxas de frango s/ osso",
+        "quantity": 250,
+        "unit": "g",
+        "note": "cortada em tiras (3-4cm), seca com papel de cozinha",
+        "substitutes": [
+          {
+            "name": "escalope de frando, cortado em tiras. seco com papel de cozinha",
+            "quantity": 250,
+            "unit": "g"
+          }
+        ]
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r815799"
+  },
+
+  {
+    "name": "Puré de batata (Modo descascar)",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/16817b9483420219b7701c46b5168edf/Derivates/5d93b864047a05bdf283259a0ad1bca7bf8e01f8.jpg",
+
+    "tags": ["puré", "acompanhamento"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 10,
+      "total": 35
+    },
+
+    "servings": [4],
+
+    "rate": 4.1,
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 1200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 2,
+        "unit": "c. chá"
+      },
+      {
+        "name": "batata (de casca vermelha)",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "leite",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "caldo de legumes líquido",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 60,
+        "unit": "g",
+        "note": "em pedaços"
+      },
+      {
+        "name": "alho em pó",
+        "quantity": 1,
+        "unit": "c. chá",
+        "note": "(opcional)"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": 2,
+        "unit": "pitadas"
+      },
+      {
+        "name": "azeite",
+        "quantity": 1,
+        "unit": "fio"
+      },
+      {
+        "name": "salsa",
+        "quantity": 1,
+        "unit": "pé",
+        "note": "só as folhas"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r775226"
+  },
+
+  {
+    "name": "Legumes salteados",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/3A237A06-0116-4582-8A61-6F3805F81F93/Derivates/B24F39F0-A40A-413F-9184-9FFB33555590.jpg",
+
+    "tags": ["salteados", "acompanhamento"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 10
+    },
+
+    "servings": [4],
+
+    "rate": 5.0,
+
+    "ingredients": [
+      {
+        "name": "dente de alho",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "azeite extra virgem",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "acelga chinesa",
+        "quantity": 300,
+        "unit": "g",
+        "note": "ou outra verdura, cortada em tiras finas"
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": 1,
+        "unit": "pitada"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r111239"
+  },
+
+  {
+    "name": "Trança",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/3A237A06-0116-4582-8A61-6F3805F81F93/Derivates/B24F39F0-A40A-413F-9184-9FFB33555590.jpg",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 30,
+      "total": 60
+    },
+
+    "servings": ["500g", "1000g"],
+
+    "rate": 4.7,
+
+    "ingredients": [
+      {
+        "name": "leite",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 50,
+        "unit": "g",
+        "note": "mais q.b. p/ cobrir"
+      },
+      {
+        "name": "fermento de padeiro seco",
+        "quantity": 5,
+        "unit": "g"
+      },
+      {
+        "name": "ovos",
+        "quantity": 3,
+        "unit": "un"
+      },
+      {
+        "name": "farinha",
+        "quantity": 700,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "água",
+        "note": "q.b. p/ humedecer"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r330573"
+  },
+
+  {
+    "name": "Tisana fria de hortelã, limão e laranja",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2e19c383677491f6bd2eac7c1bf0392f/Derivates/54ac792230f51c46ede78dc016718f05d26ef2a5.jpg",
+
+    "tags": ["bebidas", "chá"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 70
+    },
+
+    "servings": [6],
+
+    "rate": 4.5,
+
+    "ingredients": [
+      {
+        "name": "limão",
+        "quantity": 1,
+        "unit": "un",
+        "note": "raspa e sumo"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 700,
+        "unit": "g"
+      },
+      {
+        "name": "hortelã fresca",
+        "quantity": 6,
+        "unit": "pés"
+      },
+      {
+        "name": "cubos de gelo",
+        "quantity": 6,
+        "unit": "un"
+      },
+      {
+        "name": "laranja",
+        "quantity": 1,
+        "unit": "un",
+        "note": "cortada em rodelas"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r774153"
+  },
+
+  {
+    "name": "Pudim de leite condensado",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/b7f24353-4f3d-4263-91ef-8e0074c1ee03/Derivates/72bd5d55-1412-4b8c-8d39-adb3ecc85e64.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 240
+    },
+
+    "servings": [10],
+
+    "rate": 4.4,
+
+    "ingredients": [
+      {
+        "name": "leite condensado",
+        "quantity": 550,
+        "unit": "g",
+        "note": "1 1/2 lata"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 1020,
+        "unit": "g"
+      },
+      {
+        "name": "leite",
+        "quantity": 400,
+        "unit": "g"
+      },
+      {
+        "name": "ovos",
+        "quantity": 6,
+        "unit": "un",
+        "note": "médios"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r648034"
+  },
+
+  {
+    "name": "Sardinhas de escabeche",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/5E0660D8-8193-4AC0-A1A6-944FBFB22485/Derivates/B4C7677D-76FD-4B71-9DCD-DA2387D543B6.jpg",
+
+    "tags": ["entradas", "peixe"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 20,
+      "total": "48h"
+    },
+
+    "servings": [2, 4],
+
+    "rate": 5.0,
+
+    "ingredients": [
+      {
+        "name": "sardinha fresca, limpa",
+        "quantity": 750,
+        "unit": "g",
+        "note": "(8un aprox.)"
+      },
+      {
+        "name": "sal",
+        "quantity": "1 1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "louro",
+        "quantity": 6,
+        "unit": "folhas"
+      },
+      {
+        "name": "cebola",
+        "quantity": 600,
+        "unit": "g",
+        "note": "cortadas em rodelas"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": 12,
+        "unit": "un"
+      },
+      {
+        "name": "vinho branco",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta preta em grão",
+        "quantity": "1 1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "vinagre",
+        "quantity": 130,
+        "unit": "g"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r53991"
+  },
+
+  {
+    "name": "Carapaus de escabeche",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/8892BF97-A905-4E8E-826B-4E1DB0AC7E00/Derivates/0dd64778cbd13c7f04ae3c23d68916c3a5a85a77.jpg",
+
+    "tags": ["entradas", "peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": "13h20min"
+    },
+
+    "servings": [4, 6],
+
+    "rate": 5.0,
+
+    "ingredients": [
+      {
+        "name": "carapau fresco, limpo",
+        "quantity": 800,
+        "unit": "g",
+        "note": "s/ cabeça"
+      },
+      {
+        "name": "pimenta",
+        "quantity": "1",
+        "unit": "pitada"
+      },
+      {
+        "name": "limão",
+        "quantity": 1,
+        "unit": "un",
+        "note": "só o sumo"
+      },
+      {
+        "name": "água",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 160,
+        "unit": "g"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": 3,
+        "unit": "un"
+      },
+      {
+        "name": "cebola",
+        "quantity": 300,
+        "unit": "g",
+        "note": "cortada às rodelas"
+      },
+      {
+        "name": "pimento vermelho",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortado em tiras"
+      },
+      {
+        "name": "pimento verde",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortado em tiras"
+      },
+      {
+        "name": "sal",
+        "quantity": "1 1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "vinagre de vinho tinto",
+        "quantity": 100,
+        "unit": "g"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r20717"
+  },
+
+  {
+    "name": "Escabeche de peixe-espada com batatinha nova e molho de mostarda",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/f6501f229a4eae594c1d0537a7414dc5/Derivates/103c646d230279934dbe038f9aa8e13118f6479e.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 50
+    },
+
+    "servings": [6],
+
+    "rate": 4.8,
+
+    "ingredients": [
+      {
+        "name": "salsa",
+        "quantity": 35,
+        "unit": "g"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": 3,
+        "unit": "un"
+      },
+      {
+        "name": "azeite",
+        "quantity": 230,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "quantity": 400,
+        "unit": "g",
+        "note": "cortada em lâminas"
+      },
+      {
+        "name": "pimento vermelho",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortado em tiras"
+      },
+      {
+        "name": "sal",
+        "quantity": "2 1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "louro",
+        "quantity": 2,
+        "unit": "folhas"
+      },
+      {
+        "name": "vinagre de vinho tinto",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "peixe-espada",
+        "quantity": 800,
+        "unit": "g",
+        "note": "cortado em postas"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "água",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "batatinha nova",
+        "quantity": 800,
+        "unit": "g",
+        "note": "cortada em rodelas grossas"
+      },
+      {
+        "name": "vinagre de sidra",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "mostarda Dijon",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "hortelã",
+        "quantity": 5,
+        "unit": "g",
+        "note": "só as folhas"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r381029"
+  },
+
+  {
+    "name": "Ovas à portuguesa",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/f6501f229a4eae594c1d0537a7414dc5/Derivates/103c646d230279934dbe038f9aa8e13118f6479e.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 15,
+      "total": 90
+    },
+
+    "servings": [6],
+
+    "rate": 4.4,
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "batatinha nova",
+        "quantity": 800,
+        "unit": "g",
+        "note": "cortada em rodelas"
+      },
+      {
+        "name": "ovas de bacalhau",
+        "quantity": 1000,
+        "unit": "g",
+        "note": "pequenas"
+      },
+      {
+        "name": "sal",
+        "quantity": 2,
+        "unit": "c. chá"
+      },
+      {
+        "name": "azeite",
+        "quantity": 50,
+        "unit": "g",
+        "note": "mais q.b. p/ temperar"
+      },
+      {
+        "name": "pimento vermelho",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortado em tiras (2cm aprox)"
+      },
+      {
+        "name": "cebola",
+        "quantity": 170,
+        "unit": "g",
+        "note": "cortada em lâminas"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": 4,
+        "unit": "un",
+        "note": "laminados"
+      },
+      {
+        "name": "vinho branco",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "quantity": 2,
+        "unit": "folhas"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "coentros",
+        "quantity": 10,
+        "unit": "pés",
+        "note": "picados grosseiramente"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r906207"
   }
 ]
