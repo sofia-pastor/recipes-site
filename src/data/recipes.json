@@ -4192,5 +4192,846 @@
     ],
 
     "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r218160"
+  },
+
+  {
+    "name": "Tapa do mar",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/074C42F3-AD06-4D47-9EEA-CE201FC0345C/Derivates/5B5F391B-3F9A-47DE-99A0-99981939277A.jpg",
+
+    "tags": ["entradas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 5
+    },
+
+    "servings": [3, 6, 12],
+
+    "rate": 4.7,
+
+    "ingredients": [
+      {
+        "name": "delícias do mar",
+        "quantity": 250,
+        "unit": "g",
+        "note": "descongeladas"
+      },
+      {
+        "name": "pimento verde",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortado em pedaços"
+      },
+      {
+        "name": "pimento vermelho",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortado em pedaços"
+      },
+      {
+        "name": "cebola",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "ovos",
+        "quantity": 2,
+        "unit": "un",
+        "note": "cozidos"
+      },
+      {
+        "name": "azeite",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "salsa",
+        "quantity": 10,
+        "unit": "g"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r55882"
+  },
+
+  {
+    "name": "Arroz rápido de amêijoas à bulhão pato",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/9116948ff7abcc7c026bebc841888ee6/Derivates/bad47edc12bf7806b9c57539a73ce113ec2fa560.jpg",
+
+    "tags": ["refeições", "acompanhamento"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 5,
+      "total": 25
+    },
+
+    "servings": [6],
+
+    "rate": 4.1,
+
+    "ingredients": [
+      {
+        "name": "arroz carolino",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "quantity": 15,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 35,
+        "unit": "g"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": 3,
+        "unit": "un"
+      },
+      {
+        "name": "água",
+        "quantity": 580,
+        "unit": "g"
+      },
+      {
+        "name": "amêijoa",
+        "quantity": 500,
+        "unit": "g",
+        "note": "s/ casca descongelada e escorrida"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "mostarda",
+        "quantity": 15,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 15,
+        "unit": "g",
+        "note": "cortada em pedaços pequenos"
+      },
+      {
+        "name": "limão",
+        "quantity": 1,
+        "unit": "un",
+        "note": "só o sumo p/ regar"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r692203"
+  },
+
+  {
+    "name": "Bolinhas de queijo de cabra, uvas e pistácio",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/0EDA893D-46A0-4C69-946D-6FA8652E2F88/Derivates/01848518-112B-40C2-88FC-518C6A2D1618.jpg",
+
+    "tags": ["lanches", "snacks", "entradas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 40,
+      "total": 45
+    },
+
+    "servings": [20],
+
+    "rate": 4.2,
+
+    "ingredients": [
+      {
+        "name": "pistácios",
+        "quantity": 250,
+        "unit": "g",
+        "note": "s/ casca"
+      },
+      {
+        "name": "queijo-creme",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "queijo de cabra",
+        "quantity": 200,
+        "unit": "g",
+        "note": "tipo chèvre"
+      },
+      {
+        "name": "uvas brancas",
+        "quantity": 100,
+        "unit": "g",
+        "note": "pequenas"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r28403"
+  },
+
+  {
+    "name": "Pad Thai",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2444133e36d6ef3d18ae420b902eac16/Derivates/ccb327e468e55307e3abfe511b69744fb3431eee.jpg",
+
+    "tags": ["refeições", "massas"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 15,
+      "total": 45
+    },
+
+    "servings": [6],
+
+    "rate": 4.9,
+
+    "ingredients": [
+      {
+        "name": "amendoim s/ sal (crú ou torrado)",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "noodles de arroz",
+        "quantity": 300,
+        "unit": "g",
+        "note": "tipo tagliatelle"
+      },
+      {
+        "name": "ovos",
+        "quantity": 3,
+        "unit": "un"
+      },
+      {
+        "name": "água",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "gengibre fresco",
+        "quantity": 10,
+        "unit": "g",
+        "note": "cortado em fatias (2mm)"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": "2-3",
+        "unit": "un"
+      },
+      {
+        "name": "malagueta vermelha",
+        "quantity": 20,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "óleo de amendoim",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "camarão tigre",
+        "quantity": 450,
+        "unit": "g",
+        "note": "s/ casca"
+      },
+      {
+        "name": "açúcar mascavado",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "molho de soja",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "molho de peixe",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "concentrado de tomate",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "limas",
+        "quantity": 3,
+        "unit": "un"
+      },
+      {
+        "name": "rebentos de feijão mungo",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "quantity": "q.b. p/ guarnecer",
+        "note": "só as folhas"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r908445"
+  },
+
+  {
+    "name": "Salada de batatinhas e truta",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/08BF8E5E-C5EA-448E-A564-A5767632E6D8/Derivates/9fdc6a67-4ea1-40c8-8892-39b8aca4beaf.jpg",
+
+    "tags": ["refeições", "peixe", "entradas", "saladas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 35
+    },
+
+    "servings": [4],
+
+    "rate": 4.0,
+
+    "ingredients": [
+      {
+        "name": "trutas",
+        "quantity": 2,
+        "unit": "un",
+        "note": "pequenas (500g aprox.)"
+      },
+      {
+        "name": "hortelã",
+        "quantity": 2,
+        "unit": "ramos"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "limão",
+        "quantity": 1,
+        "unit": "un",
+        "note": "só o sumo"
+      },
+      {
+        "name": "água",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "batatinhas novas",
+        "quantity": 500,
+        "unit": "g",
+        "note": "cortada em quartos"
+      },
+      {
+        "name": "chalota",
+        "quantity": 25,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "estragão",
+        "quantity": 1,
+        "unit": "pé"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r68319"
+  },
+
+  {
+    "name": "Salada de pepino com molho de iogurte e cebolinho",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/F7704E75-9899-430A-B32A-A4B888A3DEE4/Derivates/f03c061c-9347-48e4-ab6c-53ce24f9d424.jpg",
+
+    "tags": ["entradas", "saladas", "acompanhamento"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 120
+    },
+
+    "servings": [6],
+
+    "rate": 4.7,
+
+    "ingredients": [
+      {
+        "name": "pepino",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "name": "cebola branca",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortada em lâminas"
+      },
+      {
+        "name": "cebolinho",
+        "quantity": 15,
+        "unit": "g",
+        "note": "picado"
+      },
+      {
+        "name": "crème-fraîche",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "iogurte grego",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de vinho branco",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar amarelo",
+        "quantity": 5,
+        "unit": "g"
+      },
+      {
+        "name": "aneto",
+        "quantity": 5,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r364922"
+  },
+
+  {
+    "name": "Salada russa de bacalhau",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/8BC44476-EDF4-464D-ABCF-86AB92923878/Derivates/E91A24C5-8309-4F3B-A8CB-6A17AA6A0958.jpg",
+
+    "tags": ["entradas", "saladas", "refeições", "acompanhamento"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 20,
+      "total": 55
+    },
+
+    "servings": [8],
+
+    "rate": 4.4,
+
+    "ingredients": [
+      {
+        "name": "óleo",
+        "quantity": 350,
+        "unit": "g"
+      },
+      {
+        "name": "ovos",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "vinagre de vinho branco",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "quantity": 15,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "mostarda",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "natas",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "batatinha novas",
+        "quantity": 500,
+        "unit": "g",
+        "note": "c/ casca, cortada em quartos"
+      },
+      {
+        "name": "ovos",
+        "quantity": 6,
+        "unit": "un"
+      },
+      {
+        "name": "ervilhas descongeladas",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortada em cubos"
+      },
+      {
+        "name": "brócolos",
+        "quantity": 200,
+        "unit": "g",
+        "note": "só os raminhos, cortados em fatias"
+      },
+      {
+        "name": "postas de bacalhau demolhado",
+        "quantity": 700,
+        "unit": "g"
+      },
+      {
+        "name": "pimento verde",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortado em cubos"
+      },
+      {
+        "name": "pimento vermelho",
+        "quantity": 100,
+        "unit": "g",
+        "note": "cortado em cubos"
+      },
+      {
+        "name": "salsa",
+        "quantity": "q.b.",
+        "note": "p/ polvilhar"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r120272"
+  },
+
+  {
+    "name": "Salada niçoise",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/E534D9A6-3AFF-4394-B077-B3A2705E59C0/Derivates/0115abd4-7e77-4a1c-8f5b-f1cf32a8b457.jpg",
+
+    "tags": ["entradas", "saladas", "refeições", "acompanhamento"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 35
+    },
+
+    "servings": [8],
+
+    "rate": 4.7,
+
+    "ingredients": [
+      {
+        "name": "azeite",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "sumo de limão",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "mostarda",
+        "quantity": 2,
+        "unit": "c. sopa"
+      },
+      {
+        "name": "aneto",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "batatinhas novas",
+        "quantity": 800,
+        "unit": "g",
+        "note": "cortadas ao meio"
+      },
+      {
+        "name": "feijão verde redondo descongelado",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "água",
+        "quantity": 800,
+        "unit": "g"
+      },
+      {
+        "name": "ovos",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "atum em lata, ao natural",
+        "quantity": 350,
+        "unit": "g",
+        "note": "(escorrido)"
+      },
+      {
+        "name": "cebola roxa",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cortada em meias-luas finas"
+      },
+      {
+        "name": "tomate-cereja",
+        "quantity": 300,
+        "unit": "g",
+        "note": "cortado em quartos"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r243059"
+  },
+
+  {
+    "name": "Salada de omolete grega",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/c82c075d-8127-4d5e-891c-0c95929bfaf2/Derivates/c21b75ba-3623-42bc-b9f9-420234e5b466.jpg",
+
+    "tags": ["saladas", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 35
+    },
+
+    "servings": [6],
+
+    "rate": 4.1,
+
+    "ingredients": [
+      {
+        "name": "manjericão",
+        "quantity": 6,
+        "unit": "folhas"
+      },
+      {
+        "name": "cebola roxa",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "ovos",
+        "quantity": 6,
+        "unit": "un"
+      },
+      {
+        "name": "sal",
+        "quantity": 2,
+        "unit": "pitadas"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "azeitonas s/ caroço",
+        "quantity": 50,
+        "unit": "g",
+        "note": "cortadas em fatias (3mm aprox.)"
+      },
+      {
+        "name": "tomate-cereja",
+        "quantity": 200,
+        "unit": "g",
+        "note": "cortado ao meio"
+      },
+      {
+        "name": "água",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "queijo feta",
+        "quantity": 100,
+        "unit": "g",
+        "note": "esfarelado ou em cubos"
+      },
+      {
+        "name": "hortelã",
+        "quantity": 8,
+        "unit": "folhas"
+      },
+      {
+        "name": "óregãos",
+        "quantity": 2,
+        "unit": "pitadas"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r722698"
+  },
+
+  {
+    "name": "Salada de frango, pêssego e espinafres com noz",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/b959f50d8e19d1851a2395cdd7d8f59e/Derivates/1054c48109f4de799c21d423376f93f54170e5e7.jpg",
+
+    "tags": ["saladas", "refeições"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 15,
+      "total": 20
+    },
+
+    "servings": [2],
+
+    "rate": 4.6,
+
+    "ingredients": [
+      {
+        "name": "miolo de noz",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 65,
+        "unit": "g"
+      },
+      {
+        "name": "dente de alho",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "peito de frango",
+        "quantity": 300,
+        "unit": "g",
+        "note": "cortado em tiras (3-4cm), seco com papel de cozinha"
+      },
+      {
+        "name": "pêssego",
+        "quantity": 150,
+        "unit": "g",
+        "note": "cortado em gomos (1cm aprox.)",
+        "substitutes": [
+          {
+            "name": "alperce",
+            "quantity": 150,
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "mostarda",
+        "quantity": 15,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "1/2",
+        "unit": "c. chá",
+        "note": "mais q.b. p/ temperar"
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "vinagre de sidra",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": "2-3",
+        "unit": "pitadas"
+      },
+      {
+        "name": "paprika",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "espinafres",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r818173"
   }
 ]
