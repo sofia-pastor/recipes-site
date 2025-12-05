@@ -8249,5 +8249,551 @@
     "rate": 4.5,
 
     "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r141877"
+  },
+
+  {
+    "name": "Rolo de peru com cogumelos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/6E847752-3B9F-4ED7-8198-A94726F93FB7/Derivates/4F713DC2-C56A-4E4B-B370-A0ABCD304AF2.jpg",
+
+    "tags": ["carne"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 50
+    },
+
+    "servings": [8],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r62773"
+  },
+
+  {
+    "name": "Hambúrgueres de sardinha",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/84DE1282-1CEF-43DD-A2C0-7C1937439D80/Derivates/a967e1b2-ff5f-41ce-b730-598a0080d77c.jpg",
+
+    "tags": ["peixe"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 20,
+      "total": 45
+    },
+
+    "servings": [14],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r456828"
+  },
+
+  {
+    "name": "Bacalhau com 'natas'",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/84603b2b-373e-4ffc-b492-d67b619affea/Derivates/641b4e70-2ebe-4154-80ec-7c4659311cb2.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 50
+    },
+
+    "servings": [6],
+
+    "rate": 3.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r658173"
+  },
+
+  {
+    "name": "Creme de espargos com bacalhau",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/8748F8D1-5091-4371-B00E-F9144B2DBE43/Derivates/355CB358-661B-43D4-BE5A-C01F9CE746E1.jpg",
+
+    "tags": ["sopas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 45
+    },
+
+    "servings": [2],
+
+    "rate": 4.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r23418"
+  },
+
+  {
+    "name": "Sopa de nabo e alho & Papelotes de bacalhau com batata, azeitonas e alcaparras",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/B04F115A-F20D-4D72-BEB2-7FCB9BCD8321/Derivates/d7fda878-2d52-47ce-93cf-9c5fea42b809.jpg",
+
+    "tags": ["sopas", "peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 30,
+      "total": 60
+    },
+
+    "servings": [4],
+
+    "rate": 4.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r392552"
+  },
+
+  {
+    "name": "Xarém de bacalhau com tomate confitado",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/6e476bac4cf9912b41df8d13b6d56ebf/Derivates/41c16309dadd7617248c09df38e091395e36eac7.jpg",
+
+    "tags": ["peixe"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 60
+    },
+
+    "servings": [2, 4],
+
+    "rate": 4.2,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r821891"
+  },
+
+  {
+    "name": "Bacalhau à comadre",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/49216973-2BEC-4AC8-9A0B-417B26CCBB0F/Derivates/f23cdc89-3b82-445c-9d3f-3876d07c6a04.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 15,
+      "total": 70
+    },
+
+    "servings": [6],
+
+    "rate": 4.7,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r144719"
+  },
+
+  {
+    "name": "Honeycomb",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/49eeae70-349f-49b7-bb2b-549bf4aa746b/Derivates/15c10654-adc9-400d-b694-eca18fccedbe.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 10,
+      "total": 90
+    },
+
+    "servings": [24],
+
+    "rate": 5.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r501742"
+  },
+
+  {
+    "name": "Risoto de ervilhas, espargos e favas",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2739F1AA-0E93-4B47-9CE7-57807ED92F57/Derivates/0284C8A2-D9BB-4993-B1C6-223C141D8D6A.jpg",
+
+    "tags": ["refeições", "risotto"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 30
+    },
+
+    "servings": [6],
+
+    "rate": 3.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r84228"
+  },
+
+  {
+    "name": "Folhados de frango",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/1CB9BFB5-BBBC-428B-A432-25E11ED4E8AB/Derivates/63e8c52a-e386-4a70-bbe7-9208f2bf1951.jpg",
+
+    "tags": ["refeições", "carne"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 20,
+      "total": 55
+    },
+
+    "servings": [12],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r59983"
+  },
+
+  {
+    "name": "Brisas do Lis",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/7598882C-747A-4288-BF9E-F07C728B6E3D/Derivates/BE6CAB01-006D-4DEF-A104-E276C9DC74AA.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 15,
+      "total": 75
+    },
+
+    "servings": [14],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41111"
+  },
+
+  {
+    "name": "Pão de forma integral",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2117FD64-AEE6-44BC-A24A-530715695355/Derivates/1a513b5e-72f0-4b3c-a7b0-3d114a1c85c9.jpg",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 120
+    },
+
+    "servings": ["700g"],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r240821"
+  },
+
+  {
+    "name": "Pão de forma sem côdea",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/9E88C2A9-B600-42BC-8C6F-534CD958BCC5/Derivates/258B681D-D448-4A0D-823E-ED10601708AB.jpg",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 15,
+      "total": 120
+    },
+
+    "servings": ["350g"],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r55791"
+  },
+
+  {
+    "name": "Pão rápido com manteiga de caju",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2B5B9874-9F3F-4528-B47D-7A007E543323/Derivates/215D760E-8AF7-4286-8CC6-14B16E3331A7.jpg",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 55
+    },
+
+    "servings": ["600g"],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r30743"
+  },
+
+  {
+    "name": "Pão alemão",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/549A401D-017E-46D9-BE8F-AD67E79D7F6B/Derivates/6E3A2EEC-73C4-4F14-AF34-D5B062C87360.jpg",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 120
+    },
+
+    "servings": ["1000g"],
+
+    "rate": 5.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r122206"
+  },
+
+  {
+    "name": "Pão de fruta",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/86ffdcc3-b384-4e81-ae1c-94725c56e13d/Derivates/2d0ae022-5a23-4ab1-a6dc-16a4372553f1.jpg",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": "2h55"
+    },
+
+    "servings": [20],
+
+    "rate": 4.9,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r613273"
+  },
+
+  {
+    "name": "Pão de cenoura",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/9281276D-510F-46E7-A5A8-F90B0C3AB6F8/Derivates/5B303D3C-C677-4DD7-BB52-EA64D82D7DAD.jpg",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 100
+    },
+
+    "servings": [10],
+
+    "rate": 4.9,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r50565"
+  },
+
+  {
+    "name": "Pão da terra",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/4651622B-47AB-4EE3-AF52-8835E64003A4/Derivates/B41906E2-9F5C-4A26-B1C3-FED0C656DA1E.jpg",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 95
+    },
+
+    "servings": ["800g", "1200"],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r49669"
+  },
+
+  {
+    "name": "Pão de banana vegan",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/0cde877d-a8a1-4bad-9fa2-6007d15c05fb/Derivates/7313358d-e36a-4b0e-85d9-793ada2bd5b5.jpg",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 60
+    },
+
+    "servings": [10],
+
+    "rate": 4.9,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r724897"
+  },
+
+  {
+    "name": "Empadas de frango e cogumelos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2639B810-7620-4846-B180-22F0CF090E3A/Derivates/2dda5c01-3059-496a-b12b-05618c38120b.jpg",
+
+    "tags": ["refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 90
+    },
+
+    "servings": [18],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r211064"
+  },
+
+  {
+    "name": "Croquetes de atum",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/22C53F1B-7647-415D-B6DD-60CC9B4BFC7F/Derivates/57357149-c964-405c-a1a4-4233e8457744.jpg",
+
+    "tags": ["entradas", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 20
+    },
+
+    "servings": [48],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r141884"
+  },
+
+  {
+    "name": "Bolo de azeite",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2CF55815-110B-4C57-911B-7DFB34DF0569/Derivates/eb7d00e6-d461-43fc-b8df-ffb3579a4836.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 50
+    },
+
+    "servings": [8],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r536385"
+  },
+
+  {
+    "name": "Pão recheado com queijo e alho-francês",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/E48B5F91-F581-4AD2-BD67-D48B2C0A3D80/Derivates/766B4FA4-6616-400F-A109-946893D06FC3.jpg",
+
+    "tags": ["entradas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 40
+    },
+
+    "servings": [6],
+
+    "rate": 4.7,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r75829"
+  },
+
+  {
+    "name": "Ovas com alho e malagueta",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/E1ECE91D-AD7A-4BB7-B5B6-A13FFD3A62F6/Derivates/ACD522E8-7D55-437A-AB1D-09FCA5DE8A48.jpg",
+
+    "tags": ["peixe"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 35
+    },
+
+    "servings": [4],
+
+    "rate": 4.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r69710"
+  },
+
+  {
+    "name": "Penne com pesto de brócolos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/E4BE7B21-1680-4D1F-A8C5-C14430120A2F/Derivates/9D79591F-06F7-456F-A9B0-45D52594EDC4.jpg",
+
+    "tags": ["massas", "vegetariano"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 30
+    },
+
+    "servings": [4],
+
+    "rate": 4.9,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r105458"
+  },
+
+  {
+    "name": "Tarte de requeijão",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/7ac9d14cbdbb7b05071743bc8d0e9d03/Derivates/1c11f95b196998becf59438dd6b6802b6732399f.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 40
+    },
+
+    "servings": [6, 16, 32],
+
+    "rate": 4.7,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41109"
   }
 ]
