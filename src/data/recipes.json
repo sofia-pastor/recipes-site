@@ -10419,7 +10419,7 @@
 
     "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/1E1D8E42-7589-46E7-8B8A-3A41C4EEF807/Derivates/05DA009B-FE2D-4A37-8890-3CFFB856E5D5.jpg",
 
-    "tags": ["sopa", "massas", "refeições"],
+    "tags": ["sopas", "massas", "refeições"],
 
     "devices": ["TM7", "TM6", "TM5"],
 
@@ -10440,7 +10440,7 @@
 
     "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/53D62258-BCCB-4CC8-A17D-9E2D6087D98D/Derivates/4C3C9D88-2244-4CC4-8953-EBF8F80F146A.jpg",
 
-    "tags": ["sopa", "peixe", "acompanhamento", "refeições"],
+    "tags": ["sopas", "peixe", "acompanhamento", "refeições"],
 
     "devices": ["TM7", "TM6", "TM5", "TM31"],
 
@@ -10538,5 +10538,341 @@
     "rate": 4.8,
 
     "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r672125"
+  },
+
+  {
+    "name": "Pescada com camarão à Ogando",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/0D5E8FEE-DE87-4916-867E-AF6033CA735E/Derivates/9D8818EA-1933-47D9-AF70-D89BFED3612B.jpg",
+
+    "tags": ["peixe"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 30
+    },
+
+    "servings": [8],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r21929"
+  },
+
+  {
+    "name": "Frango à provençal com batatas e pudim de chocolate",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/98FECA10-3335-492D-AE80-EF32D01D0437/Derivates/5bfbfc7d-07b2-44ac-8153-65717e24c1f9.jpg",
+
+    "tags": ["carne", "refeições", "sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 50
+    },
+
+    "servings": [2],
+
+    "rate": 4.2,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41460"
+  },
+
+  {
+    "name": "Sopa de tomate com feijão",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/FF795AAF-4647-428A-8465-26F39E13E226/Derivates/dcdcee01-c29d-411d-a518-ac12e40b4e4a.jpg",
+
+    "tags": ["sopas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 40
+    },
+
+    "servings": [6],
+
+    "rate": 4.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r253850"
+  },
+
+  {
+    "name": "Menu: Sopa de tomate e feijão com Omelete de couve e feta",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/FF795AAF-4647-428A-8465-26F39E13E226/Derivates/dcdcee01-c29d-411d-a518-ac12e40b4e4a.jpg",
+
+    "tags": ["sopas", "vegetariano", "refeições", "ovos"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 40
+    },
+
+    "servings": [3],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r792970"
+  },
+
+  {
+    "name": "Maionese",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/f0dc8efc7feccf2538d91103b70aa402/Derivates/5d30c324165346e5d87f3251e08cb9ea3d688361.jpg",
+
+    "tags": ["molhos"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 5
+    },
+
+    "servings": ["200g", "300g", "400g"],
+
+    "rate": 4.7,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r54643"
+  },
+
+  {
+    "name": "Sapateira recheada",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/59C20A2F-D3C6-4B1B-845A-D6D612094060/Derivates/E6AAD25A-E27C-4D3E-A990-259E64031927.jpg",
+
+    "tags": ["marisco"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 5
+    },
+
+    "servings": [4],
+
+    "rate": 4.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r62792"
+  },
+
+  {
+    "name": "Bacalhau gratinado com camarão",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/D4339F34-11B5-460E-AAF9-FC1DC698FA4D/Derivates/3EF05513-F106-43D1-A015-0687309949D2.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 50
+    },
+
+    "servings": [12],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r146630"
+  },
+
+  {
+    "name": "Pão-de-ló de água",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/3AAB41F3-5189-4161-A021-75B6FCF36A32/Derivates/DFC1DF01-AD07-4B1F-91A3-F32355271CEB.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 50
+    },
+
+    "servings": [10],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r27767"
+  },
+
+  {
+    "name": "Pão de milho",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/B0052A8B-D703-438F-B4BD-005D1BE2689C/Derivates/B8A67846-4F5C-4AA6-A4A4-1B7CCE8514DD.jpg",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 80
+    },
+
+    "servings": ["450g"],
+
+    "rate": 4.2,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41435"
+  },
+
+  {
+    "name": "Croquetes",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/ed9edf3c5e9963cca6ecab92a10c5cf3/Derivates/fae537e8e378aef9c18745516de16ace31ae7bc9.jpg",
+
+    "tags": ["carne"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 35,
+      "total": 180
+    },
+
+    "servings": [12, 24],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r55843"
+  },
+
+  {
+    "name": "Creme pasteleiro",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/38ad3b54-0674-4180-bcdf-32001cc6040b/Derivates/9a0a213b-484d-4f87-810b-c0180f8a5ad5.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 5,
+      "total": 15
+    },
+
+    "servings": ["750g"],
+
+    "rate": 4.4,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r576296"
+  },
+
+  {
+    "name": "Serradura",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/356D9476-47F4-4B06-A874-0BF2252714D9/Derivates/DE883FC7-7F97-4F44-840A-952D2A26B86E.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 5
+    },
+
+    "servings": [6],
+
+    "rate": 3.9,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r66045"
+  },
+
+  {
+    "name": "2 purés de legumes - introdução da batata-doce e da abóbora",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/5F24BBE5-08CD-427F-9B0F-2670BC638BC4/Derivates/878DF1E0-221D-47B0-81D6-F64E3829FDA9.jpg",
+
+    "tags": ["puré"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 30
+    },
+
+    "servings": [5],
+
+    "rate": 4.7,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r108303"
+  },
+
+  {
+    "name": "Bolo de banana em frasco",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/3BD33A05-65ED-4FD5-A54E-E6E1A5CDDD78/Derivates/28B67F45-FBF1-4C9D-8E89-9DF28C82A1CA.jpg",
+
+    "tags": ["sobremesas", "lanches"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 45
+    },
+
+    "servings": [6],
+
+    "rate": 4.7,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41450"
+  },
+
+  {
+    "name": "Bolo de 1 ovo",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/6EEDEF66-2EEA-4F78-B751-F7558F84DDF2/Derivates/B83BFFC9-9967-4A34-8329-9D7F83E24BD2.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 30,
+      "total": 35
+    },
+
+    "servings": [6, 12],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r28430"
+  },
+
+  {
+    "name": "Molho de caramelo",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/9cb11230-f74c-439d-a8eb-58958d8b4d4e/Derivates/de304170-2bc1-40b4-b584-c8cc783b38c7.jpg",
+
+    "tags": ["sobremesas", "doces"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 5,
+      "total": 90
+    },
+
+    "servings": ["400g"],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r432184"
   }
 ]
