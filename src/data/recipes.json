@@ -4,7 +4,7 @@
 
     "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/7a8f53ab5457140575e5d30eb6987ddf/Derivates/96c1beb34debe6acb36871b065cb869811c11110.jpg",
 
-    "tags": ["pequeno-almoço", "lanche"],
+    "tags": ["pequeno-almoço", "lanches"],
 
     "devices": ["TM7", "TM6", "TM5", "TM31"],
 
@@ -205,7 +205,7 @@
 
     "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/3A19DE43-AD01-4E31-B902-12C249FEBE70/Derivates/2A168FD2-061E-423A-8EB4-62A86906F0F3.jpg",
 
-    "tags": ["pequeno-almoço", "lanche"],
+    "tags": ["pequeno-almoço", "lanches"],
 
     "devices": ["TM7", "TM6", "TM5"],
 
@@ -410,7 +410,7 @@
 
     "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/dd27cfd337915a5adb8c6f266f6f3804/Derivates/4cb89bbc95f6fe63ba63d831d476001985e0b935.jpg",
 
-    "tags": ["pequeno-almoço", "lanche"],
+    "tags": ["pequeno-almoço", "lanches"],
 
     "devices": ["TM7", "TM6", "TM5"],
 
@@ -595,7 +595,7 @@
 
     "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/015CB977-329F-4DE1-815D-60FE801C2AE6/Derivates/49ad0484-ffa0-4fc7-bc9a-1974a6d3861e.jpg",
 
-    "tags": ["pequeno-almoço", "lanche"],
+    "tags": ["pequeno-almoço", "lanches"],
 
     "devices": ["TM7", "TM6", "TM5"],
 
@@ -1881,7 +1881,7 @@
 
     "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/323888BE-759B-48FE-A79A-CA833F0AA24C/Derivates/D5674BA2-C714-4A4B-B0B1-8F8C8F584DAA.jpg",
 
-    "tags": ["pequeno-almoço", "lanche"],
+    "tags": ["pequeno-almoço", "lanches"],
 
     "devices": ["TM7", "TM6", "TM5", "TM31"],
 
@@ -1952,7 +1952,7 @@
 
     "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/0B4FEFC0-4A5E-4649-B432-BF86E6416046/Derivates/dbd4b06b-3792-4d9a-bd41-dca6d729c80d.jpg",
 
-    "tags": ["pequeno-almoço", "lanche"],
+    "tags": ["pequeno-almoço", "lanches"],
 
     "devices": ["TM7", "TM6", "TM5"],
 
@@ -2057,7 +2057,7 @@
 
     "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/DA039477-C0C3-48AF-8430-DD44E964AA51/Derivates/E9BF3700-8405-48F2-8DC5-69E2B1F977A7.jpg",
 
-    "tags": ["pequeno-almoço", "lanche"],
+    "tags": ["pequeno-almoço", "lanches"],
 
     "devices": ["TM7", "TM6", "TM5", "TM31"],
 
@@ -3312,7 +3312,7 @@
 
     "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/4BA2348B-7F7B-42BA-9963-FF58FB5577FF/Derivates/b7dfa5f3-afce-4c5d-a17f-ad9c48429411.jpg",
 
-    "tags": ["lanche", "sobremesas"],
+    "tags": ["lanches", "sobremesas"],
 
     "devices": ["TM7", "TM6", "TM5"],
 
@@ -7605,7 +7605,7 @@
 
     "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/cc16394d-8976-42c6-83ab-f551940c5e83/Derivates/fe05729f-ad7d-486e-9a3e-6057c1bc428e.jpg",
 
-    "tags": ["entradas"],
+    "tags": ["entradas", "manteigas"],
 
     "devices": ["TM7", "TM6", "TM5", "TM31"],
 
@@ -8795,5 +8795,1748 @@
     "rate": 4.7,
 
     "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41109"
+  },
+
+  {
+    "name": "Creme de limão com morangos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/9f53d48112a9518eaf543af9f314109b/Derivates/5470fc9ec416619f7879e2ef6dc4e0f93095bb09.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 10
+    },
+
+    "servings": [6],
+
+    "rate": 4.1,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r801909"
+  },
+
+  {
+    "name": "Pudim da avó",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/cb28158de9a7e128112774f196a3034b/Derivates/d2571924a2ad2b56e693455b013781afe2c1fda5.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": "5h10"
+    },
+
+    "servings": [10],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r65890"
+  },
+
+  {
+    "name": "Bolo formigueiro",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/3e83dba4-81ed-45ed-9fbb-c4450ab12eb0/Derivates/7d29f76b-cc12-4875-ad68-dc619bd05e4a.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 55
+    },
+
+    "servings": [10],
+
+    "rate": 4.7,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r648204"
+  },
+
+  {
+    "name": "Guisado de frango com gnocchi de batata-doce",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/FDCB1548-4EDB-41D7-855A-2559A4BE4A02/Derivates/F6F1CB12-E5DA-4D02-BD8F-A00075FDB8BD.jpg",
+
+    "tags": ["carne", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 60
+    },
+
+    "servings": [6],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r99575"
+  },
+
+  {
+    "name": "Mousse de maçã com crumble",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/89CD3A8A-4177-49DB-9A74-D9CBF7767086/Derivates/b98c26cc-020c-457a-9fda-e14d5bb93396.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 15,
+      "total": 35
+    },
+
+    "servings": [10],
+
+    "rate": 4.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r131756"
+  },
+
+  {
+    "name": "Menú: Sopa de picadillo. Rape con gambón, patata panadera y salsa de naranja",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/3720353E-6D4A-414F-8990-76CB32D34806/Derivates/3F2655EE-D632-4A48-8AFF-2A91F7B2189A.jpg",
+
+    "tags": ["sopas", "peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 30,
+      "total": 75
+    },
+
+    "servings": [6],
+
+    "rate": 4.2,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r86300"
+  },
+
+  {
+    "name": "Migas com pimentos padrón",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/f7b84dbc-757b-44ec-8c17-7f4fd0321a82/Derivates/b34ef6dc-6cfb-4132-a16f-fff52342e227.jpg",
+
+    "tags": ["acompanhamento"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 20,
+      "total": 30
+    },
+
+    "servings": [12],
+
+    "rate": 4.4,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r759482"
+  },
+
+  {
+    "name": "Crocante de frutos vermelhos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/A90DEF7C-FCCD-40F7-9D1A-FFF8018AC7D3/Derivates/6ddddfb1-7fc8-427f-a01a-fa667a223ae2.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 90
+    },
+
+    "servings": [16],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r34803"
+  },
+
+  {
+    "name": "Cobler de fruta da época",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/ca75f720-4371-4aa6-8971-785c7d15af39/Derivates/4379e7d6-7331-4b86-9a42-d8dd83de72af.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 30,
+      "total": 75
+    },
+
+    "servings": [8],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r658201"
+  },
+
+  {
+    "name": "Shabu shabu (fondue japonesa)",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/66D8ABF0-C8FF-4CAE-80F5-19E30131A5EA/Derivates/6fb0b303-db51-4d62-92c4-885d8a3c0ce6.jpg",
+
+    "tags": ["carne", "asiático"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 30,
+      "total": 30
+    },
+
+    "servings": [4],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r208356"
+  },
+
+  {
+    "name": "Dorayakis con anko",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/6B81655D-4379-43E9-8CCC-00AC49B09229/Derivates/bcaffe36-d18d-4860-b545-6ca0d918382e.jpg",
+
+    "tags": ["sobremesas", "lanches", "asiático"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 30,
+      "total": 60
+    },
+
+    "servings": [12],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r175385"
+  },
+
+  {
+    "name": "Ebi tempura (langostinos en tempura)",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/E3AF6E67-0180-4A0A-8E8F-FF8CF8C97939/Derivates/759c5ff9-a816-41f1-8ae5-dd05dd304856.jpg",
+
+    "tags": ["entradas", "asiático"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 30,
+      "total": 30
+    },
+
+    "servings": [6],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r208346"
+  },
+
+  {
+    "name": "Mochis com recheio de sésamo",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/43ea6014-247f-4982-a14d-6bb891afbebf/Derivates/4a1db341-ecbd-42f3-92f6-ab071c57072b.jpg",
+
+    "tags": ["sobremesas", "asiático"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 25,
+      "total": 50
+    },
+
+    "servings": [8],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r773618"
+  },
+
+  {
+    "name": "Panquecas japonesas (Okonomiyaki)",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/d5fb9bec-5ca4-4546-b33a-c69a5da0ec0d/Derivates/1f933a11-91a3-4cee-99bf-a4a2ff5f228d.jpg",
+
+    "tags": ["refeições", "asiático"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 20,
+      "total": 30
+    },
+
+    "servings": [4],
+
+    "rate": 4.4,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r773614"
+  },
+
+  {
+    "name": "Bubble tea",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/E8647DE6-BB2B-4146-AAF5-6441D5C39FC4/Derivates/8f9979a9-09b3-4f63-aff5-9ea5236802d0.jpg",
+
+    "tags": ["bebidas", "asiático"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 80
+    },
+
+    "servings": [2],
+
+    "rate": 3.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r373183"
+  },
+
+  {
+    "name": "Sanduíches de arroz japonesas (Onigirazu) com salmão teriyaki",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/ca3ce914-f40d-45f7-b764-70fd10bebef9/Derivates/5e8f8f13-9546-4b76-a0ac-dad88b1e268b.jpg",
+
+    "tags": ["refeições", "asiático"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 40,
+      "total": 70
+    },
+
+    "servings": [8],
+
+    "rate": 4.9,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r773616"
+  },
+
+  {
+    "name": "Manteiga de amendoim em dois tamanhos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/5B1BE66E-9A69-47F8-AF46-B686C63196CD/Derivates/6cb7e2ee-34aa-4c0f-b2f2-18956497fa37.jpg",
+
+    "tags": ["manteigas", "lanches"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 5
+    },
+
+    "servings": ["200g"],
+
+    "rate": 4.9,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r347450"
+  },
+
+  {
+    "name": "Menu: Creme de ervilhas e gengibre, salmão com limão e brócolos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/21C26080-F221-4A5D-9925-A95B5AEA827B/Derivates/7FE3E78C-568B-4545-81CC-EFD13474B918.jpg",
+
+    "tags": ["sopas", "peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 25,
+      "total": 50
+    },
+
+    "servings": [4],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r915422"
+  },
+
+  {
+    "name": "Espuma rápida de frutas congeladas",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/1d2e448760e8194845965da7c453298a/Derivates/eeff5bc9bd3c8ff445832d973b201f2231e4d329.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 10
+    },
+
+    "servings": [3, 6, 9],
+
+    "rate": 4.7,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r64321"
+  },
+
+  {
+    "name": "Cheesecakes al vapor",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/6DC22801-AB10-4AF4-A330-C6F5E718749F/Derivates/AB99B173-1FB9-4B9E-97FE-D7A0D3201F9C.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 30,
+      "total": 240
+    },
+
+    "servings": [6],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r151510"
+  },
+
+  {
+    "name": "Menú para dos: Crema de coliflor. Pollo con verduras. Pera con piña y frutos rojos.",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/f398373443c1cb9e41bb7b8ad787ae4d/Derivates/ef6557f62a233e030806dee8c59555cc643edb93.jpg",
+
+    "tags": ["sopas", "carne", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "total": 45
+    },
+
+    "servings": [2],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r800752"
+  },
+
+  {
+    "name": "Bacalao confitado con pimientos rojos y emulsión de pilpil",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/0E475750-6DB1-42D1-A28E-7ACB4E183278/Derivates/124488A2-CB9D-41BB-AB9B-FC6FD33EF317.jpg",
+
+    "tags": ["peixe", "entradas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 30,
+      "total": 70
+    },
+
+    "servings": [48],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r44767"
+  },
+
+  {
+    "name": "Tarte de feta e espinafres",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/650E13BE-620F-4637-8C38-9FEA3BEC17D3/Derivates/7A47520D-0AB2-4C83-9AB3-C00C47D6551C.jpg",
+
+    "tags": ["vegetariano", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 40
+    },
+
+    "servings": [4],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r120425"
+  },
+
+  {
+    "name": "Crumble de abóbora, batata-doce e curgete",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/EDB48E47-3679-4550-BED2-8F0A4295BF4B/Derivates/880E21D2-44DA-45BC-8CD4-DE6E41132010.jpg",
+
+    "tags": ["vegetariano", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 50
+    },
+
+    "servings": [6],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r27734"
+  },
+
+  {
+    "name": "Massa com frango e orégãos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/66904E35-47CB-4200-B3B2-CFF094CB823E/Derivates/53451ffdcaa660dd481ea7a128e186fe52036936.jpg",
+
+    "tags": ["carne", "massas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 30
+    },
+
+    "servings": [4],
+
+    "rate": 4.2,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r65896"
+  },
+
+  {
+    "name": "Papelotes de salmão com ervas aromáticas ao estilo mediterrâneo",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2fa5e110-d8f3-4f04-9ca1-6c6914712f28/Derivates/8ca33602-acc0-4a78-8f37-7eea4f9c7ff5.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "total": 40
+    },
+
+    "servings": [4],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r750877"
+  },
+
+  {
+    "name": "Fofo de peixe",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/11D170AD-150A-40D7-90EC-5B98F4A9A20D/Derivates/1C0BB664-643B-4B64-B159-ADED88985BE1.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 70
+    },
+
+    "servings": [4],
+
+    "rate": 4.4,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r144714"
+  },
+
+  {
+    "name": "Cabrito no forno com migas de espargos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/D607525D-AB66-4279-A61F-9364893F690B/Derivates/FED6E481-F9DB-4D0B-B8F0-4AC63668C000.jpg",
+
+    "tags": ["carne", "acompanhamento", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": "10h15"
+    },
+
+    "servings": [6],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r147080"
+  },
+
+  {
+    "name": "Carne guisada com molho de tomate e arroz de ervilhas",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/b202a20b-6bd1-4e0f-8677-84a8ab58b7ff/Derivates/30415721-9ddd-40b8-83a2-0f4c0a3b40fd.jpg",
+
+    "tags": ["carne", "acompanhamento", "refeições"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 15,
+      "total": "10h"
+    },
+
+    "servings": [6],
+
+    "rate": 4.2,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r660614"
+  },
+
+  {
+    "name": "Bacalhau da alentejana",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/bd2972f10876ee026f17033fa68ca87b/Derivates/2c1acf43a0995b76d69c84ba2f4551fd02930d9b.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 50
+    },
+
+    "servings": [4],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r765371"
+  },
+
+  {
+    "name": "Bifes de frango picantes com arroz de pimentos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/D5CCAD90-A49A-4B20-B6B1-7520A47258CB/Derivates/CF38CBC2-1AEA-44DF-BB9B-211F630EE23B.jpg",
+
+    "tags": ["carne", "acompanhamento", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 60
+    },
+
+    "servings": [6],
+
+    "rate": 4.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r89152"
+  },
+
+  {
+    "name": "Bacalhau com broa e pimentos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/D2B3E1EC-3D28-45AC-A8D6-FD48F0AC8DF1/Derivates/06969A3D-98AD-4FAE-B16B-B1C486CBBB01.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 20,
+      "total": 60
+    },
+
+    "servings": [6],
+
+    "rate": 4.2,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r129757"
+  },
+
+  {
+    "name": "Misturas",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/D1A0A07F-1732-4BC5-A0FC-944B48073625/Derivates/e207fc95-2bdf-4a6b-89c0-1a597718cb80.jpg",
+
+    "tags": ["sopas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "total": 60
+    },
+
+    "servings": [8],
+
+    "rate": 4.9,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41086"
+  },
+
+  {
+    "name": "Bolos de baunilha e caramelo a vapor",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/98FF988D-6136-4272-88DB-4AC34F70DCD8/Derivates/6c03e178-65e1-4997-82c9-22da92539bb6.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 60
+    },
+
+    "servings": [12],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r247429"
+  },
+
+  {
+    "name": "Creme de tomate com cenoura e abóbora, salmão com mel e mostarda e arroz",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/AA795706-C21C-479E-A49C-860DFBEE2F19/Derivates/F0697BB7-68F2-416E-B656-13C6ED9EB2F8.jpg",
+
+    "tags": ["sopas", "peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 35
+    },
+
+    "servings": [2],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r104214"
+  },
+
+  {
+    "name": "Quindins a vapor",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/768615B3-B472-461C-BE6A-092BEBE08F88/Derivates/F3605F35-F087-4039-8C89-F8F86404BD3A.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 30
+    },
+
+    "servings": [15],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r111479"
+  },
+
+  {
+    "name": "Sopa de grão com espinafres",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/d6101e9542b6ded7fd0d872c8dc94228/Derivates/4852e9cf6130eb6b40ebda545df77b76164545a4.jpg",
+
+    "tags": ["sopas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 40
+    },
+
+    "servings": [8],
+
+    "rate": 4.7,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r55873"
+  },
+
+  {
+    "name": "Sopa de entulho",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/5D50FC8F-019B-4A6E-B9CE-0C2C125ECE3E/Derivates/49D1987B-F6C0-4923-A077-1AA530229214.jpg",
+
+    "tags": ["sopas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "total": 90
+    },
+
+    "servings": [6],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41057"
+  },
+
+  {
+    "name": "Guisado de grão, batata doce e espinafres",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/95077DC1-59E8-4C50-BEF7-1C835B1F7422/Derivates/1661A12D-CDC3-4239-81C8-FDD494CF4289.jpg",
+
+    "tags": ["vegetariano", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 40
+    },
+
+    "servings": [6],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r52111"
+  },
+
+  {
+    "name": "Sopa de beldroegas com queijo fresco",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/9ADCA659-9AE0-49B2-A8D0-1459867EBD18/Derivates/0BFDEF07-B43D-494C-8F09-63F47E00E391.jpg",
+
+    "tags": ["sopas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 50
+    },
+
+    "servings": [8],
+
+    "rate": 4.9,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r4315"
+  },
+
+  {
+    "name": "Gnocchi recheados",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/80e2d9fb-8c50-4e4c-8418-65e6819a2129/Derivates/16a9c2ce-a512-4edc-832b-82b70db6d3d1.jpg",
+
+    "tags": ["massas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 25,
+      "total": 80
+    },
+
+    "servings": [4],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r712754"
+  },
+
+  {
+    "name": "Gnocchi de batata com bacon, tomate e mozarela",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/1D6A7E41-36A5-45A0-9E90-4778E89B760A/Derivates/a2f265b5-27e8-4d0d-af57-26a74545876f.jpg",
+
+    "tags": ["massas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 85
+    },
+
+    "servings": [4],
+
+    "rate": 4.7,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r247436"
+  },
+
+  {
+    "name": "Esparguete à carbonara",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/e09d0f4c-863f-4944-b1b0-b6838d4b5823/Derivates/eec76449-bcfb-40b0-a4ba-ca86456cf144.jpg",
+
+    "tags": ["massas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 30
+    },
+
+    "servings": [4],
+
+    "rate": 4.4,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r729420"
+  },
+
+  {
+    "name": "Açorda de perdiz",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/28BAF606-DD15-4C45-910C-CE9ED8B87692/Derivates/30c2a551-c3a0-46e9-ab37-f5abc2756286.jpg",
+
+    "tags": ["carne", "açordas", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "total": 80
+    },
+
+    "servings": [6],
+
+    "rate": 3.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41058"
+  },
+
+  {
+    "name": "Caldo-verde",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/84d13ca1eb5cc3b1474f1d8169466596/Derivates/e063222974ed0497e346b2a45ca96e96dc7475e8.jpg",
+
+    "tags": ["sopas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 40
+    },
+
+    "servings": [3, 6],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r55874"
+  },
+
+  {
+    "name": "Arroz de maranhos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/dfb8c2edd828cda9f0a52f46f48918f9/Derivates/6491c986749b8c56dce3391424d4c841bae605c0.jpg",
+
+    "tags": ["carne", "acompanhamento", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": "2h45"
+    },
+
+    "servings": [3, 6, 9],
+
+    "rate": 5.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41084"
+  },
+
+  {
+    "name": "Açorda alentejana de bacalhau",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/927BD0AF-1B08-4505-A336-502D2289760D/Derivates/6CAF8250-B35E-4D5B-94FE-9E88A89B6125.jpg",
+
+    "tags": ["sopas", "açordas", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 30
+    },
+
+    "servings": [6],
+
+    "rate": 4.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41067"
+  },
+
+  {
+    "name": "Marmelada de maçã reineta",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/9B06418A-0426-44C8-9FB5-E40AF58221EC/Derivates/865D9879-6573-43AA-972E-3D14E21A4BD6.jpg",
+
+    "tags": ["lanches", "sobremesas", "doces"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 70
+    },
+
+    "servings": ["1500g"],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r40977"
+  },
+
+  {
+    "name": "Ovos-moles de 6 gemas",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/08C0A32B-17E8-499E-9358-53F2EF9A5A63/Derivates/1F91015E-B584-49E1-8BC6-84A4EA9B2145.jpg",
+
+    "tags": ["sobremesas", "doces"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 10,
+      "total": 40
+    },
+
+    "servings": [6],
+
+    "rate": 4.2,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r493760"
+  },
+
+  {
+    "name": "Bolinhos de batata e espinafres",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/D8E4CA32-3CFB-417A-A4F0-479B90672877/Derivates/9c8e1180-3f1d-45aa-aea1-1be0a2009108.jpg",
+
+    "tags": ["acompanhamento", "vegetariano"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 20,
+      "total": 60
+    },
+
+    "servings": [36],
+
+    "rate": 4.1,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r404196"
+  },
+
+  {
+    "name": "Picado de abelha",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/DA5BB5EE-084A-4BEE-9CA9-8F40CD4624AB/Derivates/e00addc3-22c4-4f67-80d8-a28fa1ad1638.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 40
+    },
+
+    "servings": [8],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r253861"
+  },
+
+  {
+    "name": "Panquecas com creme de avelã",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/C284766C-A4B2-4512-B582-4C2FB3B089B6/Derivates/E575EDB4-5833-4E37-8D7E-544384B5C21E.jpg",
+
+    "tags": ["lanches", "pequeno-almoço"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": "6h"
+    },
+
+    "servings": [18],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r111770"
+  },
+
+  {
+    "name": "Roux",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/A98F558A-73B9-4146-878A-F636B32CAE38/Derivates/16653e882cd68a17c1222fe9518a19513966a39f.jpg",
+
+    "tags": ["caldos"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 15
+    },
+
+    "servings": ["180g"],
+
+    "rate": null,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r37260"
+  },
+
+  {
+    "name": "Coelho de coentrada",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/FFA13544-EADA-4C73-AADE-26215F9294B7/Derivates/3B3BFB38-40F6-4BA6-9A3E-0340A601AC92.jpg",
+
+    "tags": ["carne"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 15,
+      "total": "48h"
+    },
+
+    "servings": [3, 6],
+
+    "rate": 5.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41014"
+  },
+
+  {
+    "name": "Carbonara de salsichas",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2F4BA086-3862-47CB-966C-CBA3A941E592/Derivates/F1093A1E-E31E-47CD-AE18-0AE716125458.jpg",
+
+    "tags": ["massas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 40
+    },
+
+    "servings": [3, 6],
+
+    "rate": 3.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41447"
+  },
+
+  {
+    "name": "Rojões com castanhas",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/92702B34-9E36-4BCA-8E0D-CF5EABC2A56D/Derivates/C6663427-ACCA-4151-8527-749A37D7B686.jpg",
+
+    "tags": ["carne", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": "2h40"
+    },
+
+    "servings": [4],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r32877"
+  },
+
+  {
+    "name": "Cebolada de porco com batata e curgete assadas",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/E98C12D0-9B43-4B2F-A70A-A9EACA647B16/Derivates/B3C1ED6C-F2BE-4D18-868D-A5F1D4A92EB8.jpg",
+
+    "tags": ["carne", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 15,
+      "total": 75
+    },
+
+    "servings": [6],
+
+    "rate": 4.4,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r67056"
+  },
+
+  {
+    "name": "Salteado de porco com pimentos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/BB7EDEE8-F974-45BC-8F26-5D06416D7985/Derivates/FE1688BF-056C-49AD-A97E-E77BD3412DB4.jpg",
+
+    "tags": ["carne", "salteados"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 30
+    },
+
+    "servings": [4],
+
+    "rate": 4.4,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r62764"
+  },
+
+  {
+    "name": "Frango com cerveja",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/FD472DCC-A1E6-4902-A3A8-477A58E067BC/Derivates/E937DB9A-65AC-4385-A2A5-900E76437F8B.jpg",
+
+    "tags": ["carne"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 40
+    },
+
+    "servings": [4],
+
+    "rate": 3.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r48618"
+  },
+
+  {
+    "name": "Bifinhos rápidos",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/260A0DBB-E4AC-4F5A-931A-52FD22EDA524/Derivates/00b11c58-975e-4f18-8f7e-1ca45bb50342.jpg",
+
+    "tags": ["carne"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 25
+    },
+
+    "servings": [4],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r315336"
+  },
+
+  {
+    "name": "Penne de frango caprese",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/E0E926D9-2884-43AC-84C0-8F5068F7065A/Derivates/2A01E25C-B272-4FAA-A3A1-16BBDF2758F8.jpg",
+
+    "tags": ["massas", "carne"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 35
+    },
+
+    "servings": [6],
+
+    "rate": 4.1,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r66058"
+  },
+
+  {
+    "name": "Sopa de grão e coentros",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/F09D8B39-EC94-46EB-BC3A-2371BD74ACDE/Derivates/69456fb9-12e2-45c6-93a8-72d262de7df6.jpg",
+
+    "tags": ["sopas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 40
+    },
+
+    "servings": [6],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r238272"
+  },
+
+  {
+    "name": "Pasta de quark e rabanete",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/EE7944D1-0B2C-4004-A96C-5C25AC966521/Derivates/7b39ebaf-e0e4-4f3c-b320-db3c88616710.jpg",
+
+    "tags": ["entradas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 10
+    },
+
+    "servings": [14],
+
+    "rate": 4.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r617605"
+  },
+
+  {
+    "name": "Lombinhos de pescada com alho e coentros e batatinhas",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/44EB8A4F-A25B-4AB2-9842-8EB661938DC3/Derivates/A39374DD-C2C5-49A2-9512-45CBBEB2DE41.jpg",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 35
+    },
+
+    "servings": [4],
+
+    "rate": 4.7,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r62765"
+  },
+
+  {
+    "name": "Frango de cebolada à angolana",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/14b06d92417bd48fdf40ecbfa91e4705/Derivates/299ba53935a385ab3f450a881e9b0d9a9d7d9dfd.jpg",
+
+    "tags": ["carne"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 30
+    },
+
+    "servings": [2, 4, 6],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r276808"
+  },
+
+  {
+    "name": "Lombos de pescada com molho Mournay",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/455DF9EA-00C0-470D-8ED4-4B45A605A2C3/Derivates/3503D6EB-734F-4931-B63A-B923F26BBFBE.jpg",
+
+    "tags": ["peixe"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 55
+    },
+
+    "servings": [6],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r23396"
+  },
+
+  {
+    "name": "Lombos de pescada com migas de nabiça e feijão-frade",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/FD3FF88A-3CA8-4FBE-936B-1CFF16F2C1D7/Derivates/3E2B7826-6AD9-4974-A12B-37EAFD181D41.jpg",
+
+    "tags": ["peixe", "acompanhamento", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 30
+    },
+
+    "servings": [4],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r99576"
+  },
+
+  {
+    "name": "Cogumelos à bulhão pato",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/beee6cec-d9c8-425b-bd52-88f0b88a14f3/Derivates/c09d021a-fd17-4062-b902-da1e921185d8.jpg",
+
+    "tags": ["salteados", "vegetariano"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 20
+    },
+
+    "servings": [1],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r658171"
+  },
+
+  {
+    "name": "Sopa de espargos com hambúrgueres de frango e legumes a vapor",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2d64ffda-c61e-41e3-9a38-70e7f57bd0a1/Derivates/1127611b-9c55-42ef-be4e-8d72cc8b6f28.jpg",
+
+    "tags": ["sopas", "carne", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 20,
+      "total": 55
+    },
+
+    "servings": [4],
+
+    "rate": 4.1,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r724902"
+  },
+
+  {
+    "name": "Gratinado de frango, Creme de legumes e Papelotes de fruta",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/6A857BE8-52DE-4019-A595-C0001A79E597/Derivates/790A4F69-2C88-4FA1-92A7-E3E99B779E95.jpg",
+
+    "tags": ["sopas", "carne", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 15,
+      "total": 60
+    },
+
+    "servings": [2],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r55851"
+  },
+
+  {
+    "name": "Arroz de cenoura",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/C6A7BF21-9FF3-4501-AE41-AA38B5375DFB/Derivates/45c1b26276dd1d681596a5f04f4c07030758bc5b.jpg",
+
+    "tags": ["acompanhamento"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 30
+    },
+
+    "servings": [4, 6],
+
+    "rate": 4.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r49678"
+  },
+
+  {
+    "name": "One pot de massa com salsicha",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2a157883164dc8aba1dd15ba737604d4/Derivates/5a0f59adcac8391508f55254fa05f0108a40681f.jpg",
+
+    "tags": ["massas"],
+
+    "devices": ["TM7", "TM6"],
+
+    "time": {
+      "preparation": 15,
+      "total": 30
+    },
+
+    "servings": [4],
+
+    "rate": 4.0,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r823321"
+  },
+
+  {
+    "name": "Brownies de beterraba",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/59B93B15-E0EF-4DEF-85B6-94D2ED4E873D/Derivates/3a19e6ef7e15c9e624b8f436d5002cdfcac688ca.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 45
+    },
+
+    "servings": [6, 8],
+
+    "rate": 4.9,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r28418"
+  },
+
+  {
+    "name": "Empadão de arroz com cogumelos e frango",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/C6BBEF68-10C2-404C-BA3C-B22A4B67D0BC/Derivates/8A31960E-1C82-422F-93F9-6743E80D0783.jpg",
+
+    "tags": ["carne", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 60
+    },
+
+    "servings": [6],
+
+    "rate": 3.7,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r81362"
+  },
+
+  {
+    "name": "Salada de arroz com camarão e legumes",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/DB8BE4C3-AB4F-46C4-855D-CC99F45DF8FF/Derivates/206F90B9-AC6E-4397-9043-3DE1921DC95C.jpg",
+
+    "tags": ["saladas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 30
+    },
+
+    "servings": [6],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r73135"
+  },
+
+  {
+    "name": "Arroz de peru",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/DB8BE4C3-AB4F-46C4-855D-CC99F45DF8FF/Derivates/206F90B9-AC6E-4397-9043-3DE1921DC95C.jpg",
+
+    "tags": ["carne", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 40,
+      "total": "4h50"
+    },
+
+    "servings": [2, 4, 6],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r138663"
+  },
+
+  {
+    "name": "Puré de grão com filetes de linguado",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/97F6C273-618E-447D-AAA5-9B4FB5323E4F/Derivates/2A02FBBA-225E-40DD-A6A4-29DDE55D519B.jpg",
+
+    "tags": ["peixe", "acompanhamento", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 20,
+      "total": "24h"
+    },
+
+    "servings": [6],
+
+    "rate": 4.2,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r37313"
+  },
+
+  {
+    "name": "Papelote de salmão com noodles e creme de alho-francês",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/1E1D8E42-7589-46E7-8B8A-3A41C4EEF807/Derivates/05DA009B-FE2D-4A37-8890-3CFFB856E5D5.jpg",
+
+    "tags": ["sopa", "massas", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 5,
+      "total": 40
+    },
+
+    "servings": [2],
+
+    "rate": 4.3,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r41459"
+  },
+
+  {
+    "name": "Creme de legumes, Filetes com arroz de tomate e abóbora e Crumble de maçã e pera",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/53D62258-BCCB-4CC8-A17D-9E2D6087D98D/Derivates/4C3C9D88-2244-4CC4-8953-EBF8F80F146A.jpg",
+
+    "tags": ["sopa", "peixe", "acompanhamento", "refeições"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 15,
+      "total": 60
+    },
+
+    "servings": [2],
+
+    "rate": 3.6,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r49580"
+  },
+
+  {
+    "name": "Palha italiana",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/30e71b1b468f1d6939f52150f1a7dc40/Derivates/86cd3a6b4cc535cdbbf2314668f95572b710e564.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 15,
+      "total": 45
+    },
+
+    "servings": [8],
+
+    "rate": 4.9,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r827206"
+  },
+
+  {
+    "name": "Tarte de chocolate",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/92537D5E-3380-4D6C-83CD-9968E88765AA/Derivates/83a8d658-894e-4e02-893a-e106bd5e895a.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 10,
+      "total": 120
+    },
+
+    "servings": [8],
+
+    "rate": 4.5,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r344219"
+  },
+
+  {
+    "name": "Filhós de abóbora",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/4C9A5C27-9236-4E8C-9B75-018B60D2F8D2/Derivates/0b6c99e57328cedf89bfdee33d0c429009384a85.jpg",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7", "TM6", "TM5", "TM31"],
+
+    "time": {
+      "preparation": 5,
+      "total": 90
+    },
+
+    "servings": [15, 20, 30],
+
+    "rate": 3.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r137197"
+  },
+
+  {
+    "name": "Rabanadas a vapor",
+
+    "img": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/da679ad7-c728-4fbb-bbcc-5ff291b7226a/Derivates/452f74d6-6a95-4274-ac14-4dc54cf5be35.jpg",
+
+    "tags": ["sobremesas", "Natal"],
+
+    "devices": ["TM7", "TM6", "TM5"],
+
+    "time": {
+      "preparation": 10,
+      "total": 60
+    },
+
+    "servings": [4, 8, 12],
+
+    "rate": 4.8,
+
+    "link": "https://cookidoo.pt/recipes/recipe/pt-PT/r672125"
   }
 ]
