@@ -34,11 +34,21 @@ export default function RecipePage() {
     <div className="RecipePage">
       <h1>Receitas</h1>
       <h2>Cookidoo</h2>
-      <ul>
-        {recipeInfo.map((recipe) => (
-          <li key={recipe.id}>{recipe.name}</li>
-        ))}
-      </ul>
+      {tagNames.map((tag) => (
+        <section key={tag} className="RecipeSection">
+          {/* título da secção = nome da tag */}
+          <h3 className="text-capitalize">{tag}</h3>
+
+          <ul>
+            {recipesByTag[tag].map((recipe) => (
+              <li key={recipe.id}>
+                {recipe.name}
+                {/* Aqui depois podes trocar por um <RecipeCard recipe={recipe} /> */}
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
     </div>
   );
 }
