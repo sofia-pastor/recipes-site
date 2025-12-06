@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Massa com alheira e cogumelos",
+
+    "tags": ["massas"],
+
+    "devices": ["TM7"],
+
+    "author": "Sílvia Martins",
+
+    "ingredients": [
+      {
+        "name": "massa tipo fusilli",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "cebola",
+        "quantity": 150,
+        "unit": "g",
+        "note": "em pedaços"
+      },
+      {
+        "name": "dentes de alho",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "azeite",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "orégãos",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "alheira sem pele",
+        "quantity": 1,
+        "unit": "un",
+        "note": "em pedaços"
+      },
+      {
+        "name": "cogumelos",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "leite",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "noz-moscada",
+        "quantity": 1,
+        "unit": "pitada"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo a água e o sal e aqueça 10 min/100°C/vel 1.",
+      "Adicione a massa e coza (sem a tampa ) o tempo indicado na embalagem /100°C/inversa /vel. colher. Escorra e reserve.",
+      "Coloque no copo a cebola, o alho e o azeite, pique 5 seg/vel 5 e refogue 5 min/120°C/vel. colher",
+      "Adicione a polpa de tomate e os orégãos e cozinhe 3 min/100°C/vel. colher.",
+      "Junte a alheira e os cogumelos e cozinhe 5 min/100°C/vel 1. Retire e reserve.",
+      "Pré-aqueça o forno a 200°C.",
+      "Para o béchamel, coloque todos os ingredientes no copo e cozinhe 6 min/90°C/vel 4.",
+      "Num pirex, misture a massa com a mistura de Alheira.",
+      "Leve ao forno a 200°C por 20 min, até dourar.",
+      "Sirva de seguida."
+    ],
+
+    "link": "https://www.instagram.com/p/DQuP_JVCB0Y/"
+  },
+
+  {
+    "name": "Bolonhesa",
+
+    "tags": ["carne"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Nadia",
+
+    "ingredients": [
+      {
+        "name": "cebola"
+      },
+      {
+        "name": "alho"
+      },
+      {
+        "name": "azeite"
+      },
+      {
+        "name": "carne"
+      },
+      {
+        "name": "tomate frito"
+      },
+      {
+        "name": "polpa de tomate"
+      },
+      {
+        "name": "sal"
+      },
+      {
+        "name": "pimenta"
+      },
+      {
+        "name": "orégãos"
+      },
+      {
+        "name": "cerveja",
+        "substitutes": "vinho branco"
+      }
+    ],
+
+    "instructions": [
+      "Coloquei cebola, alho e azeite. Piquei 5 seg/vel 5 (tal e qual como se fosse picar à faca para ir ao tacho).",
+      "Refoguei 5 min / 160ºC / modo intenso — temperaturas elevadas, o novo “refogado de chef” da TM7!",
+      "Juntei a carne + os meus temperos: tomate frito, polpa de tomate, sal, pimenta, orégãos, um bocadinho de cerveja OU vinho branco e mais um fio de azeite"
+    ],
+
+    "link": "https://www.instagram.com/p/DRu-BMeDEEh/"
+  },
+
+  {
+    "name": "Sangria de frutos vermelhos e manjericão",
+
+    "tags": ["bebidas"],
+
+    "devices": ["TM7"],
+
+    "author": "Margarida Felgueiras",
+
+    "ingredients": [
+      {
+        "name": "açúcar",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão",
+        "quantity": 8,
+        "unit": "pés"
+      },
+      {
+        "name": "limão",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "frutos vermelhos",
+        "quantity": 180,
+        "unit": "g"
+      },
+      {
+        "name": "água com gás",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "quantity": 1,
+        "unit": "garrafa"
+      }
+    ],
+
+    "instructions": [
+      "Colocar no copo 150g de açúcar e 250g água e cozinhar 8 min/100°C/vel 1.",
+      "Adicionar 8 pés de manjericão e retirar para um jarro.",
+      "Deixar o xarope arrefecer à temperatura ambiente cerca de 20 minutos. Descartar o manjericão.",
+      "Colocar no copo 1 limão cortado em quartos, 80 g de frutos vermelhos e 500g de água com gás fresca e, a segurar o copo medida, triturar 1 seg/vel 10.",
+      "Colocar o cesto e coar a limonada para um jarro.",
+      "Adicionar no jarro 100 g de frutos vermelhos, 1 limão cortado às rodelas, o xarope de manjericão e uma garrafa de vinho branco e envolver com a ajuda da espátula.",
+      "Servir de seguida guarnecida com folhas de manjericão e DANÇAR!!!!"
+    ],
+
+    "link": "https://www.instagram.com/p/DRnblpIAneo/"
+  },
+
+  {
+    "name": "Receita express",
+
+    "tags": ["carne", "marisco", "refeições"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Nadia",
+
+    "ingredients": [
+      {
+        "name": "azeite",
+        "quantity": 25,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "orégãos",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "sal"
+      },
+      {
+        "name": "pimenta"
+      },
+      {
+        "name": "camarão",
+        "quantity": 300,
+        "unit": "g",
+        "substitutes": [
+          { "name": "carne" },
+          { "name": "chourição e cogumelos" },
+          { "name": "bacon" },
+          { "name": "legumes" }
+        ]
+      },
+      {
+        "name": "molho de tomate",
+        "quantity": 300,
+        "unit": "g",
+        "substitutes": [{ "name": "natas" }]
+      },
+      {
+        "name": "água",
+        "quantity": 600,
+        "unit": "g"
+      },
+      {
+        "name": "massa",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Colocar os ingredientes por ordem e programar 15 min / 100°C / vel colher função inversa."
+    ],
+
+    "link": "https://www.instagram.com/p/DOW01t9DMRM/"
+  },
+
+  {
+    "name": "Rolo de carne",
+    "subtitle": "Tendo por base a receita das almôndegas com molho de tomate do Cookidoo",
+
+    "tips": [
+      "Com esta receita transformas 1 kg e meio de carne em 3 refeições diferentes - almôndegas, hambúrgueres e rolo de carne",
+      "Mesmo a seguir uma receita no ecrã, podes sempre sair e usar o modo manual! Clica na setinha do canto superior esquerdo → ícone da lâmina → escolhe o modo turbo.",
+      "Em 2 segundos triturei as tostas que substituíram o pão seco da receita original — fácil e zero desperdício",
+      "Depois foi só: juntar a carne, 2 ovos e temperar a gosto: sal, pimenta, alho, orégãos e pimentão doce",
+      "10 seg / vel 4 para envolver tudo",
+      "Estender sobre película e rechear ao gosto do freguês: bacon e queijo brie (como eu fiz), ou fiambre e queijo, farinheira, alheira, chourição… o que houver no frigorífico!",
+      "Enrolar e levar ao forno."
+    ],
+
+    "tags": ["carne", "adaptadas"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Nadia",
+
+    "ingredients": null,
+
+    "instructions": null,
+
+    "link": "https://www.instagram.com/p/DP1yhibDGKd/"
+  },
+
+  {
+    "name": "Panquecas zero desperdício de claras",
+
+    "tags": ["panquecas"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Nadia",
+
+    "ingredients": [
+      {
+        "name": "bananas maduras",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "claras",
+        "quantity": 4,
+        "unit": "c. chá"
+      },
+      {
+        "name": "leite",
+        "quantity": 270,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "iogurte",
+            "quantity": 1,
+            "unit": "un"
+          }
+        ]
+      },
+      {
+        "name": "farinha",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "name": "fermento",
+        "quantity": "1 e 1/2",
+        "unit": "c. chá"
+      }
+    ],
+
+    "instructions": [
+      "Piquei as bananas 5 seg/vel 5",
+      "Adicionei as claras + o leite/bebida vegetal (ou iogurte) e misturei 15 seg/vel 4",
+      "Juntei a farinha + fermento e envolvi 15 seg/vel 3",
+      "Fiz na crepeira: quando aparecerem bolhinhas, virou. 1 minutinho de cada lado e ficam perfeitas!"
+    ],
+
+    "link": "https://www.instagram.com/p/DRNV3C7jEuS/"
+  }
+]
