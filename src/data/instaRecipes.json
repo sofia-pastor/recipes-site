@@ -290,7 +290,7 @@
 
   {
     "name": "Rolo de carne",
-    "subtitle": "Tendo por base a receita das almôndegas com molho de tomate do Cookidoo",
+    "subtitle": "Tem por base a receita das almôndegas com molho de tomate do Cookidoo",
 
     "tips": [
       "Com esta receita transformas 1 kg e meio de carne em 3 refeições diferentes - almôndegas, hambúrgueres e rolo de carne",
@@ -367,5 +367,463 @@
     ],
 
     "link": "https://www.instagram.com/p/DRNV3C7jEuS/"
+  },
+
+  {
+    "name": "Espremer citrinos sem sujar nada",
+
+    "tips": [
+      "Basta colocar a tampa virada ao contrário e espremer o citrino por cima.",
+      "O sumo fica todo na parte de baixo, limpinho e os caroços ficam retidos na parte superior",
+      "Outra dica sobre a tampa da TM7: Podes usá-la como base antiderrapante quando colocas o copo na bancada após cozinhar — assim protege a superfície e evita escorregar."
+    ],
+
+    "tags": ["dicas", "adaptadas"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Nadia",
+
+    "ingredients": null,
+
+    "instructions": null,
+
+    "link": "https://www.instagram.com/p/DRfmF6nAFQD/"
+  },
+
+  {
+    "name": "Nesquik em 2 minutos",
+
+    "tags": ["pequeno-almoço", "preparados", "espanhol"],
+
+    "devices": ["TM7"],
+
+    "author": "ideas del chef",
+
+    "ingredients": [
+      {
+        "name": "chocolate branco s/ açúcar",
+        "quantity": 75,
+        "unit": "g"
+      },
+      {
+        "name": "chocolate preto",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cacau em pó",
+        "quantity": 2,
+        "unit": "c. sopa"
+      },
+      {
+        "name": "farinha maizena",
+        "quantity": 2,
+        "unit": "c. sopa"
+      }
+    ],
+
+    "instructions": [
+      "Ponemos todos los ingredientes en el vaso y programamos 2 golpes de turbo de 1 seg.",
+      "Seguidamente pulverizamos 30 seg / vel 10.",
+      "Listo Nesquiky preparado",
+      "Guárdalo en un recipiente con cierre hermético"
+    ],
+
+    "link": "https://www.instagram.com/p/DRQB2IGjbAy/"
+  },
+
+  {
+    "name": "Slow-cooking na Bimby",
+
+    "tags": ["carne", "slow-cooking"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Nadia",
+
+    "ingredients": [
+      {
+        "name": "bochechas de porco"
+      },
+      {
+        "name": "polpa de tomate",
+        "substitute": "tomate frito"
+      },
+      {
+        "name": "cerveja",
+        "quantity": "um toque",
+        "substitute": "vinho branco"
+      },
+      {
+        "name": "sal"
+      },
+      {
+        "name": "alho em pó"
+      },
+      {
+        "name": "paprika",
+        "substitute": "pimentão doce"
+      },
+      {
+        "name": "pimenta"
+      },
+      {
+        "name": "azeite"
+      },
+      {
+        "name": "folha de louro"
+      }
+    ],
+
+    "instructions": [
+      "Misturei tudo e programei o SlowCooking — 1 hora a 98°C.",
+      "Se quiserem a carne ainda mais macia, podem acrescentar tempo no final. O bom do SlowCooking é mesmo isso: cozinhamos ao ritmo que quisermos."
+    ],
+
+    "link": "https://www.instagram.com/p/DRPyVUqDL7J/"
+  },
+
+  {
+    "name": "Massa cremosa",
+
+    "tags": ["massas"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Marta Sousa",
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "massa tagliatelle",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "alho",
+        "quantity": 3,
+        "unit": "dentes"
+      },
+      {
+        "name": "azeite",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "bacon",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "natas",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "quantity": "q.b."
+      },
+      {
+        "name": "cebolinho picado",
+        "note": "opcional, para finalizar"
+      }
+    ],
+
+    "instructions": [
+      "Colocar 1000 g de água no copo 10min / 100ºC / vel.1. Adicionar sal q.b. e 200 g de massa. Programar tempo indicado na embalagem / 100ºC / colher inversa / vel 1.",
+      "Escorrer e reservar. (Não é necessário lavar o copo.)",
+      "Colocar 1 cebola e 3 dentes de alho no copo. Picar 5seg / vel.5",
+      "Adicionar 10 g de azeite e 150 g de bacon. Refogar 5min / 120ºC / colher inversa",
+      "Juntar 200 g de polpa de tomate, 200 g de natas, sal q.b. e pimenta q.b. Vamos cozinhar por 10 min / 90ºC / colher inversa",
+      "Retirar o molho do copo e colocar por cima da massa reservada, envolver bem e servir de imediato.",
+      "Opcional para finalizar: cebolinho picado, bacon crocante, queijo ralado"
+    ],
+
+    "link": "https://www.instagram.com/p/DQkG8ZbDZmz/"
+  },
+
+  {
+    "name": "Panquecas todos os dias",
+
+    "tips": [
+      "Distribuir a massa das panquecas por cuvetes de gelo e congelar.",
+      "Para fazer as panquecas, basta colocar o cubo da massa congelada diretamente na frigideira."
+    ],
+
+    "tags": ["dicas"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Nadia",
+
+    "ingredients": null,
+
+    "instructions": null,
+
+    "link": "https://www.instagram.com/p/C04Z_zMJCGj/?img_index=2"
+  },
+
+  {
+    "name": "Feijão preto",
+
+    "tags": ["acompanhamentos"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Nadia",
+
+    "ingredients": [
+      {
+        "name": "cebola",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "alho",
+        "quantity": 3,
+        "unit": "dentes"
+      },
+      {
+        "name": "linguiças pequenas",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "azeite",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "bacon",
+        "quantity": 1,
+        "unit": "embalagem",
+        "note": "opcional"
+      },
+      {
+        "name": "louro",
+        "quantity": 1,
+        "unit": "folha",
+        "note": "opcional"
+      },
+      {
+        "name": "feijão preto",
+        "quantity": 1,
+        "unit": "lata"
+      },
+      {
+        "name": "molho de tomate",
+        "quantity": 2,
+        "unit": "c. sopa"
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "quantity": "q.b."
+      },
+      {
+        "name": "malagueta",
+        "quantity": 1,
+        "unit": "un",
+        "note": "opcional"
+      }
+    ],
+
+    "instructions": [
+      "Adiciona cebola, dentes de alho, linguiças pequenas, azeite e pica 5seg / vel5",
+      "Se quiseres, podes acrescentar o bacon e o louro",
+      "Refoga 5min / temperaturas elevadas (para o molho ficar mais apurado)",
+      "Depois junta o feijão preto, o molho de tomate, a malagueta (opcional), sal e pimenta",
+
+      "Duas formas de cozinhar: 1️⃣ Modo manual: 15min / 120°C / função inversa / vel.colher; 2️⃣ Ou no modo sem tampa da TM7: 15min / 100°C — a lâmina não mexe, o feijão não se desfaz."
+    ],
+
+    "link": "https://www.instagram.com/p/DQkeSxYDOJD/"
+  },
+
+  {
+    "name": "Arroz no cesto",
+
+    "tags": ["acompanhamentos"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Nadia",
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "temperos a gosto"
+      },
+      {
+        "name": "cenoura, ervilhas ou similares",
+        "unit": "opcional"
+      }
+    ],
+
+    "instructions": [
+      "Coloca dentro do copo da bimby a água, o azeite e os temperos a gosto (sal e alho em pó), de seguida coloca o cesto dentro do copo e adiciona o arroz (quantidade que quiseres).",
+      "Podes colocar cenoura, ervilhas, o que quiseres.",
+      "Envolve com a espátula e carrega em Play - 20 minutos ou outro tempo depende do tipo de arroz que uses.",
+      "No final, retira o cesto com a ajuda da espátula.",
+      "Dica extra: Depois de cozer, não deites fora a água do copo! Ela está cheia de sabor e com a goma natural do arroz — perfeita para fazer uma sopa cremosa e reconfortante"
+    ],
+
+    "link": "https://www.instagram.com/p/DPzSlbNgHN_/"
+  },
+
+  {
+    "name": "Biscoitos de limão",
+
+    "tags": ["bolachas"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Bárbara Cardoso",
+
+    "ingredients": [
+      {
+        "name": "farinha T55",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga (temperatura ambiente)",
+        "quantity": 200,
+        "unit": "g",
+        "note": "pode ser manteiga magra ou com menos de 50% de gordura"
+      },
+      {
+        "name": "limão",
+        "quantity": 1,
+        "unit": "un",
+        "note": "só a raspa"
+      }
+    ],
+
+    "instructions": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "No copo coloque a farinha, o açúcar, a manteiga e a raspa de limão e misture 30 seg/vel 6.",
+      "Faça pequenas bolas e coloque-as sobre um tabuleiro anti-aderente (ou forrado com papel vegetal).",
+      "Leve ao forno a 180 ºC durante cerca de 15 minutos. Deixe arrefecer completamente e guarde num recipiente hermético."
+    ],
+
+    "link": "https://www.instagram.com/p/DPw8FvNjCqo/"
+  },
+
+  {
+    "name": "Dourada a vapor com molho verde",
+
+    "tags": ["peixe", "molhos"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "cebola",
+        "quantity": "1/2",
+        "unit": "un"
+      },
+      {
+        "name": "alho",
+        "quantity": 3,
+        "unit": "dentes"
+      },
+      {
+        "name": "Pimento verde, amarelo e vermelho",
+        "quantity": "q.b."
+      },
+      {
+        "name": "louro",
+        "quantity": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "dourada",
+        "quantity": 1,
+        "unit": "un",
+        "note": "escalada"
+      },
+      {
+        "name": "coentros",
+        "quantity": "q.b."
+      },
+      {
+        "name": "salsa",
+        "quantity": "q.b."
+      },
+      {
+        "name": "azeite",
+        "quantity": "q.b."
+      },
+      {
+        "name": "vinagre",
+        "quantity": "q.b."
+      },
+      {
+        "name": "arroz",
+        "quantity": "q.b."
+      },
+      {
+        "name": "água",
+        "quantity": "q.b."
+      },
+      {
+        "name": "limão",
+        "quantity": "q.b."
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo o alho, a cebola, os pimentos, os coentros, a salsa e pique 5 seg., vel.5. De seguida, tempere com sal, azeite e vinagre. Reserve.",
+      "Na varoma coloque a forma, adicione 1 caneca de arroz, adicione 1 caneca de água (quente) e tempere com 1 colher de sal, 1 folha de louro, 1 dente de alho e 1 fio de azeite.",
+      "No tabuleiro coloque 1 folha de papel vegetal, previamente, molhada e machucada. Sobre a folha coloque a dourada e tempere com limão e 1 colher de sal.",
+      "No copo coloque 1.200 l de água quente.",
+      "Coloque a varoma sobre o copo da Bimby.",
+      "De seguida, vai a “prateleira dos eletrodomésticos” e selecione “modo vapor”. Vai cozinhar 20 min., vel.2 e modo vapor."
+    ],
+
+    "link": "https://www.instagram.com/p/DP4QfaPiNJP/"
   }
 ]

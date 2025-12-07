@@ -1,3 +1,16 @@
 body {
   background-color: rgb(255, 241, 197);
 }
+
+.insta-embed-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.insta-embed-wrapper {
+  background: #f8f1e8;
+  padding: 10px;
+  border-radius: 12px;
+  margin: 20px auto;
+  max-width: 346px;
+}
