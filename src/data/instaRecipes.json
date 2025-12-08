@@ -293,7 +293,7 @@
     "subtitle": "Tem por base a receita das almôndegas com molho de tomate do Cookidoo",
 
     "tips": [
-      "Com esta receita transformas 1 kg e meio de carne em 3 refeições diferentes - almôndegas, hambúrgueres e rolo de carne",
+      "Com esta receita transformas 1 kg e meio de carne em 3 refeições diferentes almôndegas, hambúrgueres e rolo de carne",
       "Mesmo a seguir uma receita no ecrã, podes sempre sair e usar o modo manual! Clica na setinha do canto superior esquerdo → ícone da lâmina → escolhe o modo turbo.",
       "Em 2 segundos triturei as tostas que substituíram o pão seco da receita original — fácil e zero desperdício",
       "Depois foi só: juntar a carne, 2 ovos e temperar a gosto: sal, pimenta, alho, orégãos e pimentão doce",
@@ -448,12 +448,12 @@
       },
       {
         "name": "polpa de tomate",
-        "substitute": "tomate frito"
+        "substitutes": "tomate frito"
       },
       {
         "name": "cerveja",
         "quantity": "um toque",
-        "substitute": "vinho branco"
+        "substitutes": "vinho branco"
       },
       {
         "name": "sal"
@@ -463,7 +463,7 @@
       },
       {
         "name": "paprika",
-        "substitute": "pimentão doce"
+        "substitutes": "pimentão doce"
       },
       {
         "name": "pimenta"
@@ -694,7 +694,7 @@
     "instructions": [
       "Coloca dentro do copo da bimby a água, o azeite e os temperos a gosto (sal e alho em pó), de seguida coloca o cesto dentro do copo e adiciona o arroz (quantidade que quiseres).",
       "Podes colocar cenoura, ervilhas, o que quiseres.",
-      "Envolve com a espátula e carrega em Play - 20 minutos ou outro tempo depende do tipo de arroz que uses.",
+      "Envolve com a espátula e carrega em Play 20 minutos ou outro tempo depende do tipo de arroz que uses.",
       "No final, retira o cesto com a ajuda da espátula.",
       "Dica extra: Depois de cozer, não deites fora a água do copo! Ela está cheia de sabor e com a goma natural do arroz — perfeita para fazer uma sopa cremosa e reconfortante"
     ],
@@ -945,7 +945,7 @@
   {
     "name": "Legumes salteados",
 
-    "tips": "Funciona com quase todos os legumes - cenoura, courgete, pimento, cogumelos … ",
+    "tips": "Funciona com quase todos os legumes cenoura, courgete, pimento, cogumelos … ",
 
     "tags": ["salteados", "acompanhamentos"],
 
@@ -1098,7 +1098,7 @@
         "name": "bolacha Maria",
         "quantity": 80,
         "unit": "g",
-        "substitute": "bolacha torrada"
+        "substitutes": "bolacha torrada"
       },
       {
         "name": "maizena",
@@ -1505,7 +1505,7 @@
   {
     "name": "Iogurte gelado de framboesa",
 
-    "tags": ["iogurtes", "sobremesas"],
+    "tags": ["iogurtes", "sobremesas", "gelados"],
 
     "devices": ["TM7"],
 
@@ -1674,7 +1674,7 @@
 
     "instructions": [
       "Coloque a cebola, alho, cenoura e o azeite. Picamos 5 seg. na vel. 5.",
-      "Insira a borboleta. Adicione a carne, calda de tomate, vinho tinto, sal, colorau , arroz e água quente. Programe 18 min., temp. 120 °, vel. colher e colher inversa.",
+      "Insira a borboleta. Adicione a carne, calda de tomate, vinho tinto, sal, colorau , arroz e água quente. Programe 18 min., temp. 120°, vel. colher e colher inversa.",
       "Quando faltar 1 min. adicione pelo bocal 1 colher de vinagre."
     ],
 
@@ -1724,5 +1724,1351 @@
     ],
 
     "link": "https://www.instagram.com/p/DMlOWgeIHJH/"
+  },
+
+  {
+    "name": "Papas de aveia",
+
+    "tags": ["pequeno-almoço", "lanches"],
+
+    "devices": ["TM7"],
+
+    "author": "Bimby Margarida Felgueiras",
+
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "leite ou bebida vegetal",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "flocos de aveia",
+        "quantity": 20,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Colocar todos os ingredientes no copo e cozinhar por 7min/90°/Inversa/vel 2.5."
+    ],
+
+    "link": "https://www.instagram.com/p/DHa4Xbpt4dy/"
+  },
+
+  {
+    "name": "Bifanas do David",
+
+    "tags": ["carne", "refeições"],
+
+    "devices": ["TM7"],
+
+    "author": "Bimby Margarida Felgueiras",
+
+    "ingredients": [
+      {
+        "name": "cebola",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "azeite",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "cerveja",
+        "quantity": 100,
+        "unit": "cl"
+      },
+      {
+        "name": "concentrado de tomate",
+        "quantity": 3,
+        "unit": "c. sopa"
+      },
+      {
+        "name": "massa de pimentão",
+        "quantity": 3,
+        "unit": "c. sopa"
+      },
+      {
+        "name": "bifanas",
+        "quantity": 1000,
+        "unit": "g",
+        "note": "bem finas"
+      },
+      {
+        "name": "louro",
+        "quantity": 2,
+        "unit": "folhas"
+      },
+      {
+        "name": "cominhos",
+        "quantity": "q.b."
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      },
+      {
+        "name": "piri-piri",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "Colocar a cebola, os alhos e o azeite no copo",
+      "Picar 5 segundos/velocidade 7",
+      "Adicionar o louro",
+      "Cozinhar 5 minutos/120 graus/Inversa/ velocidade 1 (Utilizar o cesto em vez do copo medida)",
+      "Adicionar o concentrado de tomate, a massa de pimentão, os cominhos, a cerveja",
+      "Cozinhar 5 minutos/100 graus/Inversa/ velocidade colher (Utilizar o cesto em vez do copo medida)",
+      "Retirar as folhas de louro e triturar tudo durante 1 minuto, começando na vel 5 e aumentando progressivamente até à vel 7",
+      "Adicionar as bifanas, o sal, o piri-piri e envolver tudo com a espátula (eu utilizei cerca de 3 c. chá de sal)",
+      "Cozinhar 30 minutos/Varoma/Inversa/ velocidade 1 (Utilizar o cesto em vez do copo medida)",
+      "Servir e aproveitar a refeição.",
+
+      "Dica: Podes colocar a borboleta antes do passo 8, para ajudar a que a carne não se desfaça, mas eu não senti essa necessidade"
+    ],
+
+    "link": "https://www.instagram.com/p/DK_-xZSt15u/"
+  },
+
+  {
+    "name": "Arroz de feijão da Avó Ana",
+
+    "tags": ["acompanhamentos"],
+
+    "devices": ["TM7"],
+
+    "author": "Bimby Margarida Felgueiras",
+
+    "ingredients": [
+      {
+        "name": "cebola",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "louro",
+        "quantity": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "azeite",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "feijão manteiga cozido",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "arroz agulha",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 650,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "Colocar a cebola, os alhos e o azeite no copo",
+      "Picar 5 segundos/velocidade 7",
+      "Adicionar o louro",
+      "Cozinhar 5 minutos/120 graus/Inversa/velocidade 1 (Para TM6, utilizar o cesto em vez do copo medida)",
+      "Colocar a borboleta,",
+      "Adicionar a água e o feijão",
+      "Cozinhar 10 minutos/100ªC/Inversa/Vel 1",
+      "Adicionar o arroz e o sal (para 200 gramas usei 1 c. chá) e envolver tudo bem com a espátula (a borboleta mantém-se no copo)",
+      "Cozinhar por 15 a 17 minutos/100ºC/Inversa/Vel colher (Coloquei apenas 15 minutos, mas a marca do arroz poderá influenciar este ponto)",
+      "Nota: podes aumentar as quantidades, desde que a quantidade de água colocada seja 3 ou 4x a quantidade de arroz"
+    ],
+
+    "link": "https://www.instagram.com/p/DLwxUlwtnSo/"
+  },
+
+  {
+    "name": "Frango estufado com cerveja e arroz",
+
+    "tags": ["carne", "acompanhamentos", "refeições"],
+
+    "devices": ["TM7"],
+
+    "author": "Bimby Margarida Felgueiras",
+
+    "ingredients": [
+      {
+        "name": "cebola",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "tomate",
+        "quantity": 550,
+        "unit": "g",
+        "note": "em pedaços"
+      },
+      {
+        "name": "cerveja",
+        "quantity": 400,
+        "unit": "g"
+      },
+      {
+        "name": "arroz",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "frango",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "quantity": "q.b."
+      },
+      {
+        "name": "pimentão doce",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "Colocar a cebola, os alhos e o azeite no copo. Neste passo, também poderia adicionar chouriço (entre 25 a 35 gramas)",
+      "Picar 5 segundos/velocidade 7",
+      "Cozinhar 5 minutos/100 graus/ velocidade 1",
+      "Adicionar o tomate em pedaços e temperar com o pimentão doce fumado (também poderia ser massa de pimentão)",
+      "Cozinhar 3 minutos/100 graus/ velocidade 1.5",
+      "Colocar a borboleta (isto vai ajudar a que o frango não se desfaça)",
+      "Adicionar o frango, a cerveja e temperar com sal e pimenta (coloquei 1.5 c. chá de sal e 1 pitada de pimenta). Garantir que o frango fica submerso para cozinhar.",
+      "Colocar a tampa e a varoma. Na varoma, colocar uma forma de buraco de alumínio fino.",
+      "Adicionar 250 gramas de arroz e 250 gramas de água dentro da forma e temperar a gosto. Envolver tudo muito bem.",
+      "Cozinhar 30 minutos/Varoma/Inversa/velocidade colher.",
+      "Servir e aproveitar a refeição."
+    ],
+
+    "link": "https://www.instagram.com/p/DMdU7UWtKfl/"
+  },
+
+  {
+    "name": "Sumo de maracujá e limão",
+
+    "tags": ["bebidas"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "limão",
+        "quantity": 2,
+        "unit": "un",
+        "note": "com casca, cortados em quartos"
+      },
+      {
+        "name": "maracujá",
+        "quantity": 4,
+        "unit": "un",
+        "note": "a polpa",
+        "substitutes": [
+          {
+            "name": "lata de polpa de maracujá",
+            "unit": 1
+          }
+        ]
+      },
+      {
+        "name": "água",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "gelo",
+        "quantity": "q.b."
+      },
+      {
+        "name": "hortelã",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "Coloque os limões, a polpa dos maracujás, a água.",
+      "Na “ prateleira dos electrodomésticos” seleciona o modo “turbo” e tritura 1X durante 1 seg.",
+      "No jarro coloque os cubos de gelo aromatizados com a hortelã.",
+      "Coe a limonada com a ajuda do cesto.",
+      "Adicione algumas sementes."
+    ],
+
+    "link": "https://www.instagram.com/p/DMdddCVIfkM/"
+  },
+
+  {
+    "name": "Massa de panela",
+
+    "tags": ["massas", "receitas alemãs"],
+
+    "devices": ["TM6"],
+
+    "author": "fitgemixt",
+
+    "ingredients": [
+      {
+        "name": "alho",
+        "quantity": "3-4",
+        "unit": "dentes"
+      },
+      {
+        "name": "malagueta",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "ervas a gosto"
+      },
+      {
+        "name": "azeite",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 750,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "1 1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "esparguete",
+        "quantity": 350,
+        "unit": "g"
+      },
+      {
+        "name": "tomate-cereja",
+        "quantity": 10,
+        "unit": "un",
+        "note": "picados"
+      }
+    ],
+
+    "instructions": [
+      "Coloque os dentes de alho, a malagueta e um punhado de ervas a gosto no copo e pique: 5s/Vel.7",
+      "Adicione o azeite 4 min./120°C/Vel.1",
+      "De seguida, adicione a água e o sal e ligue 5min/100°C/Vel.1",
+      "Passe os 350g de espaguete (feito com sêmola de trigo duro) pela abertura da tampa e 12min./100°C/Inverso/Vel.1 sem o copo medidor. Cozinhe por mais 1-2 minutos, dependendo da massa.",
+      "Transfira e adicione 10 tomates-cereja picados."
+    ],
+
+    "link": "https://www.instagram.com/p/DMYJBmKMz5n/"
+  },
+
+  {
+    "name": "Cheesecake morango (em 5min)",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7"],
+
+    "author": "Bimby Florbela Dias",
+
+    "ingredients": [
+      {
+        "name": "natas",
+        "quantity": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "leite condensado",
+        "quantity": 1,
+        "unit": "lata"
+      },
+      {
+        "name": "morango",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "gelatina",
+        "quantity": 4,
+        "unit": "folhas"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 50,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "No copo limpo bater as natas(sem borboleta)velocidade 9 em apenas 8 segundos.",
+      "Num recipiente demolhar a gelatina , espremer bem e leva 5 segundos a derrreter no microondas.",
+      "Entretanto junta ás natas o leite condensado e envolver delicadamente, mistura as folhas gelatina bem dissolvidas e frias ao preparado.",
+      "Leva ao frigorífico por 30 minutos.",
+      "Entretanto faz o molho de morango,coloca os morangos e açúcar no copo.",
+      "Por 15 minutos temp.120 vel.1!!!",
+      "Podes usar compotas prontas,aí consegues uma sobremesa super rápida.",
+      "Depois deixa arrefecer um pouquinho e coloca por cima da sobremesa.",
+      "Podes decorar a gosto eu coloquei frutos vermelhos congelados."
+    ],
+
+    "link": "https://www.instagram.com/p/DMVl-NANt0i/"
+  },
+
+  {
+    "name": "Gelado de Oreo",
+
+    "tags": ["sobremesas", "gelados"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Marta Sousa",
+
+    "ingredients": [
+      {
+        "name": "leite condensado"
+      },
+      {
+        "name": "natas",
+        "note": "bem frias"
+      },
+      {
+        "name": "bolachas oreo"
+      }
+    ],
+
+    "instructions": [
+      "Tritura 1 pacote de bolachas Oreo: 2 seg / vel 5 – retira e reserva.",
+      "Coloca as natas bem frias e bate na vel 9 até ficarem montadas (fica atenta ao som das lâminas!).",
+      "Junta 1/2 lata de leite condensado: 20 seg / vel 4",
+      "Adiciona as bolachas trituradas: 30 seg / vel 3",
+      "Coloca num recipiente e leva ao congelador"
+    ],
+
+    "link": "https://www.instagram.com/p/DMIQbZdM5Io/"
+  },
+
+  {
+    "name": "Jardineira",
+
+    "tags": ["carne", "refeições"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "cebola média",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "azeite",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "bacon aos cubos",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "batatas",
+        "quantity": 400,
+        "unit": "g"
+      },
+      {
+        "name": "carne de novilho",
+        "quantity": 800,
+        "unit": "g",
+        "note": "aos quartos"
+      },
+      {
+        "name": "polpa de tomate ou tomate maduro",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "vinho",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "quantity": 1,
+        "unit": "louro"
+      },
+      {
+        "name": "cenoura",
+        "quantity": 2,
+        "unit": "un",
+        "note": "cortadas em rodelas"
+      },
+      {
+        "name": "pimento vermelho",
+        "quantity": 1,
+        "unit": "un",
+        "note": "cortado às tiras"
+      },
+      {
+        "name": "pimento verde",
+        "quantity": 1,
+        "unit": "un",
+        "note": "cortadas em rodelas"
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "quantity": "q.b."
+      },
+      {
+        "name": "paprika",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "Insira o descascador. Coloque no copo as batatas e a água. Na “prateleira dos electrodomésticos” selecione o modo descascar.",
+      "Na varoma coloque as batatas, previamente, descascadas, ervilhas, cenoura cortada às rodelas e pimentos cortados às tiras. Reserve.",
+      "No copo coloque 1 cebola, 2 dentes de alho e 40 gr de azeite. Pique 5 seg., na vel.5.",
+      "De seguida, refogue 2 min., 120 ⁰ C, vel.1.",
+      "Adicione 800 gr de carne de novilho, 100 gr de bacon aos cubos,1 folha de louro, 250 gr de polpa de tomate, 40 gr de vinho, sal, pimenta, paprika.",
+      "De seguida, na “prateleira dos eletrodomésticos” selecione o modo temperaturas elevadas e refogue durante 5 min., no modo altas temperaturas e no modo intenso.",
+      "Coloque a varoma sobre o copo da Bimby. Dirige-se a “ prateleira dos eletrodomésticos” e selecione o modo vapor.",
+      "Vai cozinhar durante 30 min., na vel. colher, na colher inversa e no modo vapor.",
+      "Decorridos os 30 min. envolve a carne com os legumes e as batatas que estão na varoma."
+    ],
+
+    "link": "https://www.instagram.com/p/DMDp83dI-U4/"
+  },
+
+  {
+    "name": "Gaspacho",
+
+    "tags": ["sopas"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "tomate maduro",
+        "quantity": 500,
+        "unit": "g",
+        "note": "cortado em pedaços"
+      },
+      {
+        "name": "água fresca",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "quantity": 75,
+        "unit": "g",
+        "note": "s/ sementes"
+      },
+      {
+        "name": "cebola média",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "pepino",
+        "quantity": 70,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": "q.b."
+      },
+      {
+        "name": "croutons",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo o tomate, o pimento, o alho, a cebola, o pepino, o vinagre, o sal e a pimenta e triture 1 min 30 seg/vel 9.",
+      "Adicione o azeite e a água e misture 10 seg/vel 4.",
+      "Sirva fresco."
+    ],
+
+    "link": "https://www.instagram.com/p/DLx5v41AGZf/"
+  },
+
+  {
+    "name": "Bacalhau com natas (sem natas)",
+
+    "tags": ["peixe"],
+
+    "devices": ["TM7"],
+
+    "author": "Bimby Margarida Felgueiras",
+
+    "ingredients": [
+      {
+        "name": "azeite",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "broa de milho",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "cenoura",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 2,
+        "unit": "c. chá"
+      },
+      {
+        "name": "bacalhau desfiado e demolhado",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "espinafres descongelados",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "leite",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "noz-moscada",
+        "quantity": 1,
+        "unit": "pitada"
+      }
+    ],
+
+    "instructions": [
+      "Coloca no copo 10g de azeite com 80g de broa de milho (podes usar outro tipo de pão) e rala 10 seg/vel 10. Reservar.",
+      "No copo, coloca 200g de cebola, 2 dentes de alho, 150g de cenoura, 50g de azeite e 1 c. chá de sal. Pica 5 seg/vel 5, baixa o que ficou nas paredes do copo e refoga 5 min/100 graus/vel 1.",
+      "Adiciona 500g de bacalhau desfiado (e demolhado) e 300g de espinafres descongelados (às vezes faço com brócolos e adoro) e cozinha por 7 minutos/120 graus/vel 1. No final, desfia durante 3 segundos/Inversa/velocidade 4.",
+      "Envolve a mistura de bacalhau e legumes numa travessa com 300g de batata-palha.",
+      "Colocar no copo 1 litro de leite, 100g de farinha, 30g de manteiga, 1 c.chá de sal, 1 pintada de pimenta e 1 pitada de noz-moscada. Cozinhar por 8 min/90 graus/ vel 4.",
+      "Envolver com a mistura na travessa, cobrir com a broa ralada e levar ao forno pré-aquecido a 200 graus até gratinar.",
+      "Servir e aproveitar!"
+    ],
+
+    "link": "https://www.instagram.com/p/DIzSCxkoPsX/"
+  },
+
+  {
+    "name": "Gelado de doce de leite",
+
+    "tags": ["sobremesas", "gelados"],
+
+    "devices": ["TM7"],
+
+    "author": "Bimby Margarida Felgueiras",
+
+    "ingredients": [
+      {
+        "name": "clara de ovo",
+        "quantity": 5,
+        "unit": "un"
+      },
+      {
+        "name": "natas c/ 35% de gordura",
+        "quantity": 600,
+        "unit": "g"
+      },
+      {
+        "name": "leite condensado cozido",
+        "quantity": 1,
+        "unit": "lata"
+      },
+      {
+        "name": "avelã",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "No copo bem limpo, insere a borboleta e adiciona as natas, bem frias. Bate na velocidade 3.5. Deves ficar perto da Bimby e pará-la assim que deixar de ser ouvir barulho líquido dentro do copo. (O som muda assim que as natas deixam de estar líquidas). Quando o som mudar, podes abrir para ver se estão na consistência certa. Se não estiverem, coloca mais 10 seg/vel 3.5 e vai repetindo até chegar ao ponto certo.",
+      "Adiciona 200g de leite condensado cozido e mistura 5 seg/vel 3. Reserva.",
+      "No copo limpo, coloca a borboleta, as claras de ovo e bate 4 min/vel 3.5.",
+      "Adiciona ao preparado das natas e envolve cuidadosamente com uma vara de arames.",
+      "Coloca num recipiente baixo (com tampa ou coberto com película aderente) e leva ao congelador por 8 horas.",
+      "Passado 8 horas, coloca o gelado partido em pedaços no copo e bate por 1 min/vel 9. Coloca num recipiente metade do gelado e distribui metade do resto da lata de leite condensado. Mistura com um garfo.",
+      "Coloca o resto do gelado por cima e termina com o resto do leite condensado. Envolve novamente com um garfo.",
+      "Leva novamente ao congelador até solidificar.",
+      "Podes picar algumas avelãs e adicionar no momento de servir (ou podes colocar por cima, antes de levares ao congelador pela segunda vez).",
+      "Prova e desfruta!"
+    ],
+
+    "link": "https://www.instagram.com/p/DKxCJECtINL/"
+  },
+
+  {
+    "name": "Gelado de caramelo salgado",
+
+    "tags": ["sobremesas", "gelados"],
+
+    "devices": ["TM7"],
+
+    "author": "Bimby Margarida Felgueiras",
+
+    "ingredients": [
+      {
+        "name": "vagem de baunilha",
+        "quantity": "1/2",
+        "unit": "un"
+      },
+      {
+        "name": "leite gordo",
+        "quantity": 600,
+        "unit": "g"
+      },
+      {
+        "name": "natas",
+        "quantity": 200,
+        "unit": "g",
+        "note": "c/, pelo menos, 30% de gordura"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "gemas de ovo",
+        "quantity": 6,
+        "unit": "un"
+      },
+      {
+        "name": "molho de caramelo",
+        "quantity": "q.b.",
+        "note": "Pode ser feito na bimby"
+      }
+    ],
+
+    "instructions": [
+      "1. Colocar no copo a baunilha, o leite, as natas, o açúcar, as gemas e 100 g de molho de caramelo e cozinhar 12 min/90°C/ vel 2.5.",
+      "2. Deixar a mistura arrefecer totalmente e levar ao congelador num recipiente tapado por cerca de 10 horas.",
+      "3. Colocar a mistura no frigorífico cerca de 15 minutos antes de retomar a receita. Cortar a mistura em pedaços com ajuda de uma faca.",
+      "4. Colocar no copo metade do gelado, triturar 20 seg/ vel 6 e de seguida bater 10 seg/vel 4.",
+      "5. Retirar para um recipiente próprio para ir ao congelador.",
+      "6. Espalhar molho de caramelo q.b. sobre o gelado.",
+      "7. Colocar no copo o restante gelado, triturar 20 seg/vel 6 e bater 10 seg/vel 4. Verter para o recipiente com o restante gelado.",
+      "8. Espalhar molho de caramelo sobre o gelado e com a ajuda de um garfo envolver.",
+      "9. Levar ao congelador cerca de 2 horas.",
+      "10. Servir o gelado com mais molho de caramelo por cima!"
+    ],
+
+    "link": "https://www.instagram.com/p/DLNhgGdtg3N/"
+  },
+
+  {
+    "name": "McFlurry de M&Ms",
+
+    "tags": ["sobremesas", "gelados"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "natas",
+        "quantity": 150,
+        "unit": "g",
+        "note": "p/ bater"
+      },
+      {
+        "name": "iogurte grego",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 70,
+        "unit": "g"
+      },
+      {
+        "name": "leite em pó",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "M&Ms",
+        "quantity": 50,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Adicione as natas, o iogurte grego, o açúcar, o leite em pó e a baunilha e envolva 15 seg., vel. 4. De seguida, envolva 30 seg., vel. 5.",
+      "Verta o preparado num couvert e congele em cúbitos cerca de 2 h.",
+      "Eu fiz de M&M’s mas podem fazer com o topping que preferirem ( Oreo, KitKat).",
+      "Coloque no copo da Bimby os cubos congelados e 50 gr de M&M’s e misture 30 seg., na vel. 3.5.",
+      "Guarneça com M&M’s e sirva de seguida."
+    ],
+
+    "link": "https://www.instagram.com/p/DLnaefYIQHc/"
+  },
+
+  {
+    "name": "Sopa fria de melão e presunto",
+
+    "tags": ["sopas", "entradas"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "melão",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "iogurte grego",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "presunto",
+        "note": "cortado em tiras pequenas"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo o melão e triture 1 min., vel.9.",
+      "Adicione o iogurte grego, a pimenta e o sal e misture 10 seg., vel.4.",
+      "Sirva fresca guarnecida com tiras de presunto crocante ( digo qual o segredo no vídeo)."
+    ],
+
+    "link": "https://www.instagram.com/p/DLiaeEpo_Uu/"
+  },
+
+  {
+    "name": "Amêndoas caramelizadas",
+
+    "tags": ["doces", "receitas francesas"],
+
+    "devices": ["TM7"],
+
+    "author": "Momix by Amandine",
+
+    "ingredients": [
+      {
+        "name": "amandes entières non émondées",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "name": "beurre demi-sel",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "miel liquide",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cannelle (Ceylan de préférence)",
+        "quantity": 1,
+        "unit": "c. sopa"
+      },
+      {
+        "name": "extrait de vanille",
+        "quantity": 1,
+        "unit": "c. café"
+      },
+      {
+        "name": " sucre de canne",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "fleur de sel",
+        "quantity": 3,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Torréfier les amandes au four à 180°C pendant 15 minutes.",
+      "Dans le bol du Thermomix, mettre le beurre, le miel, la cannelle et la vanille. Chauffer 2 min / Varoma / vitesse 1.",
+      "Ajouter les amandes torréfiées, mélanger 30 sec / vitesse 1 / sens inverse.",
+      "Étaler le tout sur une plaque, enfourner 15 min à 170°C.",
+      "À la sortie du four, mélanger avec le sucre de canne et la fleur de sel (ou d’autres épices si tu veux personnaliser).",
+      "Laisser sécher 30-40 minutes, casser les morceaux et conserver dans un bocal hermétique."
+    ],
+
+    "link": "https://www.instagram.com/p/DLhA9K_IEw3/"
+  },
+
+  {
+    "name": "Eau de rhubarbe (aprox. 1,5L)",
+
+    "tags": ["bebidas", "receitas francesas"],
+
+    "devices": ["TM7"],
+
+    "author": "Momix by Amandine",
+
+    "ingredients": [
+      {
+        "name": "rhubarbe fraîche en tronçon",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "eau",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "sucre",
+        "quantity": 150,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Couper la rhubarbe en petit tronçon et la mettre dans un bol. Ajouter 150 gr de sucre, bien mélanger  et couvrir. Laissez reposer 2h.",
+      "Ajouter 1l d’eau bouillante ( chauffée au Thermomix, en plus c’est vrai j’ai plus de bouilloire 😅 ). Laissez macérer 24h à température ambiante, si il fait trop chaud, les mettre au garage ou au frigo)",
+      "Filtrer  avec une passoire et déguster l’eau avec des glaçons 🧊 J’y ai ajouté des pétales de roses cristallisées c’est super bon aussi ! Mais tu peux le déguster sans.",
+      "Avec les petits cubes ( qui sont divin à manger comme ça ) je réalise une tarte rhubarbe avec un petit crumble juste à tomber par terre 🤩, je te partagerais la recette dans les jour à venir aussi )",
+      "Bonne dégustation!"
+    ],
+
+    "link": "https://www.instagram.com/p/DJrQfzhoRYu/"
+  },
+
+  {
+    "name": "Margarita",
+
+    "tags": ["bebidas"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "tequila",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "licor de laranja",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cubos de gelo",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo a Tequila, o licor de laranja, os limões e o açúcar e misture 15 seg/vel 6.",
+      "Adicione os cubos de gelo e triture 1 min/ vel 10.",
+      "Coloque a Margarita em copos e sirva imediatamente."
+    ],
+
+    "link": "https://www.instagram.com/p/DLVWTiyoSRe/"
+  },
+
+  {
+    "name": "Tablete de Franui",
+
+    "tags": ["doces"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "chocolate de leite",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "óleo de coco",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "framboesas",
+        "quantity": 150,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo o chocolate de leite e o óleo de coco e triture 5 seg., vel.7.",
+      "Baixe com a ajuda da espátula o que ficou na parece do copo e derreta 3 min./65°C/ vel.1.",
+      "Deite metade do chocolate derretido na forma de silicone para barras de chocolate. Com a ajude de um pincel de cozinha, espalhe o chocolate uniformemente sobre o fundo e as laterais da forma.",
+      "Coloque sobre a forma as framboesas e de seguida coloque o restante chocolate derretido sobre a mistura de framboesa.",
+      "Leve ao frigorífico para endurecer durante cerca de 30 min."
+    ],
+
+    "link": "https://www.instagram.com/p/DLLL8zSIIcH/"
+  },
+
+  {
+    "name": "One pot de frango",
+
+    "tags": ["carne", "refeições"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "queijo emental",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "azeite",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "espinafres",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "peitos de frango",
+        "quantity": 700,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 950,
+        "unit": "g"
+      },
+      {
+        "name": "massa tipo fusilli tricolor",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": "q.b."
+      },
+      {
+        "name": "orégãos",
+        "quantity": "q.b."
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo o queijo e rale 5s/vel 10. Retire e reserve. (Saltei este passo porque não posso comer queijo)",
+      "Insira a borboleta. Coloque o azeite, o alho, 100 gr de espinafres, a pimenta, os óregãos, o frango, o chouriço, a água, o sal e cozinhe 10min/100°C/vel. colher e colher inversa.",
+      "Adicione a massa e cozinhe 10min/100°C/vel.colher e colher inversa. Após este tempo verifique se está cozida ou se precisa de colocar mais tempo.",
+      "Adicione o queijo reservado e 100g de espinafres, envolva bem com a ajuda da espátula e sirva de seguida."
+    ],
+
+    "link": "https://www.instagram.com/p/DLF6pEHoecH/"
+  },
+
+  {
+    "name": "Gelado rápido de banana e chocolate",
+
+    "tags": ["sobremesas", "gelados"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Fábio Almeida",
+
+    "ingredients": [
+      {
+        "name": "chocolate 70% cacau",
+        "quantity": 200,
+        "unit": "g",
+        "note": "em pedaços"
+      },
+      {
+        "name": "banana",
+        "quantity": 500,
+        "unit": "g",
+        "note": "previamente congeladas"
+      },
+      {
+        "name": "clara de ovo",
+        "quantity": 1,
+        "unit": "un"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo o chocolate e pulverize 15 seg/vel 10.",
+      "Adicione a banana e sumo limão e pique 20 seg/vel. 10. Baixe com a ajuda da espátula o que ficou nas paredes do copo.",
+      "De seguida pique 20 seg/vel. 10.",
+      "Insira a borboleta. Adicione a Clara e bata 3 min/vel. 3.5.",
+      "Servida de seguida."
+    ],
+
+    "link": "https://www.instagram.com/p/DK9XYlyM3Gq/"
+  },
+
+  {
+    "name": "Molho cheddar especial",
+
+    "tags": ["molhos"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Fábio Almeida",
+
+    "ingredients": [
+      {
+        "name": "bacon em tiras",
+        "quantity": 200,
+        "unit": "g",
+        "note": "opcional"
+      },
+      {
+        "name": "queijo cheddar fatiado",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "leite",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "name": "iogurte natural",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "mostarda",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "maizena",
+        "quantity": 25,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "Comece por colocar o bacon e salteie 5 min/120°/inversa/vel. 1. Baixe com a ajuda da espátula.",
+      "Adicione o leite, o iogurte, a mostarda, a maizena, o sal e pimenta e cozinhe 6 min/ 90°/vel. 2.",
+      "Adicione o queijo ao molho e cozinhe 2 min/ 90°/vel. 3.",
+      "E já está pronto. Reserve num frasco hermético."
+    ],
+
+    "link": "https://www.instagram.com/p/DKuDDQWMQn5/"
+  },
+
+  {
+    "name": "Pota estufada",
+
+    "tags": ["peixe", "receitas espanholas"],
+
+    "devices": ["TM7"],
+
+    "author": "Merche Lopez Vazquez Navarro",
+
+    "ingredients": [
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "cebola",
+        "quantity": 300,
+        "unit": "g",
+        "note": "em pedaços"
+      },
+      {
+        "name": "azeite virgem extra",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "molho de tomate",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomate concentrado",
+        "quantity": 1,
+        "unit": "colher"
+      },
+      {
+        "name": "brandy",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "potas limpas e cortadas",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta cayena",
+        "quantity": "q.b.",
+        "note": "opcional"
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "Ponga en el vaso los dientes de ajo, la cebolla y el aceite. Trocee 4 seg/vel 4 y sofría 8 min/120°C/vel cuchara.",
+      "Añada el vino blanco y programe 2 min/120°C/vel cuchara.",
+      "Agregue la salsa de tomate y el tomate concentrado y rehogue 5 min/120°C/vel cuchara.",
+      "Incorpore el brandy y programe 1 min/120°C/vel cuchara.",
+      "Añada las potas, la cayena y la sal.",
+      "A continuación coloque el varoma sobre la tapa y coloque un papel de horno y pese 200gr de arroz , 400gr de agua, un poco de aceite, ajo y parejil y unos pellizcos de sal y programe 30 min/temperatura varoma/giro inverso /vel cuchara."
+    ],
+
+    "link": "https://www.instagram.com/p/DKdIKz1tnns/"
   }
 ]
