@@ -8,6 +8,8 @@ export default function App() {
     // 1) Reel
     "https://www.instagram.com/reel/DQMyQdYjBKC/?utm_source=ig_embed&utm_campaign=loading",
 
+    "https://www.instagram.com/reel/DOHqKOhk-Xj/?utm_source=ig_embed&utm_campaign=loading",
+
     // 2) Post normal
     "https://www.instagram.com/p/DPoCk2KiDPx/?utm_source=ig_embed&utm_campaign=loading",
   ];
