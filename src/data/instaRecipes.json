@@ -2688,7 +2688,7 @@
         "unit": "c. café"
       },
       {
-        "name": " sucre de canne",
+        "name": "sucre de canne",
         "quantity": 80,
         "unit": "g"
       },
@@ -3070,5 +3070,1695 @@
     ],
 
     "link": "https://www.instagram.com/p/DKdIKz1tnns/"
+  },
+
+  {
+    "name": "Gratin de pommes de terre & asperges façon vide-frigo",
+
+    "tags": ["vegetariano", "receitas francesas"],
+
+    "devices": ["TM6"],
+
+    "author": "Momix by Amandine",
+
+    "ingredients": [
+      {
+        "name": "pommes de terre",
+        "quantity": 1000,
+        "unit": "g",
+        "note": "en cubes"
+      },
+      {
+        "name": "asperges blanches",
+        "quantity": 700,
+        "unit": "g",
+        "note": "épluchées & en petits morceaux"
+      },
+      {
+        "name": "asperges vertes",
+        "quantity": 500,
+        "unit": "g",
+        "note": "en petits morceaux"
+      },
+      {
+        "name": "oeufs",
+        "quantity": 4,
+        "unit": "un"
+      },
+      {
+        "name": "crème fraîche épaisse",
+        "quantity": 1,
+        "unit": "pot"
+      },
+      {
+        "name": "emmental râpé",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Persil, sel, poivre"
+      },
+      {
+        "name": "allumettes de jambon",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "jambon",
+        "quantity": 200,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Cuisson vapeur: 500g d’eau dans le bol, Pommes de terre dans le panier cuisson, Asperges dans le Varoma, 20min/Varoma/vitesse1",
+      "Pendant ce temps, j’ai préparé le mélange: 4 œufs, 240g de lait, 1 pot de crème fraîche épaisse, 200g d’emmental râpé, persil, sel, poivre - Mélangé 12s/vitesse4/sens inverse",
+      "Montage dans mon plat La Fabuleuse de chez cookut: Pommes de terre + sel + poivre, 200g d’allumettes de jambon, asperges vapeur, 200g de jambon, le mélange crème/œufs/fromage - 35 à 40min au four à 200°C"
+    ],
+
+    "link": "https://www.instagram.com/p/DJ2FO4hIpXj/"
+  },
+
+  {
+    "name": "Granizado de melância",
+
+    "tags": ["bebidas"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "melância",
+        "quantity": 1000,
+        "unit": "g",
+        "note": "cortada em pedaços"
+      },
+      {
+        "name": "água",
+        "quantity": 180,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "vodka"
+          }
+        ]
+      },
+      {
+        "name": "acúcar",
+        "quantity": 100,
+        "unit": "g",
+        "note": "opcional"
+      },
+      {
+        "name": "gelo",
+        "quantity": 800,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo a melancia, o açúcar e a vodka e triture 10 seg/vel 7. Retire para um jarro e reserve.",
+      "Coloque no copo 400 g de gelo e pique 7 seg/ vel 5. Retire para o jarro.",
+      "Coloque no copo 400 g de gelo e pique 7 seg/ vel 5. Retire para o jarro.",
+      "Coloque no copo a melancia, a água e o açúcar (opcional) e triture 10 seg., vel. 7.",
+      "Deite na jarra e envolva com a ajuda da espátula."
+    ],
+
+    "link": "https://www.instagram.com/p/DK5LIU1oiDj/"
+  },
+
+  {
+    "name": "Sorvete italiano",
+
+    "tags": ["sobremesas", "gelados"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "fruta congelada",
+        "quantity": 600,
+        "unit": "g",
+        "note": "a gosto"
+      },
+      {
+        "name": "natas",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "acúcar",
+        "quantity": 50,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Coloque a fruta congelada e o açúcar e triture 40 seg., vel.10.",
+      "Insira a borboleta. Adicione as natas e bata durante 30 seg., vel. 4."
+    ],
+
+    "link": "https://www.instagram.com/p/DK0EbI9o7Iq/"
+  },
+
+  {
+    "name": "Carne estufada com batata cozida",
+
+    "tags": ["carne", "refeições"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "rojões",
+        "quantity": 700,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "vinho",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "mostarda",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "batatas"
+      },
+      {
+        "name": "louro",
+        "quantity": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "paprika",
+        "note": "a gosto"
+      },
+      {
+        "name": "pickles",
+        "note": "a gosto"
+      },
+      {
+        "name": "sal",
+        "note": "a gosto"
+      }
+    ],
+
+    "instructions": [
+      "Começe por colocar 2 dentes de alho, 40 gr de azeite e pique 3 seg., vel.8. De seguida, refogue 3 min., 120 ° C, vel.1.",
+      "Adicione 700 gr de carne (rojões), paprika, 20 gr de mostarda Dijon, 1 folha de louro, 60 gr vinho e sal, a gosto.",
+      "Na varoma, coloque batatas descascadas e cortadas as rodelas.",
+      "Programe 25 min., colher inversa, vel. colher e modo vapor.",
+      "Finalize a carne com pickles."
+    ],
+
+    "link": "https://www.instagram.com/p/DKxV0f4AeOR/"
+  },
+
+  {
+    "name": "Limonada de morango",
+
+    "tags": ["bebidas"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "limão",
+        "quantity": 2,
+        "unit": "un",
+        "note": "c/ casca"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "morango",
+        "quantity": 5,
+        "unit": "un"
+      },
+      {
+        "name": "água",
+        "quantity": 1000,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo o açúcar e pulverize 10 seg/vel. 10.",
+      "Adicione os limões, os morangos e a água o a e triture Turbo/2.0 seg/1 vez.",
+      "Coloque o cesto e coe a limonada de morango para um jarro.",
+      "Sirva com cubos de gelo."
+    ],
+
+    "link": "https://www.instagram.com/p/DKsTt1Uozp2/"
+  },
+
+  {
+    "name": "Iogurte sem lactose",
+
+    "tags": ["iogurtes"],
+
+    "tips": [
+      "Esteriliza sempre o recipiente ou os frascos, vai fazer muita diferença, e os iogurtes caseiros nunca vão ter a mesma consistência dos de compra porque não tem espessantes ok?! Mas vão ficar mais baratos e muito mais saudáveis, e podes adaptar ao teu gosto e fazer 499 tipos de diferentes"
+    ],
+
+    "devices": ["TM7"],
+
+    "author": "Sílvia Teixeira",
+
+    "ingredients": [
+      {
+        "name": "leite s/ lactose",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "iogurte natural sem lactose",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 90,
+        "unit": "g",
+        "note": "opcional"
+      },
+      {
+        "name": "água",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "limão",
+        "quantity": "1/2",
+        "unit": "un",
+        "note": "só o sumo"
+      }
+    ],
+
+    "instructions": [
+      "Colocar no copo da bimby o iogurte, o leite e o açúcar e misturar 30 seg/vel 4.",
+      "Aquecer a mistura a 40°/Vel 1 (modo chaleira).",
+      "Colocar a mistur nos recipientes para iogurte e tapar, e coloca los na Varoma.",
+      " Depois colocar no copo a água e o sumo de limão e programar 10h/70° (modo fermentação).",
+      "Após esse tempo levar ao frigorífico 2 horas."
+    ],
+
+    "link": "https://www.instagram.com/p/DKSUwARsKZ1/"
+  },
+
+  {
+    "name": "Peitos de frango com molho de mostarda e mel e creme de legumes",
+
+    "tags": ["carne", "sopas", "refeições"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "arroz",
+        "quantity": 1,
+        "unit": "caneca"
+      },
+      {
+        "name": "água",
+        "quantity": 1,
+        "unit": "caneca"
+      },
+      {
+        "name": "peito de frango",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "cenoura",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "espargos",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "quantity": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "quantity": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "azeite",
+        "quantity": "q.b."
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "mel",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "mostarda dijon",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "caril tandoori",
+        "quantity": "q.b."
+      },
+      {
+        "name": "pimenta preta",
+        "quantity": "q.b."
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo todos os ingredientes do molho e programamos 20 seg. na vel.6. Reserve.",
+      "Na forma, coloque 1 cenoura, 1 caneca de arroz, 1 caneca de água e tempere com 1 pitada de sal, 1 fio de azeite, 1 folha de louro e 1 dente de alho. Coloque a forma dentro da varoma.",
+      "Forre o tabuleiro com uma folha de papel vegetal, previamente, machucado e humedecido.",
+      "Sobre uma folha de papel vegetal coloque os espargos, 2 peitos de frango e tempere com o molho de mostarda e mel.",
+      "No copo coloque 1 kg de legumes, a gosto, 1 pitada de sal e 800 gr de água.",
+      "Coloque a varoma sobre o copo.",
+      "Programe 30 min./ modo vapor/ vel.1."
+    ],
+
+    "link": "https://www.instagram.com/p/DKSSWmLodq5/"
+  },
+
+  {
+    "name": "Massa choux s/glúten",
+
+    "tags": ["massas", "ingredientes"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "farinha s/ glúten",
+        "quantity": 180,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "leite",
+        "quantity": 130,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "ovos",
+        "quantity": 4,
+        "unit": "un",
+        "note": "batidos"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo a água, o leite, a manteiga, o sal e o açúcar e aqueça 4 min/100°C/vel 1.",
+      "Adicione a farinha reservada de uma só vez e misture 20 seg/vel 4. Retire o copo da base e deixe arrefecer cerca de 5 minutos.",
+      "Coloque o copo na base, adicione os ovos batidos e misture 30 seg/vel 4. Baixe a massa com a ajuda da espátula e misture 20 seg/vel4. Retire a massa para um saco de pasteleiro e deixe repousar cerca de 15 minutos.",
+      "Faça pequenos montes para profiteroles deixando um espaço de 5 cm entre cada um.",
+      "Leve ao forno a 200°C cerca de 20 minutos ou até dourar.",
+      "Retire o tabuleiro do forno e deixe arrefecer completamente antes de servir ou rechear como desejar."
+    ],
+
+    "link": "https://www.instagram.com/p/DKFsLDLIy5a/"
+  },
+
+  {
+    "name": "Creme de pasteleiro",
+
+    "tags": ["sobremesas", "adaptadas", "ingredientes"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "maizena",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "leite",
+        "quantity": 500,
+        "unit": "g"
+      },
+      {
+        "name": "gemas",
+        "quantity": 4,
+        "unit": "un"
+      },
+      {
+        "name": "baunilha",
+        "quantity": 1,
+        "unit": "c. chá"
+      }
+    ],
+
+    "instructions": [
+      "Colocamos no copo todos os ingredientes e programas 7 min.,90 °C, vel.4."
+    ],
+
+    "link": "https://www.instagram.com/p/DJ7TQWKAR1f/"
+  },
+
+  {
+    "name": "Waffles com molho de caramelo",
+
+    "tags": ["sobremesas", "lanches"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "farinha T55",
+        "quantity": 250,
+        "unit": "g"
+      },
+      {
+        "name": "fermento em pó p/ bolos",
+        "quantity": 5,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "ovos",
+        "quantity": 2,
+        "unit": "un"
+      },
+      {
+        "name": "leite inteiro",
+        "quantity": 360,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo todos os ingredientes e misture 20 seg/vel 9. Retire e deixe descansar 1 hora.",
+      "Deite o preparado na máquina e feche.",
+      "Depois de feitas regue com o delicioso molho de caramelo.",
+      "Finalize polvilhando açúcar em pó."
+    ],
+
+    "link": "https://www.instagram.com/p/DH_mFXuAYY0/"
+  },
+
+  {
+    "name": "Pão de iogurte",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 180,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "fermento fresco",
+        "quantity": 25,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "fermento seco",
+            "quantity": "11",
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "iogurte natural",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de trigo",
+        "quantity": 550,
+        "unit": "g",
+        "note": "mais q.b. p/ polvilhar"
+      },
+      {
+        "name": "sal",
+        "quantity": 10,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo a água, o açúcar, o fermento, o iogurte, a farinha, o sal e pode amassar 4 min.",
+      "Retire a massa do copo e coloque sobre uma bancada polvilhada com farinha. Divida a massa em 10 partes iguais. Modele em bolas e disponha na assadeira reservada, deixando espaço entre elas. Deixe fermentar por 40 minutos.",
+      "Preaqueça o forno a 180°C.",
+      "Com ajuda de uma faca, faça um pequeno corte na parte superior de cada pão e leve ao forno por 20 minutos (180°C)."
+    ],
+
+    "link": "https://www.instagram.com/p/DJpZorsAHfM/"
+  },
+
+  {
+    "name": "Ovos escalfados",
+
+    "tags": ["ovos"],
+
+    "tips": [
+      "Com a Bimby (em modo guiado ou SEM TAMPA) fazemos uns ovos escalfados dignos de restaurante e é mais fácil do que imagina.",
+      "Colocar 1,5l de água, adicionar 50 ml de vinagre temperar com sal e programas 12 min /100°C / vel colher inversa. Quando a água estiver quente, pincelar o cesto com azeite e colocar dentro do copo, partir 2 ou 3 ovos de cada vez e deixar cozinhar 2,5min /100°C/vel 1. E pronto. Clara firme, gema cremosa – perfeição em minutos."
+    ],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Vera Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 1500,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": null,
+
+    "link": "https://www.instagram.com/p/DJXmp5csK4h/"
+  },
+
+  {
+    "name": "Ovos escalfados",
+
+    "tags": ["ovos"],
+
+    "tips": [
+      "Com a Bimby (em modo guiado ou SEM TAMPA) fazemos uns ovos escalfados dignos de restaurante e é mais fácil do que imagina.",
+      "Colocar 1,5l de água, adicionar 50 ml de vinagre temperar com sal e programas 12 min /100°C / vel colher inversa. Quando a água estiver quente, pincelar o cesto com azeite e colocar dentro do copo, partir 2 ou 3 ovos de cada vez e deixar cozinhar 2,5min /100°C/vel 1. E pronto. Clara firme, gema cremosa – perfeição em minutos."
+    ],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Vera Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 1500,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": null,
+
+    "link": "https://www.instagram.com/p/DJXmp5csK4h/"
+  },
+
+  {
+    "name": "Mousse de limão",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "leite condensado",
+        "quantity": 370,
+        "unit": "g"
+      },
+      {
+        "name": "leite evaporado",
+        "quantity": 410,
+        "unit": "g"
+      },
+      {
+        "name": "bolacha Maria",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sumo de limão",
+        "quantity": 120,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Coloque 100 gr de bolacha Maria e programe 10 seg., na vel.9. Reserve.",
+      "Insira a borboleta. Coloque o leite condensado e o leite evaporado e bata durante 1 min., na vel. 3.",
+      "Adicione 120 gr de sumo de limão e misture 30 seg., na vel.3.",
+      "Coloque uma camada de bolacha Maria ( triturada) uma camada de Mousse de limão e finalize com uma camada de bolacha Maria (triturada).",
+      "Sirva em taças e leva ao frigorífico por pelo menos 1 hora.",
+      "Finaliza com raspas de limão ou hortelã se quiser impressionar!"
+    ],
+
+    "link": "https://www.instagram.com/p/DJZ025IAfBi/"
+  },
+
+  {
+    "name": "Iogurtes em 5min",
+
+    "tags": ["iogurtes"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "bebida vegtal",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "iogurte natural vegetal",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "gelatina de sabor (a gosto)",
+        "quantity": 2,
+        "unit": "saquetas"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo todos os ingredientes e cozinhe 5 min., a 50 ° C, vel. 3."
+    ],
+
+    "link": "https://www.instagram.com/p/DJKh7SXAaFJ/"
+  },
+
+  {
+    "name": "Pavlova de frutos vermelhos",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "claras",
+        "quantity": 6,
+        "unit": "un"
+      },
+      {
+        "name": "açúcar em pó",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "name": "maizena",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "extrato de baunilha",
+        "quantity": 1,
+        "unit": "colher"
+      },
+      {
+        "name": "vinagre",
+        "quantity": 1,
+        "unit": "c. sopa"
+      },
+      {
+        "name": "natas",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 20,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Pavlova:",
+      "Pré- aquecer o forno a 120 ° C.",
+      "Numa folha de papel vegetal forme um círculo de aproximadamente 20 cm.",
+      "Coloque no copo 300 gr de açúcar e pulverize 15 seg./ vel. 9. Reserve.",
+      "Insira a borboleta. Coloque no copo as claras, o sal e o extrato de baunilha e bata 4 min./37°C/ na vel.3.5..",
+      "Adicione metade do açúcar e bata 1 min./37°C/vel.3.5. Adicione o restante açúcar, o vinagre, a maizena e programe 2 min./37°C/vel.3.5.",
+      "Leve ao forno 10 min. a 120 °C. Depois reduza para 100 °C e coza durante 1 h.",
+      "Desligue o forno e deixe a Pavlova arrefecer com a porta fechada cerca de 3 h.",
+      "Merengue:",
+      "Insira a borboleta. Coloque no copo as natas, 20 gr de açúcar e bata na vel. 3 até ficarem com a consistência desejada.",
+      "Por fim, distribua sobre o merengue morangos, framboesas e mirtilos."
+    ],
+
+    "link": "https://www.instagram.com/p/DIo9_0zgMnN/?img_index=1"
+  },
+
+  {
+    "name": "Pão de ló húmido",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "farinha T55",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 190,
+        "unit": "g"
+      },
+      {
+        "name": "gemas",
+        "quantity": 9,
+        "unit": "un"
+      },
+      {
+        "name": "ovos",
+        "quantity": 2,
+        "unit": "un"
+      }
+    ],
+
+    "instructions": [
+      "Insira a borboleta. Coloque o açúcar, as gemas e os ovos. Programe 7 min./37°C/vel.3. De seguida, programar 7 min./sem temp./vel.3.",
+      "Adicione a farinha pelo bucal da tampa e envolva 20 seg./ vel.1.",
+      "Deite o preparado na forma, previamente, forrada com papel vegetal.",
+      "Leve ao forno durante 8 min. a 180 °C."
+    ],
+
+    "link": "https://www.instagram.com/p/DImpj4SARIK/"
+  },
+
+  {
+    "name": "Frango Tandoori",
+
+    "tags": ["carne"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "frango",
+        "quantity": 400,
+        "unit": "g",
+        "note": "cortado em cubos"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "piri-piri",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "azeite",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "iogurte natural",
+        "quantity": 120,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "caril tandoori",
+        "quantity": 1,
+        "unit": "c. chá"
+      }
+    ],
+
+    "instructions": [
+      "Coloque num recipiente o frango e tempere com o sal, o piri piri, um fio de azeite, 1 fio de mel e deixe marinar 30 min.",
+      "Coloque no copo o alho e o azeite, pique 3 seg/vel 8 e refogue 3 min/120°C/vel 1.",
+      "Adicione o iogurte, a polpa de tomate e o caril tandoori e misture 5 seg/vel 5.",
+      "Insira a borboleta.",
+      "Adicione o frango com a marinada e cozinhe 12 min/ 120°C/vel. colher e colher inversa."
+    ],
+
+    "link": "https://www.instagram.com/p/DIKCMvJgQ-_/"
+  },
+
+  {
+    "name": "Caldeirada de lulas",
+
+    "tags": ["peixe", "refeições"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "cebola",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "azeite",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "tomate em pedaços",
+        "quantity": 400,
+        "unit": "g"
+      },
+      {
+        "name": "lulas",
+        "quantity": 800,
+        "unit": "g",
+        "note": "cortadas em pedaços"
+      },
+      {
+        "name": "vinho branco",
+        "quantity": 40,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "quantity": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "pimenta",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "batatas",
+        "quantity": 800,
+        "unit": "g"
+      },
+      {
+        "name": "ervilhas descongeladas",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "pimento",
+        "quantity": 1,
+        "unit": "un"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo a cebola, o alho, o azeite e o tomate, pique 5 seg/vel 5 e refogue 5 min/ 120°C/ vel 1.",
+      "Adicione as lulas, o vinho, a folha de louro, o sal e a pimenta.",
+      "Na varoma, coloque a as batatas, as ervilhas, o pimento e programe 30 min/temp. varoma/ vel. colher e colher inversa.",
+      "Envolva as lulas com a batata e as ervilhas e sirva de seguida."
+    ],
+
+    "link": "https://www.instagram.com/p/DIHn3odA0uA/"
+  },
+
+  {
+    "name": "Leite condensado cozido",
+
+    "tags": ["sobremesas", "ingredientes"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "leite",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "natas",
+        "quantity": 180,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "bicarbonato de sódio",
+        "quantity": 2,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "Adicione o leite, as natas, o açúcar e o bicarbonato .Programe 60 min., temp. varoma, vel. 5."
+    ],
+
+    "link": "https://www.instagram.com/p/DH3_yQNgyiP/"
+  },
+
+  {
+    "name": "Pão de forma de cereais e sementes",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Bárbara Cardoso",
+
+    "ingredients": [
+      {
+        "name": "farinha T65",
+        "quantity": 400,
+        "unit": "g"
+      },
+      {
+        "name": "flocos de aveia",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "mistura de sementes",
+        "quantity": 75,
+        "unit": "g"
+      },
+      {
+        "name": "leite",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 225,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "quantity": 25,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "fermento de padeiro",
+        "quantity": 1,
+        "unit": "saqueta",
+        "note": "aprx. 7,5g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "clara de ovo",
+        "quantity": 1,
+        "unit": "un",
+        "note": "p/ pincelar"
+      },
+      {
+        "name": "flocos de aveia",
+        "quantity": "q.b.",
+        "note": "p/ polvilhar"
+      },
+      {
+        "name": "mistura de sementes",
+        "quantity": "q.b.",
+        "note": "p/ polvilhar"
+      }
+    ],
+
+    "instructions": [
+      "* usei sementes de linhaça castanha e dourada, sésamo, girassol, abóbora e chia*",
+      "1. Comece por misturar 100 ml de água com 75 gramas de sementes. Deixe repousar durante 1 hora.",
+      "2. No copo coloque o leite, a restante água, a manteiga, o açúcar e o sal e programe 2 min/40 ºC/vel 2.",
+      "3. Adicione a farinha, os flocos de aveia, a mistura de sementes hidratadas e o fermento e inicie o modo Amassar durante 5 min. Deixe levedar 1 a 2 horas ou até a massa dobrar de volume.",
+      "4. Estenda a massa na bancada, polvilhada com farinha, e enrole-a. Transfira para uma forma de bolo inglês, tape e deixe levedar mais 30 minutos.",
+      "5. Pincele o pão com a clara e polvilhe com flocos de aveia e sementes a gosto.",
+      "6. Leve o pão ao forno, pré-aquecido a 180 ºC, durante 25 a 30 minutos."
+    ],
+
+    "link": "https://www.instagram.com/p/DHN2Yn_MEJm/"
+  },
+
+  {
+    "name": "Pudin Flan especial",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "leite",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 4,
+        "unit": "c. sopa"
+      },
+      {
+        "name": "Pudim Flan",
+        "quantity": 2,
+        "unit": "saquetas"
+      },
+      {
+        "name": "claras",
+        "quantity": 2,
+        "unit": "un",
+        "note": "em castelo"
+      }
+    ],
+
+    "instructions": [
+      "Insira a borboleta. Adicione 1 L de leite, 4 colheres de sopa de açúcar, 2 saquetas de Pudim Flan.Cozinhe durante 12 min., a 90 °C, na vel. 3.",
+      "Adicione 2 claras em castelo. Envolva 10 seg., na. 3."
+    ],
+
+    "link": "https://www.instagram.com/p/DHO-BxrA0gt/"
+  },
+
+  {
+    "name": "Caril de grão com manga",
+
+    "tags": ["vegetariano", "refeições"],
+
+    "devices": ["TM7"],
+
+    "author": "Sílvia Teixeira",
+
+    "ingredients": [
+      {
+        "name": "cebola",
+        "quantity": 1,
+        "unit": "un",
+        "note": "pequena"
+      },
+      {
+        "name": "alho",
+        "quantity": 2,
+        "unit": "dentes"
+      },
+      {
+        "name": "pimento vermelho",
+        "quantity": 1,
+        "unit": "un",
+        "note": "pequeno"
+      },
+      {
+        "name": "azeite",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "cominhos",
+        "quantity": "1/2",
+        "unit": "c. chá",
+        "note": "moídos"
+      },
+      {
+        "name": "gengibre em pó",
+        "quantity": "1/2",
+        "unit": "c. chá"
+      },
+      {
+        "name": "caril em pó",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "manga",
+        "quantity": 1,
+        "unit": "un",
+        "substitutes": [
+          {
+            "name": "polpa de manga",
+            "quantity": 1,
+            "unit": "embalagem"
+          }
+        ]
+      },
+      {
+        "name": "leite de coco",
+        "quantity": 1,
+        "unit": "lata"
+      },
+      {
+        "name": "grão de bico",
+        "quantity": 400,
+        "unit": "g",
+        "note": "cozido"
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      },
+      {
+        "name": "coentros frescos picados"
+      }
+    ],
+
+    "instructions": [
+      "Colocar no copo a cebola e o pimento cortado em pedaços, e o alho com o azeite e picar 5s/vel.5, de seguida refogar 5min/120°C/vel.1.",
+      "Adicionar os cominhos, o gengibre e o caril e cozinhar 3min/120°C/vel.1.",
+      "Adicionar a manga e o leite de coco e sal a gosto e depois programar 10min/100°C/vel.1.",
+      "Triturar tudo 1min/vel.7.",
+      "Juntar o grão e cozinhar mais 10min/100°C/colher inversa/vel. colher.",
+      "Servir com coentros picados."
+    ],
+
+    "link": "https://www.instagram.com/p/DG0y30vMSn0/"
+  },
+
+  {
+    "name": "Brownie",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7"],
+
+    "author": "Sílvia Teixeira",
+
+    "ingredients": [
+      {
+        "name": "manteiga",
+        "quantity": 130,
+        "unit": "g"
+      },
+      {
+        "name": "chocolate de culinária",
+        "quantity": 180,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar amarelo",
+        "quantity": 180,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "açúcar mascavado"
+          }
+        ]
+      },
+      {
+        "name": "ovos",
+        "quantity": 3,
+        "unit": "un"
+      },
+      {
+        "name": "farinha T55",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "pitada"
+      }
+    ],
+
+    "instructions": [
+      "Coloca no copo a manteiga e derreter 2min/90°C/vel1.",
+      "Adicionar o chocolate partido em pedaços e esperar um minuto para amolecer na manteiga. De seguida misturar 1m/vel5, baixar o chocolate que ficar nas paredes do copo.",
+      "Juntar os ovos e o com o açucar e bater 3min/37°C/vel4.",
+      "Adicionar a farinha e uma pitada de sal e misturar 10seg/vel5.",
+      "Colocar numa forma untada com papel vegetal (convém ser uma forma baixinha tipo tabuleiro) e levar ao forno pré aquecido a 180° durante 20-25 minutos (o brownie é um bolo húmido por isso não deixem ficar muito tempo no forno para não secar)."
+    ],
+
+    "link": "https://www.instagram.com/p/DHEwOegsz8U/"
+  },
+
+  {
+    "name": "Esparguete",
+
+    "tags": ["massas"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 1500,
+        "unit": "g"
+      },
+      {
+        "name": "esparguete",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "quantity": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "quantity": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "sal",
+        "quantity": "q.b."
+      },
+      {
+        "name": "manteiga",
+        "quantity": "q.b."
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo 1.5 L, pode colocar água quente, para acelerar o processo e tempere com sal, alho e louro, a gosto e 1 fio de azeite.",
+      "Aqueça durante 10 min, temp. varoma e vel. 1.",
+      "Com a Bimby parada adicione 200 gr de esparguete pelo bocal.",
+      "Cozinhe o tempo indicado no pacote - depende do gosto de cada pessoa -, temp. varoma, vel. colher e colher inversa.",
+      "Escorra com a ajuda do cesto. Adicione a manteiga e envolva."
+    ],
+
+    "link": "https://www.instagram.com/p/DHB7nuAAHnF/"
+  },
+
+  {
+    "name": "Pulled Pork",
+
+    "tags": ["carne"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Vera Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "cachaço de porco",
+        "quantity": 1000,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "quantity": 3,
+        "unit": "dentes"
+      },
+      {
+        "name": "cebola",
+        "quantity": 1,
+        "unit": "un"
+      },
+      {
+        "name": "óleo",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "piri-piri",
+        "quantity": 1,
+        "unit": "c. chá",
+        "note": "opcional"
+      },
+      {
+        "name": "alho em pó",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "paprika",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "tomilho",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "pimenta caiena",
+        "quantity": 1,
+        "unit": "pitada"
+      },
+      {
+        "name": "tomate pelado",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "caldo caseiro",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "vinagre",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "molho inglês",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar mascavado",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "quantity": 1500,
+        "unit": "g"
+      }
+    ],
+
+    "instructions": [
+      "No copo da Bimby, colocar o alho, a cebola, o óleo e todas as especiarias. Picar 3 seg/vel 6. Baixar os ingredientes e aquece 2 min/120°C/vel 1.",
+      "Adicionar o tomate, o caldo, o vinagre, o molho inglês, o açúcar e o molho barbecue. Cozinhar 10 min/120°C/vel 1. Reservar.",
+      "Coloca 1500 g de água no copo. Na Varoma, colocar a carne temperada com 2 c. chá de sal e 1/3 do molho reservado. Programar a bimby ou a bimby friend para 90 min/Varoma/vel 2.",
+      "Se necessário, adiciona mais água no copo e temperar a carne com mais 1/3 do molho. Cozinhar mais 60 min/Varoma/vel 2.",
+      "Repetir mais uma vez para garantir que a carne fica macia e que se desfaça facilmente.",
+      "Retira a Varoma, desfia a carne com um garfo e mistura com o restante molho.",
+
+      "🥪 Dica: Servir em sandes 🥪"
+    ],
+
+    "link": "https://www.instagram.com/p/DG1adUiNG2s/"
+  },
+
+  {
+    "name": "Bolo de bolacha",
+
+    "tags": ["sobremesas"],
+
+    "devices": ["TM7"],
+
+    "author": "Agente Bimby Marta Sousa",
+
+    "ingredients": [
+      {
+        "name": "leite condensado",
+        "quantity": 370,
+        "unit": "g"
+      },
+      {
+        "name": "leite",
+        "quantity": 600,
+        "unit": "g"
+      },
+      {
+        "name": "ovos",
+        "quantity": 4,
+        "unit": "un"
+      },
+      {
+        "name": "maizena",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "bolacha Maria",
+        "quantity": "q.b."
+      },
+      {
+        "name": "café solúvel",
+        "quantity": 1,
+        "unit": "taça",
+        "note": "já pronto"
+      },
+      {
+        "name": "natas c/ 35% de gordura",
+        "quantity": 400,
+        "unit": "g",
+        "note": "bem frias"
+      },
+      {
+        "name": "açúcar em pó",
+        "quantity": 2,
+        "unit": "c. sopa",
+        "substitutes": [
+          {
+            "name": "açúcar baunilhado"
+          }
+        ]
+      }
+    ],
+
+    "instructions": [
+      "Coloque uma forma de fundo amovível (sem o fundo) em cima de um prato grande.",
+      "Coloque no copo o 370gr leite condensado, 600gr de leite, 4 ovos, 20gr de farinha maizena e misture 15 seg/velocidade 3.5.",
+      "De seguida programe no modo molhos a 80°C.",
+      "Durante este processo prepare o café solúvel numa taça rasa (onde caibam as bolachas).",
+      "Mergulhe as bolachas 2 a 2 no café e forre o fundo, coloque uma camada de creme e repita o processo até o creme terminar, a ultima camada deve ser de bolachas.",
+      "Reserve no frigorifico durante 4 horas.",
+      "No copo bem limpo e seco (livre de qualquer gordura) coloque a borboleta e as 400 ml natas (c/ 35% de gordura bem frias), 2 colheres sopa de açúcar em pó ou açúcar baunilhado e sem programar tempo rode o botão até a velocidade 4. NESTE PASSO É IMPORTANTE QUE FIQUE JUNTO DA SUA BIMBY POIS HA NATAS QUE MONTAM MAIS RAPIDAMENTE QUE OUTRAS, PODE RETIRAR O COPO DE MEDIDA DURANTE O PROCESSO PARA VER A EVOLUÇÃO DAS NATAS!",
+      "Retire a forma e cubra com o chantilly. Decore a gosto com bolacha maria picada."
+    ],
+
+    "link": "https://www.instagram.com/p/DG3ahZjMnDH/"
+  },
+
+  {
+    "name": "Modo espessar",
+    "subtitle": "Tem por base a receita das almôndegas com molho de tomate do Cookidoo",
+
+    "tips": [
+      "Hoy os voy hablar del modo espesar,que según mi jefa Vero,es la salsera del TM6. Lo usamos a través de cocina guiada.",
+      "Si nos vamos al buscador 🔎 y ponemos espesar,nos salen muchas recetas. Se van hacer de 2 maneras:",
+      "1)Con huevo a 80° por ejemplo natillas,crema pastelera..",
+      "2)Con harina o fécula a 100°,por ejemplo la salsa bechamel,la aurora ..",
+      "Este modo nos sale automáticamente,la maquina controla la temperatura de lo alimentos y cuando la alcanza ,empieza con la velocidad 4 para espesar.",
+      "No hay q equivocar ESPESAR con REDUCIR ,cuando queremos reducir una salsa por ejemplo de calamares en su tinta,lo hacemos con la función varoma.",
+      "Es bueno que os metáis en cookidoo Academy, y ahí encontraréis un montón de información."
+    ],
+
+    "tags": ["dicas"],
+
+    "devices": ["TM6"],
+
+    "author": "Mar de Castro",
+
+    "ingredients": null,
+
+    "instructions": null,
+
+    "link": "https://www.instagram.com/p/DGx0k7hNLLk/"
+  },
+
+  {
+    "name": "Pão versátil",
+
+    "tags": ["pão"],
+
+    "devices": ["TM7"],
+
+    "author": "Lurdes Gonçalves",
+
+    "ingredients": [
+      {
+        "name": "água",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "quantity": 1,
+        "unit": "c. chá"
+      },
+      {
+        "name": "fermento de padeiro fresco",
+        "quantity": 20,
+        "unit": "g",
+        "substitutes": [
+          {
+            "name": "fermento de padeiro seco",
+            "quantity": "11",
+            "unit": "g"
+          }
+        ]
+      },
+      {
+        "name": "farinha T65",
+        "quantity": 410,
+        "unit": "g",
+        "note": "mais q.b. p/ polvilhar"
+      },
+      {
+        "name": "azeite",
+        "quantity": 25,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "quantity": 1,
+        "unit": "c. chá"
+      }
+    ],
+
+    "instructions": [
+      "Coloque no copo a água, o açúcar e o fermento e misture 20 seg/vel 2.",
+      "Adicione a farinha, o azeite e o sal e inicie o modo Amassar 2 min. na vel. Espiga.",
+      "Coloque a massa sobre uma folha de papel vegetal polvilhada com farinha.",
+      "No copo coloque 1.200 gr de água.",
+      "No fundo da varoma coloque a borboleta e sobre ela a folha de papel vegetal com a massa.",
+      "Ative o modo fermentação durante 15 min. para que a massa levede mais rápido.",
+      "Leve ao forno cerca de 20 min. a 180 ° C.",
+      "Está é uma receita muito versátil que pode usar para fazer bola, pizza ou pão."
+    ],
+
+    "link": "https://www.instagram.com/p/DGv94GgA9ot/"
   }
 ]

@@ -4,14 +4,42 @@ import InstaEmbed from "./components/InstaEmbed";
 import "./App.css";
 
 export default function App() {
-  const instaEmbedUrls = [
+  const instaVideos = [
     // 1) Reel
-    "https://www.instagram.com/reel/DQMyQdYjBKC/?utm_source=ig_embed&utm_campaign=loading",
+    {
+      title: "Como colocar a mandolina",
+      url: "https://www.instagram.com/reel/DQMyQdYjBKC/?utm_source=ig_embed&utm_campaign=loading",
+    },
+    {
+      title: "Brownie com abacate (ingrediente secreto)",
+      url: "https://www.instagram.com/reel/DOHqKOhk-Xj/?utm_source=ig_embed&utm_campaign=loading",
+    },
 
-    "https://www.instagram.com/reel/DOHqKOhk-Xj/?utm_source=ig_embed&utm_campaign=loading",
+    {
+      title: "Biberão na temperatura certa",
+      url: "https://www.instagram.com/reel/DAeSgDqA2rL/?utm_source=ig_embed&amp;utm_campaign=loading",
+    },
+
+    {
+      title: "Aquecer a comida na Varoma",
+      url: "https://www.instagram.com/reel/DHhC__XA6yR/?utm_source=ig_embed&amp;utm_campaign=loading",
+    },
+
+    {
+      title: "Truque infalível para descobrir quantas claras estão congeladas",
+      url: "https://www.instagram.com/reel/DHHIb_LNM2W/?utm_source=ig_embed&amp;utm_campaign=loading",
+    },
+
+    {
+      title: "Cozer batatas no modo ovos",
+      url: "https://www.instagram.com/reel/DG3x4H-Av8q/?utm_source=ig_embed&amp;utm_campaign=loading",
+    },
 
     // 2) Post normal
-    "https://www.instagram.com/p/DPoCk2KiDPx/?utm_source=ig_embed&utm_campaign=loading",
+    {
+      title: "Ponto do ovo cozido",
+      url: "https://www.instagram.com/p/DPoCk2KiDPx/?utm_source=ig_embed&utm_campaign=loading",
+    },
   ];
 
   return (
@@ -19,8 +47,8 @@ export default function App() {
       <RecipePage />
 
       <div className="insta-embed-section">
-        {instaEmbedUrls.map((url, index) => (
-          <InstaEmbed key={index} url={url} />
+        {instaVideos.map(({ url, title }, index) => (
+          <InstaEmbed key={index} url={url} videoTitle={title} />
         ))}
       </div>
     </div>

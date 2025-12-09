@@ -12,7 +12,7 @@ export default function RecipePage() {
     devices: recipe.devices,
   }));
 
-  console.log(recipeInfo.flatMap((recipes) => recipes.tags));
+  //console.log(recipeInfo.flatMap((recipes) => recipes.tags));
 
   //Agrupar por tag
   const recipesByTag = recipeInfo.reduce((acc, recipe) => {
@@ -29,7 +29,7 @@ export default function RecipePage() {
     a.localeCompare(b, "pt")
   );
 
-  console.log(recipesByTag);
+  //console.log(recipesByTag);
   return (
     <div className="RecipePage">
       <h1>Receitas</h1>
