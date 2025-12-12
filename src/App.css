@@ -1,34 +1,84 @@
+:root {
+  --primary-headings-color: rgb(167, 95, 63);
+  --secondary-color: #6e4c3a;
+  --primary-background-color: rgb(232, 216, 195);
+  --secondary-background-color: rgb(255, 248, 230);
+  --primary-border-color: rgb(243, 212, 158);
+  --accent-color: #d39333;
+  --hover-color: #c59b55;
+}
+
 body {
-  background-color: rgb(255, 241, 197);
+  background-color: var(--primary-background-color);
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h1 {
+  color: var(--primary-headings-color);
+  font-size: 46px;
+  margin-bottom: 30px;
+}
+
+h2,
+h3,
+.card-body {
+  color: var(--secondary-color);
+}
+
+h2 {
+  margin: 110px 0 30px;
+}
+
+.recipes-index-container {
+  position: sticky;
+  top: 70px; /* MESMO valor ou ligeiramente maior que a navbar */
+  z-index: 900; /* abaixo da navbar, acima do conteúdo */
+  background-color: var(
+    --secondary-background-color
+  ); /* a cor do fundo, para ficar “sólido” por trás dos links */
+  padding: 8px 0;
+  opacity: 0.9;
+  border-bottom: 3px solid var(--primary-border-color);
+  border-top: 4px solid var(--primary-border-color);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.13);
+}
+
+.recipes-index {
+  max-width: 1400px;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 22px;
+  list-style: none;
+  padding: 0;
+  margin: 15px auto 10px;
+  justify-content: center;
+}
+
+.RecipeSection {
+  max-width: 1250px;
+  margin: 0 auto;
 }
 
 h3 {
   font-size: 32px;
   line-height: 1.6;
   margin: 35px 0 20px;
-}
-
-.insta-embed-section {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-
-.insta-embed-wrapper {
-  background: #f8f1e8;
-  padding: 10px;
-  border-radius: 12px;
-  margin: 20px auto;
-  max-width: 346px;
-}
-
-.RecipeSection {
-  max-width: 1450px;
-  margin: 0 auto;
+  padding-bottom: 8px;
+  border-bottom: 3px double var(--hover-color);
 }
 
 .card {
-  background-color: rgba(255, 255, 255, 0.5);
-  border-color: rgba(228, 157, 27, 0.5);
+  background-color: var(--secondary-background-color);
+  border-color: var(--primary-border-color);
+}
+
+.card-img-top {
+  object-fit: cover;
+  object-position: center;
 }
 
 .card-body {
@@ -37,6 +87,7 @@ h3 {
 }
 
 .card-title {
+  color: var(--primary-headings-color);
   font-size: 19px;
   text-align: start;
   font-weight: 500;
@@ -57,10 +108,9 @@ h3 {
   font-size: 16px;
   padding: 3px 0;
   font-weight: 400;
-  border-top: 1px solid rgba(0, 0, 0, 0.2);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  border-top: 1px solid var(--primary-border-color);
+  border-bottom: 1px solid var(--primary-border-color);
   text-align: center;
-  color: rgba(0, 0, 0, 0.65);
 }
 
 .time-container {
@@ -81,10 +131,62 @@ h3 {
 }
 
 .serving-item {
-  background-color: rgba(220, 206, 175, 0.7);
-  padding: 0px 10px;
+  background-color: var(--primary-background-color);
+  padding: 0px 9px;
   margin-right: 4px;
   margin-left: 4px;
   border-radius: 6px;
-  border: 2px solid rgba(255, 255, 255, 0.95);
+  border: 1px solid var(--primary-border-color);
+  font-size: 14px;
+  opacity: 0.85;
+}
+
+.card-footer {
+  text-align: end;
+}
+
+a {
+  color: var(--accent-color);
+  transition: all 0.15s ease-in-out;
+  filter: brightness(1.05);
+}
+
+a:hover {
+  text-decoration: none;
+  filter: brightness(0.95);
+}
+
+.slick-arrow::before {
+  color: var(--accent-color);
+  font-size: 25px;
+}
+
+.slick-arrow:hover::before {
+  filter: brightness(0.95);
+}
+
+.slick-dots li button::before {
+  color: var(--accent-color);
+}
+
+.slick-dots li.slick-active button::before {
+  color: var(--accent-color);
+  filter: brightness(0.85);
+}
+
+.slick-list {
+  margin: 35px 8px 0;
+}
+
+.insta-embed-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.insta-embed-wrapper {
+  background: var(--secondary-background-color);
+  padding: 10px;
+  border-radius: 12px;
+  margin: 20px auto;
+  max-width: 346px;
 }

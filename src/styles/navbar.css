@@ -1,0 +1,25 @@
+.Navbar {
+  width: 100%;
+  background-color: var(--secondary-background-color);
+  opacity: 0.9;
+  font-size: 20px;
+  border-bottom: 4px solid var(--primary-border-color);
+  position: fixed;
+  top: 0;
+  z-index: 999;
+}
+
+.navbar-container {
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navbar-container a {
+  text-decoration: none;
+}
+
+.navbar-container a:hover {
+  text-decoration: underline;
+  transform: scale(1.03);
+}

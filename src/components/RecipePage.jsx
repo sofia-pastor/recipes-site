@@ -35,7 +35,6 @@ export default function RecipePage() {
     servings: recipe.servings,
     time: recipe.time,
     devices: recipe.devices,
-    rate: recipe.rate,
   }));
 
   //Agrupar por tag
@@ -53,8 +52,6 @@ export default function RecipePage() {
     a.localeCompare(b, "pt")
   );
 
-  //console.log(recipesByTag);
-
   const sectionsData = tagNames.map(function (tag) {
     const recipesList = recipesByTag[tag];
     const numSlides = recipesList.length;
@@ -67,14 +64,27 @@ export default function RecipePage() {
     };
   });
 
+  console.log(tagNames);
+
   return (
     <div className="RecipePage">
-      <h1>Receitas</h1>
-      <h2>Cookidoo</h2>
+      <h2>Receitas</h2>
+      <h1>Cookidoo</h1>
+      <div className="recipes-index-container">
+        <ul className="recipes-index">
+          {tagNames.map((tagName, i) => {
+            return (
+              <li key={i} className="text-capitalize">
+                <a href={`#${tagName}`}>{tagName}</a>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
 
       {sectionsData.map(function (section) {
         return (
-          <section key={section.tag} className="RecipeSection">
+          <section key={section.tag} id={section.tag} className="RecipeSection">
             <h3 className="text-capitalize">{section.tag}</h3>
 
             <div className="recipes-wrapper">
@@ -86,7 +96,7 @@ export default function RecipePage() {
                         {/* IMAGEM */}
                         <img
                           src={recipe.img}
-                          className="card-img-top"
+                          className="card-img-top card-img"
                           alt={recipe.name}
                         />
 

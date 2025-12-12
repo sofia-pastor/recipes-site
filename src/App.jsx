@@ -1,3 +1,6 @@
+import { Routes, Route, Link } from "react-router-dom";
+
+import Navbar from "./components/navbar";
 import RecipePage from "./components/RecipePage";
 import InstaEmbed from "./components/InstaEmbed";
 
@@ -44,7 +47,14 @@ export default function App() {
 
   return (
     <div className="App">
-      <RecipePage />
+      <header>
+        <Navbar />
+      </header>
+
+      <Routes>
+        <Route path="/cookidoo" element={<RecipePage />} />
+        <Route path="instagram" element={<InstaEmbed />} />
+      </Routes>
 
       <div className="insta-embed-section">
         {instaVideos.map(({ url, title }, index) => (
