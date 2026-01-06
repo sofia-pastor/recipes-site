@@ -52,6 +52,7 @@ export default function App() {
       </header>
 
       <Routes>
+        <Route path="/" element={<RecipePage />} />
         <Route path="/cookidoo" element={<RecipePage />} />
         <Route path="/tips" element={<InstaEmbed videos={instaVideos} />} />
       </Routes>
