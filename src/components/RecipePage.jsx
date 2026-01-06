@@ -1,3 +1,5 @@
+import { useState, useEffect } from "react";
+
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -6,48 +8,58 @@ import recipes from "../data/recipes.json";
 
 import "../styles/RecipePage.css";
 
-function getSliderSettings(numSlides) {
+function getSliderSettings(numSlides, viewportWidth) {
+  let slidesToShow = 4;
+  let slidesToScroll = 4;
+  let rows = numSlides > 4 ? 2 : 1;
+
+  if (viewportWidth <= 600) {
+    slidesToShow = 2;
+    slidesToScroll = 2;
+    rows = numSlides > 2 ? 2 : 1;
+  } else if (viewportWidth <= 768) {
+    slidesToShow = 3;
+    slidesToScroll = 3;
+    rows = 1;
+  } else if (viewportWidth <= 1024) {
+    slidesToShow = 3;
+    slidesToScroll = 3;
+    rows = numSlides > 3 ? 2 : 1;
+  }
+
   let settings = {
     dots: true,
     infinite: true,
     speed: 500,
     arrows: true,
     autoplay: false,
-    slidesToShow: 4,
-    slidesToScroll: 4,
-    rows: numSlides > 4 ? 2 : 1,
-    responsive: [
-      {
-        breakpoint: 1024,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 3,
-          rows: numSlides > 3 ? 2 : 1,
-        },
-      },
-      {
-        breakpoint: 768,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 3,
-          rows: 1,
-        },
-      },
-      {
-        breakpoint: 600,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 2,
-          rows: numSlides > 2 ? 2 : 1,
-        },
-      },
-    ],
+    slidesToShow: slidesToShow,
+    slidesToScroll: slidesToScroll,
+    rows: rows,
   };
 
   return settings;
 }
 
 export default function RecipePage() {
+  const [viewportWidth, setViewportWidth] = useState(window.innerWidth);
+
+  useEffect(() => {
+    function handleResize() {
+      setViewportWidth(window.innerWidth);
+    }
+
+    handleResize(); // <-- importante: corre logo ao montar
+
+    window.addEventListener("resize", handleResize);
+    window.addEventListener("orientationchange", handleResize);
+
+    return () => {
+      window.removeEventListener("resize", handleResize);
+      window.removeEventListener("orientationchange", handleResize);
+    };
+  }, []);
+
   const recipeInfo = recipes.map((recipe, i) => ({
     id: i + 1,
     name: recipe.name,
@@ -78,7 +90,7 @@ export default function RecipePage() {
   const sectionsData = tagNames.map(function (tag) {
     const recipesList = recipesByTag[tag];
     const numSlides = recipesList.length;
-    const sliderSettings = getSliderSettings(numSlides);
+    const sliderSettings = getSliderSettings(numSlides, viewportWidth);
 
     return {
       tag: tag,
@@ -86,8 +98,6 @@ export default function RecipePage() {
       settings: sliderSettings,
     };
   });
-
-  console.log(tagNames);
 
   return (
     <div className="RecipePage">
