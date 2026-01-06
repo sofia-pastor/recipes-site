@@ -53,14 +53,8 @@ export default function App() {
 
       <Routes>
         <Route path="/cookidoo" element={<RecipePage />} />
-        <Route path="instagram" element={<InstaEmbed />} />
+        <Route path="/tips" element={<InstaEmbed videos={instaVideos} />} />
       </Routes>
-
-      <div className="insta-embed-section">
-        {instaVideos.map(({ url, title }, index) => (
-          <InstaEmbed key={index} url={url} videoTitle={title} />
-        ))}
-      </div>
     </div>
   );
 }

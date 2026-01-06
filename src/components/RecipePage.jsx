@@ -4,22 +4,45 @@ import "slick-carousel/slick/slick-theme.css";
 
 import recipes from "../data/recipes.json";
 
+import "../styles/RecipePage.css";
+
 function getSliderSettings(numSlides) {
   let settings = {
     dots: true,
     infinite: true,
     speed: 500,
-    slidesToShow: 4,
-    slidesToScroll: 2,
     arrows: true,
     autoplay: false,
+    slidesToShow: 4,
+    slidesToScroll: 4,
+    rows: numSlides > 4 ? 2 : 1,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 3,
+          rows: numSlides > 3 ? 2 : 1,
+        },
+      },
+      {
+        breakpoint: 768,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 3,
+          rows: 1,
+        },
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 2,
+          rows: numSlides > 2 ? 2 : 1,
+        },
+      },
+    ],
   };
-
-  if (numSlides > 4) {
-    settings.rows = 2;
-  } else {
-    settings.rows = 1;
-  }
 
   return settings;
 }
@@ -84,61 +107,69 @@ export default function RecipePage() {
 
       {sectionsData.map(function (section) {
         return (
-          <section key={section.tag} id={section.tag} className="RecipeSection">
+          <section
+            key={section.tag}
+            id={section.tag}
+            className="recipe-section"
+          >
             <h3 className="text-capitalize">{section.tag}</h3>
 
             <div className="recipes-wrapper">
               <Slider {...section.settings}>
                 {section.recipes.map((recipe) => {
                   return (
-                    <div key={recipe.id} className="recipe-slide px-2">
+                    <div key={recipe.id} className="recipe-slide ">
                       <div className="card recipe-card h-100 mb-4">
                         {/* IMAGEM */}
-                        <img
-                          src={recipe.img}
-                          className="card-img-top card-img"
-                          alt={recipe.name}
-                        />
+                        <div className="card-img-wrapper">
+                          <img
+                            src={recipe.img}
+                            className="card-img-top card-img"
+                            alt={recipe.name}
+                          />
+                          <div className="card-img-overlay">
+                            <p className="rate">⭐ {recipe.rate}</p>
+                          </div>
+                        </div>
 
                         {/* CORPO DO CARD */}
                         <div className="card-body">
+                          <div className="card-text">
+                            <p className="card-devices">
+                              {recipe.devices.join(", ")}
+                            </p>
+                          </div>
+
                           <div className="card-heading">
                             <h5 className="card-title">{recipe.name}</h5>
                           </div>
                           {/* Devices */}
 
                           <div className="card-text">
-                            <p className="card-devices">
-                              {recipe.devices.join(", ")}
-                            </p>
-
                             {/* Tempo */}
 
-                            <h6>Tempo 🕒</h6>
                             <div className="time-container">
-                              <p>
-                                <span className="subtitle">Preparação:</span>{" "}
-                                {recipe.time.preparation}min
-                              </p>
-                              <p>
-                                <span className="subtitle">Total:</span>{" "}
-                                {recipe.time.total}min
-                              </p>
+                              <div>
+                                <p className="subtitle">Preparação: </p>
+                                <p>{recipe.time.preparation}min🕒</p>
+                              </div>
+                              <div>
+                                <p className="subtitle">Total:</p>
+                                <p>{recipe.time.total}min🕒</p>
+                              </div>
                             </div>
 
-                            <div className="info-container align-items-center">
+                            <div className="info-container ">
                               {/* Doses */}
                               <div className="d-flex align-items-center">
                                 <p className="subtitle">Doses:</p>
+
                                 {recipe.servings.map((serving, i) => (
                                   <p key={i} className="serving-item">
                                     {serving}
                                   </p>
                                 ))}
                               </div>
-
-                              {/* Rates */}
-                              <p className="rate">⭐ {recipe.rate}</p>
                             </div>
                           </div>
                         </div>

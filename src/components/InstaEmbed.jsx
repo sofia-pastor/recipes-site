@@ -1,29 +1,41 @@
 import { useEffect } from "react";
 
-export default function InstaEmbed({ url, videoTitle }) {
+export default function InstaEmbed({ videos }) {
   useEffect(() => {
     // Depois de o componente aparecer no ecrã, pedimos ao Instagram
     // para processar os <blockquote> e transformá-los em embeds
     if (window.instgrm && window.instgrm.Embeds) {
       window.instgrm.Embeds.process();
     }
-  }, []); // [] = só corre uma vez quando o componente monta
+  }, [videos]); // [] = só corre uma vez quando o componente monta
 
-  console.log(videoTitle);
-  let titleElement = null;
+  let embedsData = [];
 
-  if (videoTitle) {
-    titleElement = <h5 className="insta-title">{videoTitle}</h5>;
+  if (videos && videos.length > 0) {
+    embedsData = videos.map(function (video) {
+      return {
+        url: video.url,
+        titleElement: video.title,
+      };
+    });
   }
 
+  // 2️⃣ JSX só renderiza
   return (
-    <div className="insta-embed-wrapper">
-      {titleElement}
-      <blockquote
-        className="instagram-media"
-        data-instgrm-permalink={url}
-        data-instgrm-version="14"
-      ></blockquote>
+    <div className="insta-embed-section">
+      {embedsData.map(function (embed) {
+        return (
+          <div key={embed.url} className="insta-embed-wrapper">
+            <h5>{embed.titleElement}</h5>
+
+            <blockquote
+              className="instagram-media"
+              data-instgrm-permalink={embed.url}
+              data-instgrm-version="14"
+            />
+          </div>
+        );
+      })}
     </div>
   );
 }
