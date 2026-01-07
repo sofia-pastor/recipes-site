@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 
-import "../styles/RecipesIndex.css";
+import "../styles/recipesIndex.css";
 
 export default function RecipesIndex({ tagNames }) {
   const [value, setValue] = useState("");
