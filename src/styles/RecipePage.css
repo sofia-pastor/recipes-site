@@ -14,31 +14,6 @@ h2 {
   margin: 110px 0 30px;
 }
 
-.recipes-index-container {
-  position: sticky;
-  top: 70px; /* MESMO valor ou ligeiramente maior que a navbar */
-  z-index: 900; /* abaixo da navbar, acima do conteúdo */
-  background-color: var(
-    --secondary-background-color
-  ); /* a cor do fundo, para ficar “sólido” por trás dos links */
-  padding: 8px 0;
-  opacity: 0.9;
-  border-bottom: 3px solid var(--primary-border-color);
-  border-top: 4px solid var(--primary-border-color);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.13);
-}
-
-.recipes-index {
-  max-width: 1400px;
-  display: flex;
-  flex-wrap: wrap;
-  column-gap: 22px;
-  list-style: none;
-  padding: 0;
-  margin: 15px auto 10px;
-  justify-content: center;
-}
-
 .recipe-section {
   max-width: 1000px;
   margin: 0 auto;
