@@ -1,7 +1,7 @@
 import { Routes, Route, Link } from "react-router-dom";
 
 import Navbar from "./components/navbar";
-import RecipePage from "./components/RecipePage";
+import RecipePage from "./pages/RecipePage";
 import InstaEmbed from "./components/InstaEmbed";
 
 import "./App.css";
