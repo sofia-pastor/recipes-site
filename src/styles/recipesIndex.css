@@ -54,14 +54,4 @@ input::placeholder {
   padding: 0;
   margin: 15px auto 10px;
   justify-content: center;
-  overflow: hidden;
-  transition: max-height 0.25s ease, opacity 0.2s ease;
-  max-height: 1000px; /* valor alto suficiente */
-  opacity: 1;
-}
-
-.recipes-index.is-hidden {
-  max-height: 0;
-  opacity: 0;
-  pointer-events: none;
 }
